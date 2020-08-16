@@ -1,0 +1,13 @@
+{
+    "id": "kodi",
+    "ver": "18.8",
+    "arch": {
+        "32bit": "https://mirrors.kodi.tv/releases/windows/win32/kodi-18.8-Leia-x86.exe",
+        "64bit": "https://mirrors.kodi.tv/releases/windows/win64/kodi-18.8-Leia-x64.exe"
+    },
+    "sha256": {
+        "32bit": "e8565a07ce8f1948bafd629460d73f17ea7791da488b24b7a935c6f19f2ab511",
+        "64bit": "4b19cc378e4ed0d3149b54d827ef767e6c1f4a51e08cc8e475578a70f6e4177a"
+    },
+    "args": "/S"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "vlc",
+    "ver": "3.0.11",
+    "arch": {
+        "32bit": "https://download.videolan.org/pub/videolan/vlc/last/win32/vlc-3.0.11-win32.exe",
+        "64bit": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.11-win64.exe"
+    },
+    "sha256": {
+        "32bit": "86a95690916f9f5b86593ef3f146c101d11f5d5e55670613bf88211ca3036aca",
+        "64bit": "2e41f1959ad77c34746715da5027c5ed554c35361397c9984a9ef78bc0b5e937"
+    }
+}

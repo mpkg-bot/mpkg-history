@@ -1,0 +1,10 @@
+{
+    "id": "wireguard",
+    "ver": "0.1.1",
+    "arch": {
+        "32bit": "https://download.wireguard.com/windows-client/wireguard-x86-0.1.1.msi",
+        "64bit": "https://download.wireguard.com/windows-client/wireguard-amd64-0.1.1.msi"
+    },
+    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-0.1.1.html",
+    "args": "/qn /norestart"
+}

@@ -1,0 +1,10 @@
+{
+    "id": "nomacs",
+    "ver": "3.16",
+    "date": "2020-07-17",
+    "arch": {
+        "64bit": "https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi"
+    },
+    "changelog": "https://github.com/nomacs/nomacs/releases/latest",
+    "args": "/quiet /norestart"
+}

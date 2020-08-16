@@ -1,0 +1,12 @@
+{
+    "id": "dig.portable",
+    "ver": "9.16.5",
+    "date": "2020-07-01",
+    "arch": {
+        "64bit": "https://downloads.isc.org/isc/bind9/9.16.5/BIND9.16.5.x64.zip"
+    },
+    "changelog": "https://downloads.isc.org/isc/bind9/9.16.5/RELEASE-NOTES-bind-9.16.5.html",
+    "bin": [
+        "dig.exe"
+    ]
+}

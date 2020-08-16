@@ -1,0 +1,11 @@
+{
+    "id": "vcredist2008-x64",
+    "ver": "9.0.30729",
+    "sha256": [
+        "b811f2c047a3e828517c234bd4aa4883e1ec591d88fad21289ae68a6915a6665"
+    ],
+    "links": [
+        "https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe"
+    ],
+    "args": "/quiet /norestart"
+}

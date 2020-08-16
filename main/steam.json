@@ -1,0 +1,9 @@
+{
+    "id": "steam",
+    "ver": "nightly",
+    "links": [
+        "https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
+    ],
+    "description": "The ultimate entertainment platform.",
+    "homepage": "https://store.steampowered.com/"
+}

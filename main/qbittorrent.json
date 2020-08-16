@@ -1,0 +1,11 @@
+{
+    "id": "qbittorrent",
+    "ver": "4.2.5",
+    "date": "2020-04-25",
+    "arch": {
+        "32bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.2.5/qbittorrent_4.2.5_setup.exe",
+        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.2.5/qbittorrent_4.2.5_x64_setup.exe"
+    },
+    "changelog": "https://www.qbittorrent.org/news.php",
+    "args": "/S"
+}

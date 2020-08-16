@@ -1,0 +1,11 @@
+{
+    "id": "vcredist2012-x86",
+    "ver": "11.0.61030",
+    "sha256": [
+        "b924ad8062eaf4e70437c8be50fa612162795ff0839479546ce907ffa8d6e386"
+    ],
+    "links": [
+        "https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x86.exe"
+    ],
+    "args": "/quiet /norestart"
+}

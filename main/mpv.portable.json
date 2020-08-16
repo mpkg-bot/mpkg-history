@@ -1,0 +1,13 @@
+{
+    "id": "mpv.portable",
+    "ver": "0.32.0",
+    "date": "2020-01-27",
+    "arch": {
+        "64bit": "https://downloads.sourceforge.net/project/mpv-player-windows/stable/mpv-0.32.0-x86_64.7z",
+        "32bit": "https://downloads.sourceforge.net/project/mpv-player-windows/stable/mpv-0.32.0-i686.7z"
+    },
+    "changelog": "https://github.com/mpv-player/mpv/releases",
+    "bin": [
+        "mpv.com"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "gimp",
+    "ver": "2.10.20_1",
+    "sha256": [
+        "430b1a709cd89b5cddb857032a7a5b93199d076ff8cd83ebdd0112330b65ba51"
+    ],
+    "links": [
+        "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.20-setup-1.exe"
+    ],
+    "changelog": "https://www.gimp.org/release-notes/",
+    "args": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES /SP-"
+}

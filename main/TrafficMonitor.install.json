@@ -1,0 +1,17 @@
+{
+    "id": "TrafficMonitor.install",
+    "ver": "1.79.1",
+    "date": "2020-08-05",
+    "arch": {
+        "64bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.79.1/TrafficMonitor_V1.79.1_x64.7z",
+        "32bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.79.1/TrafficMonitor_V1.79.1_x86.7z"
+    },
+    "changelog": "https://github.com/zhongyang219/TrafficMonitor/releases/latest",
+    "bin": [
+        "MPKG-PORTABLE"
+    ],
+    "cmd": {
+        "start": "taskkill /im TrafficMonitor.exe /t >nul",
+        "end": "cd /d \"{root}\" && start TrafficMonitor.exe"
+    }
+}

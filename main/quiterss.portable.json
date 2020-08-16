@@ -1,0 +1,12 @@
+{
+    "id": "quiterss.portable",
+    "ver": "0.19.4",
+    "date": "2020-04-21",
+    "links": [
+        "https://quiterss.org/files/0.19.4_/QuiteRSS-0.19.4.zip"
+    ],
+    "changelog": "https://quiterss.org/en/history",
+    "bin": [
+        "MPKGLNK||QuiteRSS.exe"
+    ]
+}

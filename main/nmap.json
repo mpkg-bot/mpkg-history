@@ -1,0 +1,9 @@
+{
+    "id": "nmap",
+    "ver": "7.80",
+    "links": [
+        "https://nmap.org/dist/nmap-7.80-setup.exe"
+    ],
+    "changelog": "https://nmap.org/changelog.html",
+    "args": "/S"
+}

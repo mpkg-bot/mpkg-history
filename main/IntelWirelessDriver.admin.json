@@ -1,0 +1,17 @@
+{
+    "id": "IntelWirelessDriver.admin",
+    "ver": "21.110.1",
+    "date": "2020-08-04",
+    "links": [
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_PROSet64.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_PROSet32.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_Driver64_Win8.1.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_Driver64_Win7.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_Driver32_Win8.1.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.40.5_Driver32_Win7.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.110.1_all.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.110.1_Driver64_Win10.zip",
+        "https://downloadmirror.intel.com/29787/a08/WiFi_21.110.1_Driver32_Win10.zip"
+    ],
+    "changelog": "https://downloadcenter.intel.com/download/29787/Intel-PROSet-Wireless-Software-and-Drivers-for-IT-Admins"
+}

@@ -1,0 +1,11 @@
+{
+    "id": "vcredist2005-x86",
+    "ver": "8.1.0.20160118",
+    "sha256": [
+        "sha1:b8fab0bb7f62a24ddfe77b19cd9a1451abd7b847"
+    ],
+    "links": [
+        "https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE"
+    ],
+    "args": "/quiet /norestart"
+}

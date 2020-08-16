@@ -1,0 +1,15 @@
+{
+    "id": "iperf3",
+    "ver": "3.1.3",
+    "arch": {
+        "32bit": "https://iperf.fr/download/windows/iperf-3.1.3-win32.zip",
+        "64bit": "https://iperf.fr/download/windows/iperf-3.1.3-win64.zip"
+    },
+    "sha256": {
+        "32bit": "b3f8e262c17a000a30bf4f2135dfed644587cf2ec649f878aea8e9de51ffc8f2",
+        "64bit": "3c3db693c1bdcc902ca9198fc716339373658233b3392ffe3d467f7695762cd1"
+    },
+    "bin": [
+        "iperf3.exe"
+    ]
+}

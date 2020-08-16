@@ -1,0 +1,10 @@
+{
+    "id": "brave",
+    "ver": "1.4.96",
+    "arch": {
+        "64bit": "https://github.com/brave/brave-browser/releases/download/v1.4.96/brave_installer-x64.exe",
+        "32bit": "https://github.com/brave/brave-browser/releases/download/v1.4.96/brave_installer-ia32.exe"
+    },
+    "description": "Secure, Fast & Private Web Browser with Adblocker",
+    "homepage": "https://brave.com"
+}

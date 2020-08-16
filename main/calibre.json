@@ -1,0 +1,11 @@
+{
+    "id": "calibre",
+    "ver": "4.22.0",
+    "date": "2020-07-31",
+    "arch": {
+        "32bit": "https://download.calibre-ebook.com/4.22.0/calibre-4.22.0.msi",
+        "64bit": "https://download.calibre-ebook.com/4.22.0/calibre-64bit-4.22.0.msi"
+    },
+    "changelog": "https://calibre-ebook.com/whats-new",
+    "args": "/quiet"
+}

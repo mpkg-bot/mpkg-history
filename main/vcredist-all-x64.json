@@ -1,0 +1,14 @@
+{
+    "id": "vcredist-all-x64",
+    "ver": "vc2019",
+    "depends": [
+        "vcredist2005-x64",
+        "vcredist2008-x64",
+        "vcredist2010-x64",
+        "vcredist2012-x64",
+        "vcredist2013-x64",
+        "vcredist2015-x64",
+        "vcredist2017-x64",
+        "vcredist2019-x64"
+    ]
+}

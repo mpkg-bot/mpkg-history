@@ -1,0 +1,13 @@
+{
+    "id": "aria2",
+    "ver": "1.35.0",
+    "date": "2019-10-06",
+    "arch": {
+        "32bit": "https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0-win-32bit-build1.zip",
+        "64bit": "https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0-win-64bit-build1.zip"
+    },
+    "changelog": "https://github.com/aria2/aria2/releases",
+    "bin": [
+        "aria2c.exe"
+    ]
+}
