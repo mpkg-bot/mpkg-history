@@ -9,7 +9,7 @@ from mpkg.load import Load
 
 for repo in ['main', 'extras']:
     os.system(
-        f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/{repo}.json')
+        f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/{repo}.json -O {repo}.json')
     softs = Load(f'{repo}.json')[0]
     root = Path(repo)
     if not root.exists():
