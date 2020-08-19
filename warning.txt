@@ -1,1 +1,1 @@
-no history file: scoop.json
+pass
