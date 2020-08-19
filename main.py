@@ -18,4 +18,4 @@ for repo in ['main', 'extras']:
         with open(root/(soft['id']+'.json'), 'w', encoding='utf8') as f:
             f.write(json.dumps(soft, indent=4))
 
-os.system(f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/warning.txt')
+os.system(f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/warning.txt -O warning.txt')
