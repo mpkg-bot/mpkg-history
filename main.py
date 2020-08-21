@@ -7,9 +7,14 @@ from pathlib import Path
 
 from mpkg.load import Load
 
-for repo in ['main', 'extras']:
+for repo in ['main', 'extras', 'scoop']:
+    filename = f'{repo}.json'
     os.system(
-        f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/{repo}.json -O {repo}.json')
+        f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/{filename} -O {filename}')
+    os.system(
+        f'if [ -n "$(git diff {filename})" ]; then echo "$(date +%y%m%d)" > {filename}.ver; fi')
+
+for repo in ['main', 'extras']:
     softs = Load(f'{repo}.json')[0]
     root = Path(repo)
     if not root.exists():
