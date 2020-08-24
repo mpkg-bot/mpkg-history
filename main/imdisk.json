@@ -1,0 +1,16 @@
+{
+    "id": "imdisk",
+    "ver": "20200727",
+    "date": "2020-07-27",
+    "arch": {
+        "32bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20200727/ImDiskTk.zip",
+        "64bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20200727/ImDiskTk-x64.zip"
+    },
+    "changelog": "https://sourceforge.net/projects/imdisk-toolkit/files/",
+    "bin": [
+        "MPKG-PORTABLE"
+    ],
+    "cmd": {
+        "end": "\"{root}\\install.bat\"\necho please execute rmdir /s /q \"{root}\" after installtion"
+    }
+}

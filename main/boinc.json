@@ -1,0 +1,8 @@
+{
+    "id": "boinc",
+    "ver": "7.16.7",
+    "arch": {
+        "64bit": "https://boinc.berkeley.edu/dl/boinc_7.16.7_windows_x86_64.exe"
+    },
+    "changelog": "https://boinc.berkeley.edu/wiki/Release_Notes"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "tcping",
+    "ver": "c17",
+    "date": "2020-08-23",
+    "arch": {
+        "32bit": "https://github.com/zpcc/tcping/releases/download/c17/tcping-windows-386-c17.zip",
+        "64bit": "https://github.com/zpcc/tcping/releases/download/c17/tcping-windows-amd64-c17.zip"
+    },
+    "bin": [
+        "tcping.exe"
+    ]
+}

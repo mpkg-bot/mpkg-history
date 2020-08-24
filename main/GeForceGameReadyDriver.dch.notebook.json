@@ -1,0 +1,10 @@
+{
+    "id": "GeForceGameReadyDriver.dch.notebook",
+    "ver": "452.06",
+    "date": "2020-08-17",
+    "arch": {
+        "64bit": "https://us.download.nvidia.com/Windows/452.06/452.06-notebook-win10-64bit-international-dch-whql.exe"
+    },
+    "changelog": "https://us.download.nvidia.com/Windows/452.06/452.06-win10-win8-win7-release-notes.pdf",
+    "allowExtract": true
+}

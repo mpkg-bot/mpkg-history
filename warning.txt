@@ -1,1 +1,1 @@
-merging winmerge2011_scoop
+deprecate winmerge2011_scoop
