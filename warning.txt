@@ -1,1 +1,1 @@
-deprecate winmerge2011_scoop
+pass
