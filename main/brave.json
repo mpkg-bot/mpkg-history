@@ -1,10 +1,8 @@
 {
     "id": "brave",
-    "ver": "1.4.96",
+    "date": "2020-08-27",
     "arch": {
-        "64bit": "https://github.com/brave/brave-browser/releases/download/v1.4.96/brave_installer-x64.exe",
-        "32bit": "https://github.com/brave/brave-browser/releases/download/v1.4.96/brave_installer-ia32.exe"
-    },
-    "description": "Secure, Fast & Private Web Browser with Adblocker",
-    "homepage": "https://brave.com"
+        "64bit": "https://github.com/brave/brave-browser/releases/download/v1.13.82/BraveBrowserStandaloneSilentSetup.exe",
+        "32bit": "https://github.com/brave/brave-browser/releases/download/v1.13.82/BraveBrowserStandaloneSilentSetup32.exe"
+    }
 }
