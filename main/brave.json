@@ -1,5 +1,6 @@
 {
     "id": "brave",
+    "ver": "1.13.82",
     "date": "2020-08-27",
     "arch": {
         "64bit": "https://github.com/brave/brave-browser/releases/download/v1.13.82/BraveBrowserStandaloneSilentSetup.exe",
