@@ -1,1 +1,1 @@
-merging sql-workbench_scoop
+deprecate sql-workbench_scoop
