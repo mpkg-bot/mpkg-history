@@ -1,2 +1,1 @@
-no data: ffmpeg
-merging ffmpeg
+deprecate moonscript_scoop
