@@ -1,1 +1,1 @@
-deprecate moonscript_scoop
+pass
