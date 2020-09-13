@@ -1,3 +1,2 @@
-merging station_scoop
-merging shinjiru_scoop
-deprecate ibmcloud-cli_scoop
+deprecate station_scoop
+deprecate shinjiru_scoop
