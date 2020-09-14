@@ -1,2 +1,1 @@
-deprecate station_scoop
-deprecate shinjiru_scoop
+pass
