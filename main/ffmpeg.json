@@ -1,10 +1,9 @@
 {
     "id": "ffmpeg",
     "ver": "4.3.1",
-    "date": "2020-08-04",
+    "date": "2020-09-16",
     "arch": {
-        "32bit": "https://ffmpeg.zeranoe.com/builds/win32/static/ffmpeg-4.3.1-win32-static.zip",
-        "64bit": "https://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-4.3.1-win64-static.zip"
+        "64bit": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-4.3.1-full_build.zip"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
