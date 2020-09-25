@@ -1,9 +1,9 @@
 {
     "id": "ffmpeg",
     "ver": "4.3.1",
-    "date": "2020-09-16",
+    "date": "2020-09-21",
     "arch": {
-        "64bit": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-4.3.1-full_build.zip"
+        "64bit": "https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-4.3.1-2020-09-21-full_build.zip"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
