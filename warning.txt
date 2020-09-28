@@ -1,2 +1,2 @@
-merging apex_scoop
-merging procyon_scoop
+deprecate apex_scoop
+deprecate procyon_scoop
