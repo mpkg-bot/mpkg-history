@@ -1,0 +1,10 @@
+{
+    "id": "python3.9",
+    "ver": "3.9.0",
+    "date": "2020-10-05",
+    "arch": {
+        "32bit": "https://www.python.org/ftp/python/3.9.0/python-3.9.0.exe",
+        "64bit": "https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe"
+    },
+    "changelog": "https://docs.python.org/release/3.9.0/whatsnew/changelog.html#changelog"
+}
