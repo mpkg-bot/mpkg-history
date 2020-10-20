@@ -1,7 +1,7 @@
 {
     "id": "qbittorrent",
     "ver": "4.3.0",
-    "date": "< 23 hours ago",
+    "date": "2020-10-18",
     "arch": {
         "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.0/qbittorrent_4.3.0_x64_setup.exe",
         "32bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.0/qbittorrent_4.3.0_setup.exe"
