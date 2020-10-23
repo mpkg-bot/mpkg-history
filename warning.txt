@@ -1,3 +1,1 @@
-no data: 7zip
-merging 7zip
-merging sysguage_scoop
+deprecate sysguage_scoop
