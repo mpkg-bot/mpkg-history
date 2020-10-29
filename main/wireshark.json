@@ -1,10 +1,10 @@
 {
     "id": "wireshark",
-    "ver": "3.2.7",
+    "ver": "3.4.0",
     "arch": {
-        "32bit": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.2.7.exe",
-        "64bit": "https://1.na.dl.wireshark.org/win64/Wireshark-win64-3.2.7.exe"
+        "32bit": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-3.4.0.exe",
+        "64bit": "https://1.na.dl.wireshark.org/win64/Wireshark-win64-3.4.0.exe"
     },
-    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-3.2.7.html",
+    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-3.4.0.html",
     "args": "/S /quicklaunchicon=no"
 }

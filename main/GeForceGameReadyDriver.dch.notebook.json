@@ -1,10 +1,10 @@
 {
     "id": "GeForceGameReadyDriver.dch.notebook",
-    "ver": "456.71",
-    "date": "2020-10-07",
+    "ver": "457.09",
+    "date": "2020-10-29",
     "arch": {
-        "64bit": "https://us.download.nvidia.com/Windows/456.71/456.71-notebook-win10-64bit-international-dch-whql.exe"
+        "64bit": "https://us.download.nvidia.com/Windows/457.09/457.09-notebook-win10-64bit-international-dch-whql.exe"
     },
-    "changelog": "https://us.download.nvidia.com/Windows/456.71/456.71-win10-win8-win7-release-notes.pdf",
+    "changelog": "https://us.download.nvidia.com/Windows/457.09/457.09-win10-win8-win7-release-notes.pdf",
     "allowExtract": true
 }
