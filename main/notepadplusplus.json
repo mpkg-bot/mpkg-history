@@ -1,14 +1,14 @@
 {
     "id": "notepadplusplus",
-    "ver": "7.9",
-    "date": "2020-09-27",
+    "ver": "7.9.1",
+    "date": "2020-11-02",
     "arch": {
-        "32bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe",
-        "64bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.x64.exe"
+        "32bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.1/npp.7.9.1.Installer.exe",
+        "64bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9.1/npp.7.9.1.Installer.x64.exe"
     },
     "sha256": {
-        "32bit": "4747b67f7e2ca69b3ee829fa22b01fc61f500fba530ff928e31a3d5c62be7ffa",
-        "64bit": "d5f578c41ca34862fc7f1628cf166f2d5843eb15fdc83da6cfc0909cb437e6fe"
+        "32bit": "f7ea8518e21e42f500684c3be35bfa10d1dff17d7343a67d310ff0afcc465621",
+        "64bit": "751d3634a76ea518f6e0a63575aac8d6a384eacf789f40eac6becf8dc859840b"
     },
     "changelog": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases",
     "args": "/S"
