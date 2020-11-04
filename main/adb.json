@@ -1,9 +1,9 @@
 {
     "id": "adb",
-    "ver": "30.0.4",
-    "date": "2020-07-01",
+    "ver": "30.0.5",
+    "date": "2020-11-01",
     "links": [
-        "https://dl.google.com/android/repository/platform-tools_r30.0.4-windows.zip"
+        "https://dl.google.com/android/repository/platform-tools_r30.0.5-windows.zip"
     ],
     "changelog": "https://developer.android.com/studio/releases/platform-tools?hl=en",
     "bin": [
