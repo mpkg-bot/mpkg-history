@@ -1,10 +1,10 @@
 {
     "id": "calibre",
-    "ver": "5.4.2",
-    "date": "2020-10-30",
+    "ver": "5.5.0",
+    "date": "2020-11-13",
     "arch": {
-        "32bit": "https://download.calibre-ebook.com/5.4.2/calibre-5.4.2.msi",
-        "64bit": "https://download.calibre-ebook.com/5.4.2/calibre-64bit-5.4.2.msi"
+        "32bit": "https://download.calibre-ebook.com/5.5.0/calibre-5.5.0.msi",
+        "64bit": "https://download.calibre-ebook.com/5.5.0/calibre-64bit-5.5.0.msi"
     },
     "changelog": "https://calibre-ebook.com/whats-new",
     "args": "/quiet"
