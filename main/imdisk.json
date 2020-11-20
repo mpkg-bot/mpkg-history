@@ -1,10 +1,10 @@
 {
     "id": "imdisk",
-    "ver": "20200727",
-    "date": "2020-07-27",
+    "ver": "20201120",
+    "date": "2020-11-20",
     "arch": {
-        "32bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20200727/ImDiskTk.zip",
-        "64bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20200727/ImDiskTk-x64.zip"
+        "32bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20201120/ImDiskTk.zip",
+        "64bit": "https://downloads.sourceforge.net/project/imdisk-toolkit/20201120/ImDiskTk-x64.zip"
     },
     "changelog": "https://sourceforge.net/projects/imdisk-toolkit/files/",
     "bin": [
