@@ -1,1 +1,3 @@
-pass
+failed: GeForceGameReadyDriver.dch.notebook|veracrypt
+merging GeForceGameReadyDriver.dch.notebook
+merging veracrypt
