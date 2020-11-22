@@ -1,3 +1,6 @@
-failed: GeForceGameReadyDriver.dch.notebook|veracrypt
-merging GeForceGameReadyDriver.dch.notebook
-merging veracrypt
+failed: IntelWirelessDriver.admin
+deprecate GeForceGameReadyDriver.dch.notebook
+deprecate veracrypt
+merging IntelWirelessDriver.admin
+deprecate GeForceGameReadyDriver.dch.notebook
+deprecate veracrypt
