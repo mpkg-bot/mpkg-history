@@ -1,6 +1,1 @@
-failed: IntelWirelessDriver.admin
-deprecate GeForceGameReadyDriver.dch.notebook
-deprecate veracrypt
-merging IntelWirelessDriver.admin
-deprecate GeForceGameReadyDriver.dch.notebook
-deprecate veracrypt
+pass
