@@ -1,10 +1,10 @@
 {
     "id": "curl",
-    "ver": "7.73.0_1",
+    "ver": "7.73.0_3",
     "date": "2020-10-14",
     "arch": {
-        "32bit": "https://curl.haxx.se/windows/dl-7.73.0_1/curl-7.73.0_1-win32-mingw.zip",
-        "64bit": "https://curl.haxx.se/windows/dl-7.73.0_1/curl-7.73.0_1-win64-mingw.zip"
+        "32bit": "https://curl.haxx.se/windows/dl-7.73.0_3/curl-7.73.0_3-win32-mingw.zip",
+        "64bit": "https://curl.haxx.se/windows/dl-7.73.0_3/curl-7.73.0_3-win64-mingw.zip"
     },
     "changelog": "https://curl.haxx.se/changes.html",
     "bin": [
