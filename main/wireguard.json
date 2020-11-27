@@ -1,10 +1,10 @@
 {
     "id": "wireguard",
-    "ver": "0.3.1",
+    "ver": "0.3.2",
     "arch": {
-        "32bit": "https://download.wireguard.com/windows-client/wireguard-x86-0.3.1.msi",
-        "64bit": "https://download.wireguard.com/windows-client/wireguard-amd64-0.3.1.msi"
+        "32bit": "https://download.wireguard.com/windows-client/wireguard-x86-0.3.2.msi",
+        "64bit": "https://download.wireguard.com/windows-client/wireguard-amd64-0.3.2.msi"
     },
-    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-0.3.1.html",
+    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-0.3.2.html",
     "args": "/qn /norestart"
 }
