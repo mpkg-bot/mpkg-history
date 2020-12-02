@@ -1,17 +1,17 @@
 {
     "id": "IntelWirelessDriver.admin",
-    "ver": "22.0.0",
-    "date": "2020-10-20",
+    "ver": "22.10.0",
+    "date": "2020-12-01",
     "links": [
-        "https://downloadmirror.intel.com/29903/eng/WiFi_22.0.0_Driver64_Win10.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_22.0.0_all.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_22.0.0_Driver32_Win10.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_PROSet64.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_PROSet32.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_Driver64_Win8.1.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_Driver64_Win7.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_Driver32_Win8.1.zip",
-        "https://downloadmirror.intel.com/29903/a08/WiFi_21.40.5_Driver32_Win7.zip"
+        "https://downloadmirror.intel.com/30056/a08/WiFi_22.10.0_Driver64_Win10.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_22.10.0_Driver32_Win10.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_22.10.0_All.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_PROSet64.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_PROSet32.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_Driver64_Win8.1.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_Driver64_Win7.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_Driver32_Win8.1.zip",
+        "https://downloadmirror.intel.com/30056/a08/WiFi_21.40.5_Driver32_Win7.zip"
     ],
     "changelog": "https://downloadcenter.intel.com/download/29816/Intel-PROSet-Wireless-Software-and-Drivers-for-IT-Admins"
 }
