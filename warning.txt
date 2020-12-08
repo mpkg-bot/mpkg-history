@@ -1,2 +1,3 @@
-failed: veracrypt
+failed: IntelWirelessDriver.admin|veracrypt
+merging IntelWirelessDriver.admin
 merging veracrypt
