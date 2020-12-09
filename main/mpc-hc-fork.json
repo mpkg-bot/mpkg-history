@@ -3,7 +3,7 @@
     "ver": "Build",
     "date": "2020-11-07",
     "arch": {
-        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.8.26/MPC-HC.1.9.8.65.x64.exe"
+        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.8.26/MPC-HC.1.9.8.75.x64.exe"
     },
     "changelog": "https://github.com/clsid2/mpc-hc/releases"
 }
