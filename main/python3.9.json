@@ -1,7 +1,7 @@
 {
     "id": "python3.9",
     "ver": "3.9.1",
-    "date": "2020-11-26",
+    "date": "2020-12-07",
     "arch": {
         "32bit": "https://www.python.org/ftp/python/3.9.1/python-3.9.1.exe",
         "64bit": "https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe"
