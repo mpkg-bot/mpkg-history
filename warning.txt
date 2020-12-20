@@ -1,2 +1,7 @@
-failed: veracrypt
+failed: 7zip|veracrypt|mpv.portable|ultradefrag|qbittorrent|imdisk
+merging 7zip
+merging mpv.portable
+merging ultradefrag
+merging qbittorrent
+merging imdisk
 merging veracrypt
