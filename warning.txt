@@ -1,2 +1,3 @@
-failed: veracrypt
+failed: veracrypt|virtualbox
+merging virtualbox
 merging veracrypt
