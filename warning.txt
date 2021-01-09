@@ -1,3 +1,2 @@
-failed: veracrypt|wget
-merging wget
+failed: veracrypt
 merging veracrypt

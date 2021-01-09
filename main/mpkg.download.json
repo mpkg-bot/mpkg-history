@@ -1,9 +1,9 @@
 {
     "id": "mpkg.download",
-    "ver": "0.0.8",
-    "date": "2020-08-26",
+    "ver": "0.0.9",
+    "date": "2021-01-09",
     "arch": {
-        "32bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.8/mpkg-win32.zip",
-        "64bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.8/mpkg-win64.zip"
+        "32bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.9/mpkg-win32.zip",
+        "64bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.9/mpkg-win64.zip"
     }
 }
