@@ -1,3 +1,4 @@
 failed: veracrypt
 merging veracrypt
-deprecate veonim_scoop
+merging fadetop_scoop
+merging dbgl_scoop
