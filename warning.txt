@@ -1,4 +1,4 @@
 failed: veracrypt
 merging veracrypt
-merging fadetop_scoop
-merging dbgl_scoop
+deprecate fadetop_scoop
+deprecate dbgl_scoop
