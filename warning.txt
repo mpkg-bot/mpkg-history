@@ -1,4 +1,3 @@
-failed: veracrypt
+failed: vlc|veracrypt
+merging vlc
 merging veracrypt
-deprecate fadetop_scoop
-deprecate dbgl_scoop
