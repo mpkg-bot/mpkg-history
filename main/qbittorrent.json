@@ -1,10 +1,10 @@
 {
     "id": "qbittorrent",
-    "ver": "4.3.2",
-    "date": "2020-12-27",
+    "ver": "4.3.3",
+    "date": "2021-01-19",
     "arch": {
-        "32bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.2/qbittorrent_4.3.2_setup.exe",
-        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.2/qbittorrent_4.3.2_x64_setup.exe"
+        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.3/qbittorrent_4.3.3_x64_setup.exe",
+        "32bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.3/qbittorrent_4.3.3_setup.exe"
     },
     "changelog": "https://www.qbittorrent.org/news.php",
     "args": "/S"
