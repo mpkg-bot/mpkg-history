@@ -1,4 +1,4 @@
 failed: veracrypt
 merging veracrypt
-merging subinacl_scoop
-merging shortcut_scoop
+deprecate subinacl_scoop
+deprecate shortcut_scoop
