@@ -6,5 +6,9 @@
         "32bit": "https://www.python.org/ftp/python/3.8.7/python-3.8.7.exe",
         "64bit": "https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe"
     },
+    "sha256": {
+        "32bit": "md5:ed99dc2ec9057a60ca3591ccce29e9e4",
+        "64bit": "md5:325ec7acd0e319963b505aea877a23a4"
+    },
     "changelog": "https://docs.python.org/release/3.8.7/whatsnew/changelog.html#changelog"
 }

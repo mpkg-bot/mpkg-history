@@ -6,5 +6,9 @@
         "32bit": "https://www.python.org/ftp/python/3.9.1/python-3.9.1.exe",
         "64bit": "https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe"
     },
+    "sha256": {
+        "32bit": "md5:dde210ea04a31c27488605a9e7cd297a",
+        "64bit": "md5:b3fce2ed8bc315ad2bc49eae48a94487"
+    },
     "changelog": "https://docs.python.org/release/3.9.1/whatsnew/changelog.html#changelog"
 }
