@@ -1,2 +1,5 @@
-failed: veracrypt
+failed: veracrypt|python-stable
+merging python3.9
+merging python3.8
+merging python-stable
 merging veracrypt
