@@ -1,5 +1,6 @@
-failed: veracrypt|python-stable
-merging python3.9
-merging python3.8
-merging python-stable
+failed: veracrypt
+deprecate python3.9
+deprecate python3.8
+deprecate python3.9
+deprecate python3.8
 merging veracrypt
