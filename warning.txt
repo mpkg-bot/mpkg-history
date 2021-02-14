@@ -1,6 +1,2 @@
 failed: veracrypt
-deprecate python3.9
-deprecate python3.8
-deprecate python3.9
-deprecate python3.8
 merging veracrypt
