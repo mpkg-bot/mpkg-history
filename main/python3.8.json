@@ -1,14 +1,14 @@
 {
     "id": "python3.8",
-    "ver": "3.8.7",
-    "date": "2020-12-21",
+    "ver": "3.8.8",
+    "date": "2021-02-19",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.8.7/python-3.8.7.exe",
-        "64bit": "https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.8.8/python-3.8.8.exe",
+        "64bit": "https://www.python.org/ftp/python/3.8.8/python-3.8.8-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:ed99dc2ec9057a60ca3591ccce29e9e4",
-        "64bit": "md5:325ec7acd0e319963b505aea877a23a4"
+        "32bit": "md5:94773b062cc8da66e37ea8ba323eb56a",
+        "64bit": "md5:77a54a14239b6d7d0dcbe2e3a507d2f0"
     },
-    "changelog": "https://docs.python.org/release/3.8.7/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.8.8/whatsnew/changelog.html#changelog"
 }
