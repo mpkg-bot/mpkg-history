@@ -1,4 +1,3 @@
 failed: veracrypt|GeForceGameReadyDriver.dch.notebook
 merging GeForceGameReadyDriver.dch.notebook
 merging veracrypt
-deprecate oh-my-posh_scoop
