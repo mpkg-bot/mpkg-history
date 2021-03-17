@@ -3,10 +3,14 @@
     "ver": "7.75.0_4",
     "date": "2021-02-03",
     "arch": {
-        "32bit": "https://curl.haxx.se/windows/dl-7.75.0_4/curl-7.75.0_4-win32-mingw.zip",
-        "64bit": "https://curl.haxx.se/windows/dl-7.75.0_4/curl-7.75.0_4-win64-mingw.zip"
+        "32bit": "https://curl.se/windows/dl-7.75.0_4/curl-7.75.0_4-win32-mingw.zip",
+        "64bit": "https://curl.se/windows/dl-7.75.0_4/curl-7.75.0_4-win64-mingw.zip"
     },
-    "changelog": "https://curl.haxx.se/changes.html",
+    "sha256": {
+        "32bit": "88f51ff1681b152ee344207bd32e43058a0021755b93fdccfd66eaca8c97b300",
+        "64bit": "6690462a9d9eb163f608aaa0797f7b6ab1e91aa2fd4c73868eb156efded36ee9"
+    },
+    "changelog": "https://curl.se/changes.html",
     "bin": [
         "bin\\curl.exe"
     ]

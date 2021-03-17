@@ -1,0 +1,14 @@
+{
+    "id": "nodejs-lts",
+    "ver": "14.16.0",
+    "date": "2021-02-23",
+    "arch": {
+        "32bit": "https://nodejs.org/dist/v14.16.0/node-v14.16.0-x86.msi",
+        "64bit": "https://nodejs.org/dist/v14.16.0/node-v14.16.0-x64.msi"
+    },
+    "sha256": {
+        "32bit": "61d549ed39fc264df9978f824042f3f4cac90a866e933c5088384d5dedf283fe",
+        "64bit": "d9243c9d02f5e4801b8b3ab848f45ce0da2882b5fff448191548ca49af434066"
+    },
+    "changelog": "https://github.com/nodejs/node/tree/master/doc/changelogs"
+}
