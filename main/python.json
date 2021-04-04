@@ -1,9 +1,9 @@
 {
     "id": "python",
-    "ver": "3.9.3",
+    "ver": "3.9.4",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.9.3/python-3.9.3.exe",
-        "64bit": "https://www.python.org/ftp/python/3.9.3/python-3.9.3-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.9.4/python-3.9.4.exe",
+        "64bit": "https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe"
     },
-    "changelog": "https://docs.python.org/release/3.9.3/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.9.4/whatsnew/changelog.html#changelog"
 }
