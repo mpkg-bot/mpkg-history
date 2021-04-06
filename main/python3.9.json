@@ -7,8 +7,8 @@
         "64bit": "https://www.python.org/ftp/python/3.9.4/python-3.9.4-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:f008d17e6beafed3a86eb0f8d13e1850",
-        "64bit": "md5:1a1412dd7c18aa0c7c7e55b00a244844"
+        "32bit": "md5:b790fdaff648f757bf0f233e4d05c053",
+        "64bit": "md5:ebc65aaa142b1d6de450ce241c50e61c"
     },
     "changelog": "https://docs.python.org/release/3.9.4/whatsnew/changelog.html#changelog"
 }
