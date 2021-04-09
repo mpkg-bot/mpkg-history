@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "4.3.2-2021-02-27",
-    "date": "2021-02-28",
+    "ver": "4.4",
+    "date": "2021-04-09",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/4.3.2-2021-02-27/ffmpeg-4.3.2-2021-02-27-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/4.4/ffmpeg-4.4-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "3605f4e4b8f1bcd233a16d6cf8b967e2e0a88ad2d1304f253d504354953e9d4a"
+        "64bit": "4aaf80f0ee78a9eb5a1396742fd51d1624a705bfa7ce263e9b440b8be7db5650"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
