@@ -1,11 +1,11 @@
 {
     "id": "vcredist2019-x64",
-    "ver": "14.28.29914.0",
+    "ver": "14.27.29016.0",
     "sha256": [
-        "52b196bbe9016488c735e7b41805b651261ffa5d7aa86eb6a1d0095be83687b2"
+        "952a0c6cb4a3dd14c3666ef05bb1982c5ff7f87b7103c2ba896354f00651e358"
     ],
     "links": [
-        "https://download.visualstudio.microsoft.com/download/pr/85d47aa9-69ae-4162-8300-e6b7e4bf3cf3/52B196BBE9016488C735E7B41805B651261FFA5D7AA86EB6A1D0095BE83687B2/VC_redist.x64.exe"
+        "https://download.visualstudio.microsoft.com/download/pr/fd5d2eea-32b8-4814-b55e-28c83dd72d9c/952A0C6CB4A3DD14C3666EF05BB1982C5FF7F87B7103C2BA896354F00651E358/VC_redist.x64.exe"
     ],
     "args": "/quiet /norestart"
 }
