@@ -1,15 +1,15 @@
 {
     "id": "sqlitebrowser",
-    "ver": "3.12.1",
-    "date": "2020-11-09",
+    "ver": "3.12.2",
+    "date": "2021-05-17",
     "arch": {
-        "32bit": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.1/DB.Browser.for.SQLite-3.12.1-win32-v2.msi",
-        "64bit": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.1/DB.Browser.for.SQLite-3.12.1-win64-v2.msi"
+        "32bit": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win32.msi",
+        "64bit": "https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.12.2/DB.Browser.for.SQLite-3.12.2-win64.msi"
     },
     "sha256": {
-        "32bit": "6fb72e41cf867e34d1fffdd5b544dc317fbbd25e3c4e56986d62de0c0e46da06",
-        "64bit": "512f68ff998564b6a297ee0910563bd97808ce292bf09a840f097faea9be577e"
+        "32bit": "2b87a0ca1b14f436f2dc2cbfaa380249e754c3c87c81b6648a513f75d3c73368",
+        "64bit": "723d601f125b0d2402d9ea191e4b310345ec52f76b61e117bf49004a2ff9b8ae"
     },
-    "changelog": "https://github.com/sqlitebrowser/sqlitebrowser/releases/v3.12.1",
+    "changelog": "https://github.com/sqlitebrowser/sqlitebrowser/releases/v3.12.2",
     "args": "/qn /norestart"
 }
