@@ -1,12 +1,12 @@
 {
     "id": "vlc",
-    "ver": "3.0.12",
+    "ver": "3.0.14",
     "arch": {
-        "32bit": "https://download.videolan.org/pub/videolan/vlc/last/win32/vlc-3.0.12-win32.exe",
-        "64bit": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.12-win64.exe"
+        "32bit": "https://download.videolan.org/pub/videolan/vlc/last/win32/vlc-3.0.14-win32.exe",
+        "64bit": "https://download.videolan.org/pub/videolan/vlc/last/win64/vlc-3.0.14-win64.exe"
     },
     "sha256": {
-        "32bit": "b6a4e96eb93c7377051982bb453db662b9cbdc62167cc1a90c21ebb53aa4d7c2",
-        "64bit": "5d282d8c3f9f2fb188c191914de80befa6e347c5297fb727d928da941860530f"
+        "32bit": "65ff4c92a821dc52609bf2a276045c1b7ab79ae38217bc8a950e27915c881b43",
+        "64bit": "cf43144bcbbbc5932a1647f4632b533ba52b8a3663b1f18885f000875770536a"
     }
 }
