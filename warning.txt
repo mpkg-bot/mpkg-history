@@ -1,2 +1,5 @@
 failed: veracrypt
 merging veracrypt
+merging node-compiler_scoop
+merging cheat-engine_scoop
+merging fritzing_scoop
