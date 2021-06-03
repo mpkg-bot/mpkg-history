@@ -1,5 +1,2 @@
 failed: veracrypt
 merging veracrypt
-deprecate node-compiler_scoop
-deprecate cheat-engine_scoop
-deprecate fritzing_scoop
