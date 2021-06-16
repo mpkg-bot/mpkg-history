@@ -1,3 +1,3 @@
-failed: veracrypt
+failed: veracrypt|golang
+merging golang
 merging veracrypt
-deprecate bpgconv_scoop
