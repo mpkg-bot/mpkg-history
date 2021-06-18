@@ -1,4 +1,3 @@
-failed: 7zip|veracrypt|golang
-merging 7zip
+failed: veracrypt|golang
 merging golang
 merging veracrypt
