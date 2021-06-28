@@ -1,14 +1,14 @@
 {
     "id": "python3.9",
-    "ver": "3.9.5",
-    "date": "2021-05-03",
+    "ver": "3.9.6",
+    "date": "2021-06-28",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe",
-        "64bit": "https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.9.6/python-3.9.6.exe",
+        "64bit": "https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:b29b19a94bbe498808e5e12c51625dd8",
-        "64bit": "md5:53a354a15baed952ea9519a7f4d87c3f"
+        "32bit": "md5:90987973d91d4e2cddb86c4e0a54ba7e",
+        "64bit": "md5:ac25cf79f710bf31601ed067ccd07deb"
     },
-    "changelog": "https://docs.python.org/release/3.9.5/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.9.6/whatsnew/changelog.html#changelog"
 }
