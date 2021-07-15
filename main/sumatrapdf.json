@@ -1,9 +1,9 @@
 {
     "id": "sumatrapdf",
-    "ver": "3.3",
+    "ver": "3.3.1",
     "arch": {
-        "64bit": "https://www.sumatrapdfreader.orghttps://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3-64-install.exe",
-        "32bit": "https://www.sumatrapdfreader.orghttps://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3-install.exe"
+        "64bit": "https://www.sumatrapdfreader.orghttps://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3.1-64-install.exe",
+        "32bit": "https://www.sumatrapdfreader.orghttps://kjkpubsf.sfo2.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.3.1-install.exe"
     },
     "changelog": "https://www.sumatrapdfreader.org/docs/Version-history.html",
     "args": "/S"
