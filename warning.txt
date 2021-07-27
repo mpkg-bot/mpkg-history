@@ -1,4 +1,24 @@
-failed: golang|dig.portable|veracrypt
+failed: vcredist-all-x64|golang|vcredist-all-x86|dig.portable|veracrypt
+merging vcredist2005-x64
+merging vcredist2008-x64
+merging vcredist2010-x64
+merging vcredist2012-x64
+merging vcredist2013-x64
+merging vcredist2015-x64
+merging vcredist2017-x64
+merging vcredist2019-x64
+merging vcredist-all-x64
+ dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
+merging vcredist2005-x86
+merging vcredist2008-x86
+merging vcredist2010-x86
+merging vcredist2012-x86
+merging vcredist2013-x86
+merging vcredist2015-x86
+merging vcredist2017-x86
+merging vcredist2019-x86
+merging vcredist-all-x86
+ dependency: vcredist2005-x86|vcredist2008-x86|vcredist2010-x86|vcredist2012-x86|vcredist2013-x86|vcredist2015-x86|vcredist2017-x86|vcredist2019-x86
 merging dig.portable
 merging golang
 merging veracrypt
