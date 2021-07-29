@@ -1,4 +1,4 @@
-failed: golang|dig.portable|veracrypt
+failed: dig.portable|golang|veracrypt
 merging dig.portable
 merging golang
 merging veracrypt
