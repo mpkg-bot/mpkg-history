@@ -1,10 +1,10 @@
 {
     "id": "mpc-hc-fork",
-    "ver": "1.9.14",
-    "date": "2021-07-02",
+    "ver": "1.9.15",
+    "date": "2021-08-10",
     "arch": {
-        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x64.exe",
-        "32bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.14/MPC-HC.1.9.14.x86.exe"
+        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.15/MPC-HC.1.9.15.x64.exe",
+        "32bit": "https://github.com/clsid2/mpc-hc/releases/download/1.9.15/MPC-HC.1.9.15.x86.exe"
     },
     "changelog": "https://github.com/clsid2/mpc-hc/releases"
 }
