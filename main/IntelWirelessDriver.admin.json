@@ -1,17 +1,17 @@
 {
     "id": "IntelWirelessDriver.admin",
-    "ver": "22.60.0",
-    "date": "2021-07-20",
+    "ver": "22.70.0",
+    "date": "2021-08-25",
     "links": [
-        "https://downloadmirror.intel.com/30567/a08/WiFi_22.60.0_all.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_22.60.0_Driver64_Win10.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_22.60.0_Driver32_Win10.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_PROSet64.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_PROSet32.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_Driver64_Win8.1.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_Driver64_Win7.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_Driver32_Win8.1.zip",
-        "https://downloadmirror.intel.com/30567/a08/WiFi_21.40.5_Driver32_Win7.zip"
+        "https://downloadmirror.intel.com/646221/WiFi_22.70.0_all.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_22.70.0_Driver64_Win10.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_22.70.0_Driver32_Win10.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_PROSet64.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_PROSet32.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_Driver64_Win8.1.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_Driver64_Win7.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_Driver32_Win8.1.zip",
+        "https://downloadmirror.intel.com/646221/WiFi_21.40.5_Driver32_Win7.zip"
     ],
-    "changelog": "https://downloadcenter.intel.com/download/30567/Intel-PROSet-Wireless-Software-and-Drivers-for-I1T-Admins"
+    "changelog": "/content/www/us/en/download/18231/intel-proset-wireless-software-and-drivers-for-it-admins.html"
 }

@@ -2,6 +2,10 @@
     "id": "TrafficMonitor.install",
     "ver": "1.81",
     "date": "2021-07-27",
+    "arch": {
+        "64bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.81/TrafficMonitor_V1.81_x64_without_temperature.zip",
+        "32bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.81/TrafficMonitor_V1.81_x86_without_temperature.zip"
+    },
     "changelog": "https://github.com/zhongyang219/TrafficMonitor/releases/latest",
     "bin": [
         "MPKG-PORTABLE"

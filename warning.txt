@@ -1,5 +1,4 @@
-failed: dig.portable|IntelWirelessDriver.admin|golang|veracrypt
-merging IntelWirelessDriver.admin
-merging dig.portable
-merging golang
+failed: wireguard|veracrypt
+merging wireguard
+merging TrafficMonitor.portable
 merging veracrypt
