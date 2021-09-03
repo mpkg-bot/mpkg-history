@@ -1,4 +1,5 @@
-failed: wireguard|veracrypt
+failed: wireguard|virtualbox
+merging virtualbox
 merging wireguard
-merging TrafficMonitor.portable
-merging veracrypt
+deprecate TrafficMonitor.portable
+merging glogg_scoop
