@@ -1,5 +1,5 @@
-failed: wireguard|virtualbox
-merging virtualbox
+failed: wireguard
 merging wireguard
-deprecate TrafficMonitor.portable
+deprecate openOCD_scoop
+deprecate openocd_scoop
 merging glogg_scoop
