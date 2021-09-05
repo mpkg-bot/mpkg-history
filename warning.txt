@@ -1,5 +1,1 @@
-failed: wireguard
-merging wireguard
-deprecate openOCD_scoop
-deprecate openocd_scoop
-merging glogg_scoop
+deprecate glogg_scoop
