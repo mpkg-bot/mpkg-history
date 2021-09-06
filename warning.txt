@@ -1,1 +1,1 @@
-deprecate glogg_scoop
+pass
