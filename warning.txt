@@ -1,2 +1,1 @@
-merging eagleget-portable_scoop
-deprecate httping_scoop
+deprecate eagleget-portable_scoop
