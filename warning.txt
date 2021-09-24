@@ -1,1 +1,1 @@
-merging throttlestop_scoop
+deprecate throttlestop_scoop
