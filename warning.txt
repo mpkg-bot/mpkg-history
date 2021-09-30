@@ -1,1 +1,1 @@
-merging riot_scoop
+deprecate riot_scoop
