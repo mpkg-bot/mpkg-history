@@ -1,1 +1,1 @@
-deprecate riot_scoop
+pass
