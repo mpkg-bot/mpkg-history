@@ -1,9 +1,9 @@
 {
     "id": "wget",
-    "ver": "1.21.1-1",
+    "ver": "1.21.2",
     "arch": {
-        "32bit": "https://eternallybored.org/misc/wget/releases/wget-1.21.1-1-win32.zip",
-        "64bit": "https://eternallybored.org/misc/wget/releases/wget-1.21.1-1-win64.zip"
+        "32bit": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win32.zip",
+        "64bit": "https://eternallybored.org/misc/wget/releases/wget-1.21.2-win64.zip"
     },
     "changelog": "https://eternallybored.org/misc/wget",
     "bin": [
