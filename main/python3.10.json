@@ -1,9 +1,14 @@
 {
-    "id": "python",
+    "id": "python3.10",
     "ver": "3.10.0",
+    "date": "2021-09-07",
     "arch": {
         "32bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe",
         "64bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe"
+    },
+    "sha256": {
+        "32bit": "md5:133aa48145032e341ad2a000cd3bff50",
+        "64bit": "md5:c3917c08a7fe85db7203da6dcaa99a70"
     },
     "changelog": "https://docs.python.org/release/3.10.0/whatsnew/changelog.html#changelog"
 }
