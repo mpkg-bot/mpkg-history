@@ -1,10 +1,10 @@
 {
     "id": "7zip",
-    "ver": "21.02",
-    "date": "2021-06-30",
+    "ver": "19.00",
+    "date": "2019-02-22",
     "arch": {
-        "64bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/21.02/7z2102-x64.exe",
-        "32bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/21.02/7z2102.exe"
+        "64bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/19.00/7z1900-x64.exe",
+        "32bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/19.00/7z1900.exe"
     },
     "changelog": "https://www.7-zip.org/history.txt",
     "args": "/S"

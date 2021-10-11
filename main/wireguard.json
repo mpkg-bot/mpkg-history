@@ -1,9 +1,9 @@
 {
     "id": "wireguard",
-    "ver": "0.4.10",
+    "ver": "0.4.11",
     "arch": {
-        "32bit": "https://download.wireguard.com/windows-client/wireguard-x86-0.4.10.msi",
-        "64bit": "https://download.wireguard.com/windows-client/wireguard-amd64-0.4.10.msi"
+        "32bit": "https://download.wireguard.com/windows-client/wireguard-x86-0.4.11.msi",
+        "64bit": "https://download.wireguard.com/windows-client/wireguard-amd64-0.4.11.msi"
     },
     "changelog": "https://git.zx2c4.com/wireguard-windows/log/",
     "args": "/qn /norestart"

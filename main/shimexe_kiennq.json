@@ -8,5 +8,8 @@
     "changelog": "https://github.com/kiennq/scoop-better-shimexe/releases/latest",
     "bin": [
         "MPKG-PORTABLE"
-    ]
+    ],
+    "cmd": {
+        "start": "mpkg set shimexe \"%MPKG:files_dir%\\shimexe_kiennq\\shim.exe\""
+    }
 }

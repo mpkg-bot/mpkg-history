@@ -5,6 +5,6 @@
     "arch": {
         "64bit": "https://us.download.nvidia.com/Windows/472.12/472.12-notebook-win10-win11-64bit-international-dch-whql.exe"
     },
-    "changelog": "https://us.download.nvidia.com/Windows/472.12/472.12-win10-win8-win7-release-notes.pdf",
+    "changelog": "https://us.download.nvidia.com/Windows/472.12/472.12-win11-win10-win8-win7-release-notes.pdf",
     "allowExtract": true
 }

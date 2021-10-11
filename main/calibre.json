@@ -6,6 +6,10 @@
         "32bit": "https://download.calibre-ebook.com/5.29.0/calibre-5.29.0.msi",
         "64bit": "https://download.calibre-ebook.com/5.29.0/calibre-64bit-5.29.0.msi"
     },
+    "sha256": {
+        "32bit": "sha512:46e0fad5bba462b5f7517d2faf8ccac64d30be4298330deaeb37b8f29d7fe027c1c84a8c77755524aa160023788aa61f52dbee6769c4aa9307d2e0736f8b6ffe",
+        "64bit": "sha512:2052e575a16725f00cd5b7e6bff2231fb0a50db1d837a081409724c21d1a8cc1f26d0de89f5c7e2694f0ca133ac208ef9bb4748da1ba43a07eca3c3a4d181e7e"
+    },
     "changelog": "https://calibre-ebook.com/whats-new",
     "args": "/quiet"
 }
