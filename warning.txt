@@ -1,2 +1,1 @@
-failed: sumatrapdf
-merging sumatrapdf
+pass
