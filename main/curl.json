@@ -1,10 +1,10 @@
 {
     "id": "curl",
-    "ver": "7.79.1_2",
+    "ver": "7.79.1_3",
     "date": "2021-09-22",
     "arch": {
-        "32bit": "https://curl.se/windows/dl-7.79.1_2/curl-7.79.1_2-win32-mingw.zip",
-        "64bit": "https://curl.se/windows/dl-7.79.1_2/curl-7.79.1_2-win64-mingw.zip"
+        "32bit": "https://curl.se/windows/dl-7.79.1_3/curl-7.79.1_3-win32-mingw.zip",
+        "64bit": "https://curl.se/windows/dl-7.79.1_3/curl-7.79.1_3-win64-mingw.zip"
     },
     "sha256": {
         "32bit": "291e6038792f53aa4b493b40cef4ce2f4c467650a4476c0da74f66358c56c77b",

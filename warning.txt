@@ -1,1 +1,15 @@
-pass
+failed: ffmpeg|notepadplusplus|TrafficMonitor_T.portable|shimexe_kiennq|git|TrafficMonitor.install|calibre|sqlitebrowser|aria2|tcping|workrave|brave|nomacs|mpkg.download
+merging ffmpeg
+merging notepadplusplus
+merging TrafficMonitor_T.portable
+merging shimexe_kiennq
+merging git
+merging TrafficMonitor.install
+merging calibre
+merging sqlitebrowser
+merging aria2
+merging tcping
+merging workrave
+merging brave
+merging nomacs
+merging mpkg.download
