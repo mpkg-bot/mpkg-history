@@ -1,12 +1,4 @@
-merging forge_scoop
-merging gomake_scoop
-merging casperjs_scoop
-merging docker-machine_scoop
-deprecate dig_scoop
-deprecate czkawka-cli_scoop
-deprecate ytdl_scoop
-deprecate jd-cmd_scoop
-deprecate dotnet_scoop
-deprecate kubectxwin_scoop
-deprecate rget_scoop
-deprecate artifact_scoop
+deprecate forge_scoop
+deprecate gomake_scoop
+deprecate casperjs_scoop
+deprecate docker-machine_scoop
