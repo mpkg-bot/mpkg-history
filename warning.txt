@@ -1,4 +1,1 @@
-deprecate forge_scoop
-deprecate gomake_scoop
-deprecate casperjs_scoop
-deprecate docker-machine_scoop
+pass
