@@ -1,14 +1,14 @@
 {
     "id": "calibre",
-    "ver": "5.30.0",
-    "date": "2021-10-22",
+    "ver": "5.31.1",
+    "date": "2021-10-29",
     "arch": {
-        "32bit": "https://download.calibre-ebook.com/5.30.0/calibre-5.30.0.msi",
-        "64bit": "https://download.calibre-ebook.com/5.30.0/calibre-64bit-5.30.0.msi"
+        "32bit": "https://download.calibre-ebook.com/5.31.1/calibre-5.31.1.msi",
+        "64bit": "https://download.calibre-ebook.com/5.31.1/calibre-64bit-5.31.1.msi"
     },
     "sha256": {
-        "32bit": "sha512:f27cfd0aad3f5b06044079cee6e2d9d1569cb5400b25ccf03c1f4de9962e17c63aedc116632792caf67ef700d683ca9b4712b24de00cccc0a9bdf4f0bc8d77ab",
-        "64bit": "sha512:7d96699ef6e1033bd04f0d68c9f0e384655075dabf49babe2e9061b66d4a59fb77b4ab1997d56e59b3bfd7d85dffb26174a711e8e3a8792894345b7cdca758c4"
+        "32bit": "sha512:993985bcb028ea6066fc338ba3e497a62eb28c1f61f8bd29ffd378e9594e738bd6733a8770579e33393c5bd44f3ad03b02f1edbe09fd3b45a5b0782b836c7e40",
+        "64bit": "sha512:228287e878809917ea12de15cd0071b862aefe3fbc981131bf84eff1dad86280e95da42641aac6ee5df71381183943036389987e4eed8c1b7a08ca073d2b7a1d"
     },
     "changelog": "https://calibre-ebook.com/whats-new",
     "args": "/quiet"

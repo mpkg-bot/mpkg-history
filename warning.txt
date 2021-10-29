@@ -1,1 +1,2 @@
-pass
+merging ibmcloud-cli_scoop_0
+merging ibmcloud-cli_scoop_1
