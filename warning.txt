@@ -1,2 +1,3 @@
-merging ibmcloud-cli_scoop_0
-merging ibmcloud-cli_scoop_1
+merging kindlegen_scoop
+deprecate ibmcloud-cli_scoop_0
+deprecate ibmcloud-cli_scoop_1
