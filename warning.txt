@@ -1,1 +1,1 @@
-deprecate kindlegen_scoop
+pass
