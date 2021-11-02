@@ -1,7 +1,7 @@
 {
     "id": "python3.10",
     "ver": "3.10.0",
-    "date": "2021-10-04",
+    "date": "2021-11-02",
     "arch": {
         "32bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe",
         "64bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe"
