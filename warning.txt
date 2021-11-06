@@ -1,6 +1,2 @@
-failed: python-stable
-merging python3.10
-merging python3.9
-merging python-stable
- dependency: python3.10|python3.9
-merging MagicaVoxel_scoop
+merging qbittorrent-portable_scoop
+deprecate MagicaVoxel_scoop
