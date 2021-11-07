@@ -1,2 +1,1 @@
-merging qbittorrent-portable_scoop
-deprecate MagicaVoxel_scoop
+deprecate qbittorrent-portable_scoop
