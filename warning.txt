@@ -1,1 +1,2 @@
-deprecate qbittorrent-portable_scoop
+merging wyam_scoop
+merging fciv_scoop
