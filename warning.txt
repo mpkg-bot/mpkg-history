@@ -1,2 +1,7 @@
-merging wyam_scoop
-merging fciv_scoop
+failed: wget|mpv.portable
+merging wget
+merging mpv.portable
+merging openocd_scoop_0
+merging openocd_scoop_1
+deprecate wyam_scoop
+deprecate fciv_scoop
