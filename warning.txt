@@ -1,7 +1,6 @@
-failed: wget|mpv.portable
-merging wget
+failed: 7zip|ultradefrag|mpv.portable
+merging 7zip
+merging ultradefrag
 merging mpv.portable
-merging openocd_scoop_0
-merging openocd_scoop_1
-deprecate wyam_scoop
-deprecate fciv_scoop
+deprecate openocd_scoop_0
+deprecate openocd_scoop_1
