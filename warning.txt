@@ -1,6 +1,2 @@
-failed: 7zip|ultradefrag|mpv.portable
-merging 7zip
-merging ultradefrag
+failed: mpv.portable
 merging mpv.portable
-deprecate openocd_scoop_0
-deprecate openocd_scoop_1
