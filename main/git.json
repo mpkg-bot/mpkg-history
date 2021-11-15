@@ -1,10 +1,10 @@
 {
     "id": "git",
-    "ver": "2.33.1",
-    "date": "2021-10-13",
+    "ver": "2.34.0",
+    "date": "2021-11-15",
     "arch": {
-        "32bit": "https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/Git-2.33.1-32-bit.exe",
-        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/Git-2.33.1-64-bit.exe"
+        "32bit": "https://github.com/git-for-windows/git/releases/download/v2.34.0.windows.1/Git-2.34.0-32-bit.exe",
+        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.34.0.windows.1/Git-2.34.0-64-bit.exe"
     },
     "changelog": "https://github.com/git-for-windows/git/releases/latest",
     "args": "/sp- /verysilent /norestart"
