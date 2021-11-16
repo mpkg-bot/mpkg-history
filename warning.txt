@@ -1,3 +1,4 @@
-merging beeflang_scoop
-merging ziglang_scoop
-deprecate chromium-nosync_scoop
+failed: adb
+merging adb
+deprecate beeflang_scoop
+deprecate ziglang_scoop
