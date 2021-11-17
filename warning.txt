@@ -1,4 +1,1 @@
-failed: adb
-merging adb
-deprecate beeflang_scoop
-deprecate ziglang_scoop
+pass
