@@ -1,1 +1,1 @@
-merging win32-openssh_scoop
+deprecate win32-openssh_scoop
