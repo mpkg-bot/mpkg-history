@@ -1,1 +1,1 @@
-deprecate win32-openssh_scoop
+pass
