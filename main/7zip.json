@@ -1,6 +1,6 @@
 {
     "id": "7zip",
-    "ver": "21.05",
+    "ver": "21.06",
     "date": "2021-11-18",
     "changelog": "https://www.7-zip.org/history.txt",
     "args": "/S"
