@@ -1,1 +1,1 @@
-merging terminus_scoop
+deprecate terminus_scoop

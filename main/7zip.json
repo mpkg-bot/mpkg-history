@@ -1,7 +1,11 @@
 {
     "id": "7zip",
     "ver": "21.06",
-    "date": "2021-11-18",
+    "date": "2021-11-29",
+    "arch": {
+        "64bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/21.06/7z2106-x64.exe",
+        "32bit": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/21.06/7z2106.exe"
+    },
     "changelog": "https://www.7-zip.org/history.txt",
     "args": "/S"
 }
