@@ -1,1 +1,1 @@
-deprecate terminus_scoop
+pass
