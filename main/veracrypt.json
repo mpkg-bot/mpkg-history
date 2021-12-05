@@ -3,10 +3,10 @@
     "ver": "1.25.4",
     "date": "2021-12-03",
     "sha256": [
-        "94efbf75cbd4b526f4030b746ae3d4bbb8741b6629603568478fd10e6930a3a5"
+        "efec23cf0e6f5ce75551c39c4acc81f2c1412f6d62d71360e799369cdae9f822"
     ],
     "links": [
-        "https://launchpad.net/veracrypt/trunk/1.25.4/+download/VeraCrypt Setup 1.25.4.exe"
+        "https://launchpad.net/veracrypt/trunk/1.25.4/+download/VeraCrypt Setup 1.25.4-TESTSIGNING.exe"
     ],
     "changelog": "https://launchpad.net/veracrypt/trunk/1.25.4/+download/README.TXT"
 }
