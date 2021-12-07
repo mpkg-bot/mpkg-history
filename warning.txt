@@ -1,1 +1,2 @@
-pass
+merging ssh-copy-id_scoop
+merging jar2app_scoop

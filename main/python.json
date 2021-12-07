@@ -1,9 +1,9 @@
 {
     "id": "python",
-    "ver": "3.10.0",
+    "ver": "3.10.1",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0.exe",
-        "64bit": "https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.10.1/python-3.10.1.exe",
+        "64bit": "https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe"
     },
-    "changelog": "https://docs.python.org/release/3.10.0/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.10.1/whatsnew/changelog.html#changelog"
 }
