@@ -1,2 +1,2 @@
-merging ssh-copy-id_scoop
-merging jar2app_scoop
+deprecate ssh-copy-id_scoop
+deprecate jar2app_scoop
