@@ -1,2 +1,1 @@
-deprecate ssh-copy-id_scoop
-deprecate jar2app_scoop
+pass
