@@ -1,1 +1,10 @@
-pass
+merging neovim-nightly_scoop
+merging glslang-nightly_scoop
+merging lcow_scoop
+merging docker-nightly_scoop
+merging ffmpeg-nightly-shared_scoop
+merging vim-nightly_scoop
+merging haxe-dev_scoop
+merging ffmpeg-nightly_scoop
+merging ffmpeg-nightly-shared-vulkan_scoop
+merging ffmpeg-nightly-vulkan_scoop
