@@ -1,11 +1,1 @@
-merging haskellx_scoop
-deprecate neovim-nightly_scoop
-deprecate glslang-nightly_scoop
-deprecate lcow_scoop
-deprecate docker-nightly_scoop
-deprecate ffmpeg-nightly-shared_scoop
-deprecate vim-nightly_scoop
-deprecate haxe-dev_scoop
-deprecate ffmpeg-nightly_scoop
-deprecate ffmpeg-nightly-shared-vulkan_scoop
-deprecate ffmpeg-nightly-vulkan_scoop
+deprecate haskellx_scoop
