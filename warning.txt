@@ -1,1 +1,1 @@
-deprecate haskellx_scoop
+pass
