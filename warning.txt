@@ -1,1 +1,2 @@
-pass
+merging i2p-portable_scoop
+merging nmap-portable_scoop
