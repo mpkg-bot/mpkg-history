@@ -1,2 +1,2 @@
-merging i2p-portable_scoop
-merging nmap-portable_scoop
+deprecate i2p-portable_scoop
+deprecate nmap-portable_scoop
