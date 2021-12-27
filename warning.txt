@@ -1,6 +1,6 @@
 failed: uplay|steam
 merging uplay
 merging steam
-merging redis5_scoop
-merging forego_scoop
-merging mongodb-compass-community_scoop
+deprecate redis5_scoop
+deprecate forego_scoop
+deprecate mongodb-compass-community_scoop
