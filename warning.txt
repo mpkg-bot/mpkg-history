@@ -1,4 +1,4 @@
 failed: uplay|steam
 merging uplay
 merging steam
-merging p4merge_scoop
+deprecate p4merge_scoop
