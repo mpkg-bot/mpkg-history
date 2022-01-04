@@ -1,3 +1,4 @@
-failed: uplay|steam
+failed: uplay|steam|virtualbox
+merging virtualbox
 merging uplay
 merging steam
