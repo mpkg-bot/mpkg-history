@@ -1,9 +1,8 @@
 {
     "id": "uplay",
+    "homepage": "https://uplay.ubisoft.com",
     "ver": "nightly",
     "links": [
         "https://ubistatic3-a.akamaihd.net/orbit/launcher_installer/UplayInstaller.exe"
-    ],
-    "description": "Your home for Ubisoft PC games.",
-    "homepage": "https://uplay.ubisoft.com"
+    ]
 }

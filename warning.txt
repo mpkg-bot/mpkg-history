@@ -1,4 +1,4 @@
-failed: uplay|steam|virtualbox
+failed: virtualbox
+merging TrafficMonitor_T.portable
+merging TrafficMonitor.install
 merging virtualbox
-merging uplay
-merging steam
