@@ -1,4 +1,2 @@
-failed: virtualbox
-merging TrafficMonitor_T.portable
-merging TrafficMonitor.install
-merging virtualbox
+deprecate TrafficMonitor_T.portable
+deprecate TrafficMonitor.install
