@@ -1,1 +1,2 @@
-pass
+merging wavebox10_scoop
+merging wavebox10-pro_scoop
