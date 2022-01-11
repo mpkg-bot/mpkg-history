@@ -1,2 +1,2 @@
-merging wavebox10_scoop
-merging wavebox10-pro_scoop
+deprecate wavebox10_scoop
+deprecate wavebox10-pro_scoop
