@@ -1,2 +1,1 @@
-deprecate wavebox10_scoop
-deprecate wavebox10-pro_scoop
+pass
