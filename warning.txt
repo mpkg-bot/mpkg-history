@@ -1,1 +1,1 @@
-merging autohdr_scoop
+deprecate autohdr_scoop
