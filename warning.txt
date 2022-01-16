@@ -3,4 +3,4 @@ merging python3.10
 merging python3.9
 merging python-stable
  dependency: python3.10|python3.9
-merging annie_scoop
+deprecate annie_scoop
