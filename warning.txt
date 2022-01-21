@@ -1,1 +1,1 @@
-merging rambox-pro_scoop
+deprecate rambox-pro_scoop
