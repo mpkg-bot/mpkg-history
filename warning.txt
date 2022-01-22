@@ -1,1 +1,1 @@
-deprecate rambox-pro_scoop
+merging influxdb2_scoop
