@@ -1,1 +1,4 @@
-merging influxdb2_scoop
+merging flux2_scoop
+merging fluxctl_scoop
+merging flux_scoop
+deprecate influxdb2_scoop
