@@ -1,4 +1,5 @@
-merging flux2_scoop
-merging fluxctl_scoop
-merging flux_scoop
-deprecate influxdb2_scoop
+merging libreoffice-stable_scoop
+merging libreoffice-fresh_scoop
+deprecate flux2_scoop
+deprecate fluxctl_scoop
+deprecate flux_scoop
