@@ -1,2 +1,1 @@
-deprecate libreoffice-stable_scoop
-deprecate libreoffice-fresh_scoop
+merging storageexplorer_scoop
