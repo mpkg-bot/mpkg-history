@@ -1,1 +1,1 @@
-merging storageexplorer_scoop
+deprecate storageexplorer_scoop
