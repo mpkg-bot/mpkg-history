@@ -1,17 +1,17 @@
 {
     "id": "IntelWirelessDriver.admin",
-    "ver": "22.100.1",
+    "ver": "22.110.1",
     "date": "2022-01-01",
     "links": [
-        "https://downloadmirror.intel.com/706151/WiFi-22.100.1-Driver64-Win10-Win11.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-22.100.1-Driver32-Win10.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-PROSet64.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-PROSet32.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-Driver64-Win8.1.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-Driver64-Win7.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-Driver32-Win8.1.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.40.5-Driver32-Win7.zip",
-        "https://downloadmirror.intel.com/706151/WiFi-21.100.1-all.zip"
+        "https://downloadmirror.intel.com/714401/WiFi-22.110.1-Driver64-Win10-Win11.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-22.110.1-Driver32-Win10.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-PROSet64.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-PROSet32.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-Driver64-Win8.1.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-Driver64-Win7.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-Driver32-Win8.1.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.40.5-Driver32-Win7.zip",
+        "https://downloadmirror.intel.com/714401/WiFi-21.110-all.zip"
     ],
     "changelog": "https://www.intel.com/content/www/us/en/download/18231/intel-proset-wireless-software-and-drivers-for-it-admins.html",
     "description": "IT Administrator Links for Intel\u00ae PROSet/Wireless Software"

@@ -1,1 +1,3 @@
-pass
+merging kate_scoop
+merging okular_scoop
+merging kdeconnect_scoop
