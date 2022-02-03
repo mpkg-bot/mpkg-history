@@ -1,3 +1,1 @@
-deprecate kate_scoop
-deprecate okular_scoop
-deprecate kdeconnect_scoop
+pass
