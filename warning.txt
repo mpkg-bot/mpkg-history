@@ -1,1 +1,1 @@
-merging cheat-engine_scoop
+deprecate cheat-engine_scoop
