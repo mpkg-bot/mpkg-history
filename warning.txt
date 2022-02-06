@@ -1,1 +1,1 @@
-deprecate cheat-engine_scoop
+pass
