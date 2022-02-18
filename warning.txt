@@ -1,2 +1,1 @@
-failed: scoop-bucket
-merging scoop-bucket
+pass
