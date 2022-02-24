@@ -1,1 +1,1 @@
-deprecate oh-my-posh3_scoop
+pass
