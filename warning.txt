@@ -1,1 +1,2 @@
-merging youtube-music-desktop_winget
+merging latex_scoop
+deprecate youtube-music-desktop_winget
