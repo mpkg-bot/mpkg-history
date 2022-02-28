@@ -1,2 +1,4 @@
-merging latex_scoop
-deprecate youtube-music-desktop_winget
+deprecate latex_scoop
+merging CoreTemp_winget
+merging vpilot_winget
+merging unsplash-wallpapers_winget
