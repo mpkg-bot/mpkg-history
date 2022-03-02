@@ -1,6 +1,5 @@
-merging node-chakracore_scoop
-deprecate CoreTemp_winget
-merging XansBetterVanilla_winget
-deprecate CoreTemp_winget
-deprecate vpilot_winget
-deprecate unsplash-wallpapers_winget
+deprecate node-chakracore_scoop
+merging CADReaderInternational_winget
+merging valorantrandomizer_winget_0
+merging valorantrandomizer_winget_1
+deprecate XansBetterVanilla_winget
