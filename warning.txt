@@ -1,5 +1,5 @@
-deprecate node-chakracore_scoop
-merging CADReaderInternational_winget
-merging valorantrandomizer_winget_0
-merging valorantrandomizer_winget_1
-deprecate XansBetterVanilla_winget
+deprecate Wordpress_winget
+deprecate Agent_winget
+deprecate Dolphin_winget
+deprecate Clink_winget
+deprecate dingtalk_winget
