@@ -1,5 +1,1 @@
-deprecate Wordpress_winget
-deprecate Agent_winget
-deprecate Dolphin_winget
-deprecate Clink_winget
-deprecate dingtalk_winget
+pass
