@@ -1,0 +1,17 @@
+{
+    "id": "dog",
+    "ver": "0.1.0-1",
+    "date": "2022-03-06",
+    "arch": {
+        "32bit": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/download/220306-1/dog-i686-msvc.zip",
+        "64bit": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/download/220306-1/dog-x86_64-msvc.zip"
+    },
+    "sha256": {
+        "32bit": "5ff157a3dd2208dda221200716759aa44c954a6720168e1a154120b7ffabc0b0",
+        "64bit": "778a2ee88d45bd3c3611987ee2764fa58435ae8472eeaf42ac8bb287527d3ec4"
+    },
+    "changelog": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/tag/220306-1",
+    "bin": [
+        "dog.exe"
+    ]
+}

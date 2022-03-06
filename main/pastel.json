@@ -1,0 +1,13 @@
+{
+    "id": "pastel",
+    "ver": "0.8.1",
+    "date": "2021-07-11",
+    "arch": {
+        "32bit": "https://github.com/sharkdp/pastel/releases/download/v0.8.1/pastel-v0.8.1-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/pastel/releases/download/v0.8.1/pastel-v0.8.1-x86_64-pc-windows-msvc.zip"
+    },
+    "changelog": "https://github.com/sharkdp/pastel/releases/latest",
+    "bin": [
+        "pastel.exe"
+    ]
+}

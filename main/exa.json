@@ -1,0 +1,17 @@
+{
+    "id": "exa",
+    "ver": "0.10.1-1",
+    "date": "2022-03-06",
+    "arch": {
+        "32bit": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/download/220306-2/exa-i686-msvc.zip",
+        "64bit": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/download/220306-2/exa-x86_64-msvc.zip"
+    },
+    "sha256": {
+        "32bit": "bccfd201f2712680e109ffb21378e95d3f14970adbe1e458b5ede85ab181e280",
+        "64bit": "33cedb78c4f4904677790ca20a3885b0e01a3ab2e354da791dcf80ff3a8a1b88"
+    },
+    "changelog": "https://github.com/zpcc/mpkg-pkgs-selfbuilds/releases/tag/220306-2",
+    "bin": [
+        "exa.exe"
+    ]
+}

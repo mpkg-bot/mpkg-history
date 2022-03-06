@@ -1,0 +1,13 @@
+{
+    "id": "binocle",
+    "ver": "0.3.0",
+    "date": "2022-01-24",
+    "arch": {
+        "32bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.0/binocle-v0.3.0-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.0/binocle-v0.3.0-x86_64-pc-windows-msvc.zip"
+    },
+    "changelog": "https://github.com/sharkdp/binocle/releases/latest",
+    "bin": [
+        "binocle.exe"
+    ]
+}
