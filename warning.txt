@@ -1,1 +1,3 @@
-pass
+failed: quiterss.portable
+merging quiterss.portable
+merging PopcornTime_winget
