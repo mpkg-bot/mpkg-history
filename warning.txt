@@ -1,6 +1,4 @@
 failed: quiterss.portable
 merging quiterss.portable
-merging appget_winget
-deprecate picpick_winget_0
-deprecate listen1_fluent_winget
-deprecate picpick_winget_1
+merging KDiff3_winget
+deprecate appget_winget
