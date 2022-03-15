@@ -1,3 +1,4 @@
-failed: quiterss.portable
+failed: xpdf-tools|quiterss.portable
+merging xpdf-tools
 merging quiterss.portable
-deprecate KDiff3_winget
+merging enomic_scoop
