@@ -1,4 +1,1 @@
-failed: xpdf-tools|quiterss.portable
-merging xpdf-tools
-merging quiterss.portable
-merging enomic_scoop
+deprecate enomic_scoop
