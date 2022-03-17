@@ -1,1 +1,4 @@
-deprecate enomic_scoop
+merging PyCharm.Professional.EAP_winget
+merging SoundPrank_winget
+merging Mitalk_winget
+merging Theseus2000_winget
