@@ -1,4 +1,6 @@
-merging PyCharm.Professional.EAP_winget
-merging SoundPrank_winget
-merging Mitalk_winget
-merging Theseus2000_winget
+merging Orange_winget
+merging miuiplus_winget
+deprecate PyCharm.Professional.EAP_winget
+deprecate SoundPrank_winget
+deprecate Mitalk_winget
+deprecate Theseus2000_winget
