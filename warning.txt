@@ -1,4 +1,2 @@
-merging PyCharm.Community.EAP_winget
-merging IntelliJIDEA.Edu_winget
-deprecate Orange_winget
-deprecate miuiplus_winget
+deprecate PyCharm.Community.EAP_winget
+deprecate IntelliJIDEA.Edu_winget
