@@ -1,2 +1,1 @@
-deprecate PyCharm.Community.EAP_winget
-deprecate IntelliJIDEA.Edu_winget
+pass
