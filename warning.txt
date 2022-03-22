@@ -1,1 +1,9 @@
-pass
+merging Grafana.OSS_winget
+merging IntelliJIDEA.Ultimate_winget
+merging IntelliJIDEA.Ultimate.EAP_winget
+merging CPU-Z.TAICHI_winget
+merging K-LiteCodecPack.Mega_winget
+merging AIDA64.Extreme_winget
+merging SQLServer.2019.Express_winget
+merging dotnetRuntime.6-x86_winget
+merging Compass.Full_winget
