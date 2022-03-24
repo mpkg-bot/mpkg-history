@@ -1,9 +1,3 @@
-deprecate Grafana.OSS_winget
-deprecate IntelliJIDEA.Ultimate_winget
-deprecate IntelliJIDEA.Ultimate.EAP_winget
-deprecate CPU-Z.TAICHI_winget
-deprecate K-LiteCodecPack.Mega_winget
-deprecate AIDA64.Extreme_winget
-deprecate SQLServer.2019.Express_winget
-deprecate dotnetRuntime.6-x86_winget
-deprecate Compass.Full_winget
+merging FSL_winget
+merging FluentScreenRecorder_winget
+merging Logos.Beta_winget
