@@ -1,3 +1,3 @@
-merging FSL_winget
-merging FluentScreenRecorder_winget
-merging Logos.Beta_winget
+deprecate FSL_winget
+deprecate FluentScreenRecorder_winget
+deprecate Logos.Beta_winget
