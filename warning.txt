@@ -1,3 +1,2 @@
-deprecate FSL_winget
-deprecate FluentScreenRecorder_winget
-deprecate Logos.Beta_winget
+merging MSEdgeRedirect_scoop
+merging Corretto.17_winget
