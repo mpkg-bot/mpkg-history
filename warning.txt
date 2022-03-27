@@ -1,2 +1,6 @@
-merging MSEdgeRedirect_scoop
-merging Corretto.17_winget
+deprecate MSEdgeRedirect_scoop
+merging CRSEDLauncher_winget
+merging StarConflictLauncher_winget
+merging EnlistedLauncher_winget
+merging crossout_winget
+deprecate Corretto.17_winget
