@@ -1,6 +1,6 @@
-deprecate MSEdgeRedirect_scoop
-merging CRSEDLauncher_winget
-merging StarConflictLauncher_winget
-merging EnlistedLauncher_winget
-merging crossout_winget
-deprecate Corretto.17_winget
+failed: virtualbox
+merging virtualbox
+deprecate CRSEDLauncher_winget
+deprecate StarConflictLauncher_winget
+deprecate EnlistedLauncher_winget
+deprecate crossout_winget
