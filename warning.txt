@@ -1,6 +1,6 @@
 failed: virtualbox
 merging virtualbox
-deprecate CRSEDLauncher_winget
-deprecate StarConflictLauncher_winget
-deprecate EnlistedLauncher_winget
-deprecate crossout_winget
+merging Billfish_winget
+merging LibericaJDK.17_winget
+merging LibericaJDK.17.Full_winget
+merging Audacity.Alpha_winget
