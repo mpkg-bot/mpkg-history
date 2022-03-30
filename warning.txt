@@ -1,6 +1,6 @@
 failed: virtualbox
 merging virtualbox
-merging Billfish_winget
-merging LibericaJDK.17_winget
-merging LibericaJDK.17.Full_winget
-merging Audacity.Alpha_winget
+deprecate Billfish_winget
+deprecate LibericaJDK.17_winget
+deprecate LibericaJDK.17.Full_winget
+deprecate Audacity.Alpha_winget
