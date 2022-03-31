@@ -1,6 +1,1 @@
-failed: virtualbox
-merging virtualbox
-deprecate Billfish_winget
-deprecate LibericaJDK.17_winget
-deprecate LibericaJDK.17.Full_winget
-deprecate Audacity.Alpha_winget
+merging Temurin.17_winget
