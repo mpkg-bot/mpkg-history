@@ -1,4 +1,1 @@
-failed: wget
-merging wget
-merging IntelliJIDEA.Community_winget
-deprecate Temurin.17_winget
+deprecate IntelliJIDEA.Community_winget
