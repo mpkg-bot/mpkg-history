@@ -1,14 +1,14 @@
 {
     "id": "nali",
-    "ver": "0.3.7-2",
-    "date": "2022-03-27",
+    "ver": "0.3.8",
+    "date": "2022-04-03",
     "arch": {
-        "32bit": "https://github.com/zu1k/nali/releases/download/0.3.7-2/nali-windows-386-0.3.7-2.zip",
-        "64bit": "https://github.com/zu1k/nali/releases/download/0.3.7-2/nali-windows-amd64-0.3.7-2.zip"
+        "32bit": "https://github.com/zu1k/nali/releases/download/0.3.8/nali-windows-386-0.3.8.zip",
+        "64bit": "https://github.com/zu1k/nali/releases/download/0.3.8/nali-windows-amd64-0.3.8.zip"
     },
     "sha256": {
-        "32bit": "91775826c4189b9445166c3cf66421d05207abd4dffa70a2991b0b2e0815e5f1",
-        "64bit": "655c29ae86185d8452f5750d2d73a223b620fd1f09344487a75f0b263b1abe34"
+        "32bit": "3c72b3ee9a870c7f9ec462015e37d54c653eb0cf7489b8cb133a11c11eb4a619",
+        "64bit": "29492fce99ef7c921f79ed024df66b4b7c20db9e16c846f99afe0f79c5a516cc"
     },
     "changelog": "https://github.com/zu1k/nali/releases/latest",
     "bin": {
