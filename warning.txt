@@ -1,1 +1,13 @@
-pass
+failed: wget
+merging wget
+merging libjpeg-turbo.VC_winget
+merging LeagueOfLegends.EUW_winget
+merging openjdk.17.jre_winget
+merging SocketTools10.ActiveXRedist_x86_winget
+merging CPU-Z.PHANTOM_winget
+merging K-LiteCodecPack.Standard_winget
+merging AbilityOffice.10.Professional_winget
+merging Acrobat.Reader.64-bit_winget
+merging IntelliJIDEA.Community.EAP_winget
+merging Compass.Readonly_winget
+merging dotnetRuntime.6-x64_winget
