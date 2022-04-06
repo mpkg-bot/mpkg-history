@@ -1,11 +1,1 @@
-deprecate libjpeg-turbo.VC_winget
-deprecate LeagueOfLegends.EUW_winget
-deprecate openjdk.17.jre_winget
-deprecate SocketTools10.ActiveXRedist_x86_winget
-deprecate CPU-Z.PHANTOM_winget
-deprecate K-LiteCodecPack.Standard_winget
-deprecate AbilityOffice.10.Professional_winget
-deprecate Acrobat.Reader.64-bit_winget
-deprecate IntelliJIDEA.Community.EAP_winget
-deprecate Compass.Readonly_winget
-deprecate dotnetRuntime.6-x64_winget
+pass
