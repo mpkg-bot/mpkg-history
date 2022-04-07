@@ -1,1 +1,11 @@
-pass
+merging LeagueOfLegends.OC1_winget
+merging openjdk.17.jdk_winget
+merging dotnetRuntime.6-x86_winget
+merging Compass.Isolated_winget
+merging AresCommander.2022_winget
+merging Grafana.Enterprise_winget
+merging CPU-Z.ASR_winget
+merging K-LiteCodecPack.Basic_winget
+merging SocketTools10.LibraryRedist_x64_winget
+merging AIDA64.Engineer_winget
+merging AbilityOffice.10.Standard_winget
