@@ -1,1 +1,3 @@
-pass
+merging chefdk_scoop
+merging Dolphin.Nightly_winget
+merging Hamul_winget
