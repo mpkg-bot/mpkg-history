@@ -1,3 +1,5 @@
-merging chefdk_scoop
-merging Dolphin.Nightly_winget
-merging Hamul_winget
+deprecate chefdk_scoop
+merging Edge.Dev_winget
+merging IntelliJIDEA.Edu_winget
+deprecate Dolphin.Nightly_winget
+deprecate Hamul_winget
