@@ -1,5 +1,4 @@
-deprecate chefdk_scoop
-merging Edge.Dev_winget
-merging IntelliJIDEA.Edu_winget
-deprecate Dolphin.Nightly_winget
-deprecate Hamul_winget
+merging UpdateWatcherforAdoptOpenJDK_winget
+merging Desktopapp_winget
+deprecate Edge.Dev_winget
+deprecate IntelliJIDEA.Edu_winget
