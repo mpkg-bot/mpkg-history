@@ -1,4 +1,2 @@
-merging UpdateWatcherforAdoptOpenJDK_winget
-merging Desktopapp_winget
-deprecate Edge.Dev_winget
-deprecate IntelliJIDEA.Edu_winget
+deprecate UpdateWatcherforAdoptOpenJDK_winget
+deprecate Desktopapp_winget
