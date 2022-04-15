@@ -1,2 +1,2 @@
-deprecate UpdateWatcherforAdoptOpenJDK_winget
-deprecate Desktopapp_winget
+merging AliWangWang_winget
+merging Edge.Beta_winget
