@@ -1,2 +1,2 @@
-merging AliWangWang_winget
-merging Edge.Beta_winget
+deprecate AliWangWang_winget
+deprecate Edge.Beta_winget
