@@ -1,1 +1,3 @@
-merging Sideloady_winget
+merging zg-ipchat_winget
+merging IpchatGuiPc_winget
+deprecate Sideloady_winget
