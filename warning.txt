@@ -1,1 +1,10 @@
-deprecate BraveBrowser.Nightly_winget
+merging AbilityOffice.10.Professional_winget
+merging Grafana.OSS_winget
+merging openjdk.17.jre_winget
+merging LeagueOfLegends.NA_winget
+merging Compass.Readonly_winget
+merging CPU-Z.TAICHI_winget
+merging K-LiteCodecPack.Standard_winget
+merging TI-Nspire.CXCASStudent_winget
+merging PyCharm.Professional_winget
+merging PyCharm.Professional.EAP_winget
