@@ -1,11 +1,1 @@
-merging IntelliJIDEA.Ultimate_winget
-deprecate AbilityOffice.10.Professional_winget
-deprecate Grafana.OSS_winget
-deprecate openjdk.17.jre_winget
-deprecate LeagueOfLegends.NA_winget
-deprecate Compass.Readonly_winget
-deprecate CPU-Z.TAICHI_winget
-deprecate K-LiteCodecPack.Standard_winget
-deprecate TI-Nspire.CXCASStudent_winget
-deprecate PyCharm.Professional_winget
-deprecate PyCharm.Professional.EAP_winget
+deprecate IntelliJIDEA.Ultimate_winget
