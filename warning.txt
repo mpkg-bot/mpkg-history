@@ -1,1 +1,1 @@
-deprecate IntelliJIDEA.Ultimate_winget
+pass
