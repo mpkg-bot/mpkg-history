@@ -1,2 +1,5 @@
-merging AresMap.2022_winget
-merging AresMechanical.2022_winget
+failed: vlc
+merging vlc
+merging JDK.17_winget
+deprecate AresMap.2022_winget
+deprecate AresMechanical.2022_winget
