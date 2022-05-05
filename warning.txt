@@ -1,2 +1,1 @@
-merging AtlasVPN_winget
-deprecate JDK.17_winget
+deprecate AtlasVPN_winget
