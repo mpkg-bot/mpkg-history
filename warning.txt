@@ -1,1 +1,1 @@
-deprecate AtlasVPN_winget
+pass
