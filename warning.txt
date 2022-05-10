@@ -1,1 +1,8 @@
-pass
+failed: python-stable|aria2
+merging python3.10
+merging python3.9
+merging python-stable
+ dependency: python3.10|python3.9
+merging aria2
+merging AccessibilityInsights.Android_winget
+merging AccessibilityInsights.Windows.Canary_winget
