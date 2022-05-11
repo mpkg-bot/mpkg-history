@@ -1,8 +1,9 @@
-failed: python-stable|aria2
+failed: python-stable
 merging python3.10
 merging python3.9
 merging python-stable
  dependency: python3.10|python3.9
-merging aria2
-merging AccessibilityInsights.Android_winget
-merging AccessibilityInsights.Windows.Canary_winget
+merging Edge.Dev_winget
+merging IntelliJIDEA.Edu_winget
+deprecate AccessibilityInsights.Android_winget
+deprecate AccessibilityInsights.Windows.Canary_winget
