@@ -1,9 +1,9 @@
 {
     "id": "googlechrome",
-    "ver": "101.0.4951.64",
+    "ver": "101.0.4951.67",
     "arch": {
-        "64bit": "https://dl.google.com/release2/chrome/i3fjaxrc5frrs36xoyu56jorl4_101.0.4951.64/101.0.4951.64_chrome_installer.exe",
-        "32bit": "https://dl.google.com/release2/chrome/mjbif66k3epa7sxoz2ofxq7om4_101.0.4951.64/101.0.4951.64_chrome_installer.exe"
+        "64bit": "https://dl.google.com/release2/chrome/hfvvqpfakqpzffvakfx3nkhr74_101.0.4951.67/101.0.4951.67_chrome_installer.exe",
+        "32bit": "https://dl.google.com/release2/chrome/bfhx7c47wivyu6dycwznz5fa44_101.0.4951.67/101.0.4951.67_chrome_installer.exe"
     },
     "description": "Fast, secure, and free web browser, built for the modern web.",
     "homepage": "https://www.google.com/chrome/"
