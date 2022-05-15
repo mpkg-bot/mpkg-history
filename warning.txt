@@ -3,8 +3,8 @@ merging python3.10
 merging python3.9
 merging python-stable
  dependency: python3.10|python3.9
-deprecate manjarowsl_scoop
-merging Lens.Alpha_winget
-merging Honeygain_winget
-merging Gateway_winget
-merging opensuse-leap-42_winget
+merging PowerSession_scoop
+deprecate Lens.Alpha_winget
+deprecate Honeygain_winget
+deprecate Gateway_winget
+deprecate opensuse-leap-42_winget
