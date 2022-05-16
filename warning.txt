@@ -3,8 +3,5 @@ merging python3.10
 merging python3.9
 merging python-stable
  dependency: python3.10|python3.9
-merging PowerSession_scoop
-deprecate Lens.Alpha_winget
-deprecate Honeygain_winget
-deprecate Gateway_winget
-deprecate opensuse-leap-42_winget
+deprecate PowerSession_scoop
+merging DotNet.AspNetCore.Preview_winget
