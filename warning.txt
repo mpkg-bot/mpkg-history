@@ -3,4 +3,8 @@ merging python3.10
 merging python3.9
 merging python-stable
  dependency: python3.10|python3.9
-deprecate DotNet.AspNetCore.Preview_winget
+merging dotnetHostingBundle_winget
+merging dotnet_winget
+merging ASPNetCore.6-x64_winget
+merging dotnetPreview_winget
+merging dotnetRuntime.6-x64_winget
