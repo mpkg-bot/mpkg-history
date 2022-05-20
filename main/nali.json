@@ -1,6 +1,6 @@
 {
     "id": "nali",
-    "ver": "v0.4.0",
+    "ver": "0.4.0",
     "date": "2022-05-17",
     "arch": {
         "32bit": "https://github.com/zu1k/nali/releases/download/v0.4.0/nali-windows-386-v0.4.0.zip",

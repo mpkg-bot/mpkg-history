@@ -2,6 +2,9 @@
     "id": "shimexe_kiennq",
     "ver": "3.0",
     "date": "2022-04-01",
+    "links": [
+        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.0/shimexe.zip"
+    ],
     "changelog": "https://github.com/kiennq/scoop-better-shimexe/releases/latest",
     "bin": [
         "MPKG-PORTABLE"
