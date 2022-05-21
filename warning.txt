@@ -1,4 +1,4 @@
-merging python3.9
-merging UnitBargainHunter_winget
-deprecate DotNetWorkload.Ios_winget
-deprecate X-MouseButtonControl_winget
+deprecate python3.9
+merging awsQueue_scoop
+merging 010Editor_scoop
+deprecate UnitBargainHunter_winget
