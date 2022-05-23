@@ -1,3 +1,6 @@
-deprecate awsQueue_scoop
-deprecate 010Editor_scoop
-merging VisualStudioCollect_winget
+failed: adb
+merging adb
+merging 360se_winget
+merging Eagle_winget
+merging CopyTransHEIC_winget
+deprecate VisualStudioCollect_winget
