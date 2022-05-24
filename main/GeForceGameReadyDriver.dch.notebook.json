@@ -1,10 +1,10 @@
 {
     "id": "GeForceGameReadyDriver.dch.notebook",
-    "ver": "512.77",
-    "date": "2022-05-12",
+    "ver": "512.95",
+    "date": "2022-05-24",
     "arch": {
-        "64bit": "https://us.download.nvidia.com/Windows/512.77/512.77-notebook-win10-win11-64bit-international-dch-whql.exe"
+        "64bit": "https://us.download.nvidia.com/Windows/512.95/512.95-notebook-win10-win11-64bit-international-dch-whql.exe"
     },
-    "changelog": "https://us.download.nvidia.com/Windows/512.77/512.77-win11-win10-release-notes.pdf",
+    "changelog": "https://us.download.nvidia.com/Windows/512.95/512.95-win11-win10-release-notes.pdf",
     "allowExtract": true
 }
