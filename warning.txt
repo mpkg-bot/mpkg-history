@@ -1,6 +1,4 @@
-merging WaykNow_winget
-merging ECLiPSe_winget
-merging EGameLive_winget
-deprecate UltimateShell_winget
-deprecate IntelliJIDEA.Ultimate_winget
-deprecate Dandanplay_winget
+merging react-native-debugger_winget
+deprecate WaykNow_winget
+deprecate ECLiPSe_winget
+deprecate EGameLive_winget
