@@ -1,4 +1,1 @@
-merging react-native-debugger_winget
-deprecate WaykNow_winget
-deprecate ECLiPSe_winget
-deprecate EGameLive_winget
+deprecate react-native-debugger_winget

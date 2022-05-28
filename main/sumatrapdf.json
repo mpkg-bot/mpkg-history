@@ -1,9 +1,9 @@
 {
     "id": "sumatrapdf",
-    "ver": "3.4.1",
+    "ver": "3.4.2",
     "arch": {
-        "64bit": "https://www.sumatrapdfreader.org/dl/rel/3.4.1/SumatraPDF-3.4.1-64-install.exe",
-        "32bit": "https://www.sumatrapdfreader.org/dl/rel/3.4.1/SumatraPDF-3.4.1-install.exe"
+        "64bit": "https://www.sumatrapdfreader.org/dl/rel/3.4.2/SumatraPDF-3.4.2-64-install.exe",
+        "32bit": "https://www.sumatrapdfreader.org/dl/rel/3.4.2/SumatraPDF-3.4.2-install.exe"
     },
     "changelog": "https://www.sumatrapdfreader.org/docs/Version-history.html",
     "args": "/S"
