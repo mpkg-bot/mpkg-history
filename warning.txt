@@ -1,1 +1,1 @@
-deprecate react-native-debugger_winget
+pass

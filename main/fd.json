@@ -1,10 +1,10 @@
 {
     "id": "fd",
-    "ver": "8.3.2",
-    "date": "2022-01-29",
+    "ver": "8.4.0",
+    "date": "2022-05-29",
     "arch": {
-        "32bit": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-i686-pc-windows-msvc.zip",
-        "64bit": "https://github.com/sharkdp/fd/releases/download/v8.3.2/fd-v8.3.2-x86_64-pc-windows-msvc.zip"
+        "32bit": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/fd/releases/download/v8.4.0/fd-v8.4.0-x86_64-pc-windows-msvc.zip"
     },
     "changelog": "https://github.com/sharkdp/fd/releases/latest",
     "bin": [
