@@ -1,1 +1,13 @@
-pass
+merging Compass.Isolated_winget
+merging VisualStudio.2022.Enterprise_winget
+merging SQLServer.2019.Express_winget
+merging Rust.MSVC_winget
+merging LeagueOfLegends.OC1_winget
+merging AbilityOffice.10.Professional_winget
+merging libjpeg-turbo.VC_winget
+merging Grafana.Enterprise_winget
+merging IntelliJIDEA.Ultimate.EAP_winget
+merging openjdk.17.jre_winget
+merging TI-Nspire.CXStudent_winget
+merging CPU-Z.AORUS_winget
+merging K-LiteCodecPack.Basic_winget
