@@ -1,14 +1,1 @@
-merging IntelliJIDEA.Edu_winget
-deprecate Compass.Isolated_winget
-deprecate VisualStudio.2022.Enterprise_winget
-deprecate SQLServer.2019.Express_winget
-deprecate Rust.MSVC_winget
-deprecate LeagueOfLegends.OC1_winget
-deprecate AbilityOffice.10.Professional_winget
-deprecate libjpeg-turbo.VC_winget
-deprecate Grafana.Enterprise_winget
-deprecate IntelliJIDEA.Ultimate.EAP_winget
-deprecate openjdk.17.jre_winget
-deprecate TI-Nspire.CXStudent_winget
-deprecate CPU-Z.AORUS_winget
-deprecate K-LiteCodecPack.Basic_winget
+deprecate IntelliJIDEA.Edu_winget
