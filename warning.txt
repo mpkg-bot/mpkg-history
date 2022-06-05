@@ -1,1 +1,4 @@
-pass
+merging PDFtkServer_winget
+merging PDFtk-ThePDFToolkit_winget
+merging TemurinJRE.11_winget
+merging Zulu.17_winget
