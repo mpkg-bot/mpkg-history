@@ -1,4 +1,6 @@
-merging PDFtkServer_winget
-merging PDFtk-ThePDFToolkit_winget
-merging TemurinJRE.11_winget
-merging Zulu.17_winget
+failed: virtualbox
+merging virtualbox
+deprecate PDFtkServer_winget
+deprecate PDFtk-ThePDFToolkit_winget
+deprecate TemurinJRE.11_winget
+deprecate Zulu.17_winget
