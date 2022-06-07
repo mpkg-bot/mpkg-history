@@ -1,6 +1,1 @@
-failed: virtualbox
-merging virtualbox
-deprecate PDFtkServer_winget
-deprecate PDFtk-ThePDFToolkit_winget
-deprecate TemurinJRE.11_winget
-deprecate Zulu.17_winget
+pass
