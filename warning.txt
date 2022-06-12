@@ -1,1 +1,2 @@
-merging MSIKombustor_winget
+merging SIW_winget
+deprecate MSIKombustor_winget
