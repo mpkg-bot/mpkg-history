@@ -1,2 +1,3 @@
-merging SIW_winget
-deprecate MSIKombustor_winget
+merging PaladiumLauncher_winget
+merging SoundCheck_winget
+deprecate SIW_winget
