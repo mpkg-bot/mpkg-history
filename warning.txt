@@ -1,3 +1,2 @@
-merging PaladiumLauncher_winget
-merging SoundCheck_winget
-deprecate SIW_winget
+deprecate PaladiumLauncher_winget
+deprecate SoundCheck_winget
