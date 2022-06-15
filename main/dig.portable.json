@@ -1,11 +1,11 @@
 {
     "id": "dig.portable",
-    "ver": "9.16.29",
-    "date": "2022-05-18",
+    "ver": "9.16.30",
+    "date": "2022-06-15",
     "arch": {
-        "64bit": "https://downloads.isc.org/isc/bind9/9.16.29/BIND9.16.29.x64.zip"
+        "64bit": "https://downloads.isc.org/isc/bind9/9.16.30/BIND9.16.30.x64.zip"
     },
-    "changelog": "https://downloads.isc.org/isc/bind9/9.16.29/RELEASE-NOTES-bind-9.16.29.html",
+    "changelog": "https://downloads.isc.org/isc/bind9/9.16.30/RELEASE-NOTES-bind-9.16.30.html",
     "bin": [
         "dig.exe"
     ]
