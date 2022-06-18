@@ -1,2 +1,3 @@
 failed: curl
 merging curl
+merging BurpSuite.Community_winget
