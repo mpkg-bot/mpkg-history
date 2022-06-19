@@ -1,3 +1,6 @@
 failed: curl
 merging curl
-merging BurpSuite.Community_winget
+deprecate BurpSuite.Community_winget
+merging MSIKombustor.3_winget
+merging BurpSuite.Professional_winget
+deprecate BurpSuite.Community_winget
