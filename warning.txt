@@ -1,2 +1,4 @@
 failed: curl
 merging curl
+merging OpenJDK.16_winget
+merging OpenJDK.17_winget
