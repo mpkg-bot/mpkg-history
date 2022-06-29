@@ -1,4 +1,5 @@
 failed: curl
 merging curl
-merging OpenJDK.16_winget
-merging OpenJDK.17_winget
+merging COCR_winget
+deprecate OpenJDK.16_winget
+deprecate OpenJDK.17_winget
