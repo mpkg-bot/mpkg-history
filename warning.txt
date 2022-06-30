@@ -1,5 +1,5 @@
 failed: curl
 merging curl
-merging COCR_winget
-deprecate OpenJDK.16_winget
-deprecate OpenJDK.17_winget
+merging clash-mini_scoop
+merging KaiHeiLa_winget
+deprecate COCR_winget
