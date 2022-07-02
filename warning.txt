@@ -1,15 +1,3 @@
-failed: qbittorrent|imdisk|curl|ultradefrag|python-stable|nodejs-lts|sumatrapdf|mpv.portable|quiterss.portable|wireshark
-merging qbittorrent
-merging imdisk
-merging ultradefrag
-merging python3.10
-merging python-stable
- dependency: python3.10
-merging nodejs-lts
-merging sumatrapdf
-merging mpv.portable
-merging quiterss.portable
-merging wireshark
+failed: curl
 merging curl
-deprecate clash-mini_scoop
-deprecate KaiHeiLa_winget
+merging QQPinyin_winget

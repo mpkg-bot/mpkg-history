@@ -1,0 +1,15 @@
+{
+    "id": "ffmpeg-x86",
+    "ver": "4.3.1",
+    "arch": {
+        "32bit": "https://web.archive.org/web/20200916091959/https://ffmpeg.zeranoe.com/builds/win32/static/ffmpeg-4.3.1-win32-static.zip"
+    },
+    "sha256": {
+        "32bit": "589e2dedd5bba34dede84c9513505768f4042a33b5bf21d90b97901da635a245"
+    },
+    "bin": [
+        "bin\\ffmpeg.exe",
+        "bin\\ffplay.exe",
+        "bin\\ffprobe.exe"
+    ]
+}
