@@ -1,3 +1,4 @@
-failed: curl
+failed: virtualbox|curl
+merging virtualbox
 merging curl
-merging QQPinyin_winget
+deprecate QQPinyin_winget
