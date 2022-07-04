@@ -1,4 +1,3 @@
-failed: virtualbox|curl
-merging virtualbox
+failed: curl
 merging curl
-deprecate QQPinyin_winget
+merging Maxthon5_winget
