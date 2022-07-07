@@ -1,2 +1,4 @@
 failed: curl
 merging curl
+merging IntelliJIDEA.Ultimate_winget
+merging ViewerComponent.Office_winget
