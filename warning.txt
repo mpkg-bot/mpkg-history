@@ -1,4 +1,3 @@
 failed: curl
 merging curl
-deprecate IntelliJIDEA.Ultimate_winget
-deprecate ViewerComponent.Office_winget
+merging SUMo_winget
