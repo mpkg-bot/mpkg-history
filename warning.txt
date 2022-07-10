@@ -1,3 +1,4 @@
 failed: curl
 merging curl
-merging SUMo_winget
+merging BraveBrowser.Beta_winget
+deprecate SUMo_winget
