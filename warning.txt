@@ -1,4 +1,14 @@
 failed: curl
 merging curl
-merging BraveBrowser.Beta_winget
-deprecate SUMo_winget
+merging MYKIDesktopApp_winget
+merging GameplayTimeTracker_winget
+merging JavaProfiler_winget
+merging browser_winget
+merging RobotKarol3_winget
+merging Ultracopier_winget
+merging BSU_winget
+merging Kite_winget
+merging Windscribe_winget
+merging filius_winget
+merging MediaFileManager_winget
+deprecate BraveBrowser.Beta_winget
