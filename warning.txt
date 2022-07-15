@@ -3,8 +3,8 @@ merging python3.10
 merging python-stable
  dependency: python3.10
 merging curl
-merging harmonoid_scoop
-merging TestLink_winget
-merging Ferdium_winget
-deprecate Temurin.18_winget
-deprecate PSNow_winget
+deprecate harmonoid_scoop
+merging EADesktop_winget
+merging Ferdium.Beta_winget
+deprecate TestLink_winget
+deprecate Ferdium_winget
