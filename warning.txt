@@ -3,5 +3,3 @@ merging python3.10
 merging python-stable
  dependency: python3.10
 merging curl
-deprecate EADesktop_winget
-deprecate Ferdium.Beta_winget
