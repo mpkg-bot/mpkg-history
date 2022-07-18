@@ -1,5 +1,8 @@
-failed: python-stable|curl
+failed: python-stable|curl|kodi
+merging kodi
 merging python3.10
 merging python-stable
  dependency: python3.10
 merging curl
+merging Ruby_winget
+merging Twitch_winget
