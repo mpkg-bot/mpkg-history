@@ -1,0 +1,28 @@
+{
+    "id": "restic",
+    "ver": "0.13.1",
+    "date": "2022-04-10",
+    "arch": {
+        "32bit": "https://github.com/restic/restic/releases/download/v0.13.1/restic_0.13.1_windows_386.zip",
+        "64bit": "https://github.com/restic/restic/releases/download/v0.13.1/restic_0.13.1_windows_amd64.zip"
+    },
+    "sha256": {
+        "32bit": "772acdb9d5502a67fabe618d3ebf734879f4f5aaf3249aaea40c2d6d0c81d117",
+        "64bit": "3e8a768889dd85d952fc7160d196c68866c9155383b0347c4049d079c8ae2cdd"
+    },
+    "changelog": "https://github.com/restic/restic/releases/latest",
+    "bin": {
+        "32bit": [
+            [
+                "restic_0.13.1_windows_386.exe",
+                "restic"
+            ]
+        ],
+        "64bit": [
+            [
+                "restic_0.13.1_windows_amd64.exe",
+                "restic"
+            ]
+        ]
+    }
+}
