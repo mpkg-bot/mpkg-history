@@ -1,4 +1,4 @@
-merging Xampp_winget
-merging Typora.Beta_winget
-merging NeoLoad_winget
-merging espanso_winget
+deprecate Xampp_winget
+deprecate Typora.Beta_winget
+deprecate NeoLoad_winget
+deprecate espanso_winget
