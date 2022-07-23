@@ -1,4 +1,2 @@
-deprecate Xampp_winget
-deprecate Typora.Beta_winget
-deprecate NeoLoad_winget
-deprecate espanso_winget
+merging Apollo_winget
+merging IntelliJIDEA.Edu_winget
