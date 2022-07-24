@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "5.0.1",
-    "date": "2022-04-07",
+    "ver": "5.1",
+    "date": "2022-07-24",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/5.0.1/ffmpeg-5.0.1-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/5.1/ffmpeg-5.1-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "ded28435b6f04b74f5ef5a6a13761233bce9e8e9f8ecb0eabe936fd36a778b0c"
+        "64bit": "dbcb95ef23c4a32c8f21b185054067f7dce935b1f0c72944f3c04cc5fce5174f"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
