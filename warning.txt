@@ -1,4 +1,1 @@
-failed: virtualbox
-merging virtualbox
-deprecate Apollo_winget
-deprecate IntelliJIDEA.Edu_winget
+merging go-ipfs_scoop
