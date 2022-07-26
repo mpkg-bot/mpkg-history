@@ -1,1 +1,1 @@
-merging go-ipfs_scoop
+deprecate go-ipfs_scoop
