@@ -1,1 +1,1 @@
-deprecate go-ipfs_scoop
+pass
