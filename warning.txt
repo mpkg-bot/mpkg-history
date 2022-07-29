@@ -1,2 +1,6 @@
-merging glide_scoop
-merging Dopamine_winget
+failed: quiterss.portable
+merging quiterss.portable
+deprecate glide_scoop
+merging Dopamine.2_winget
+merging Groovy_winget
+deprecate Dopamine_winget
