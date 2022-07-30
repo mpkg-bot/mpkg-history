@@ -1,6 +1,4 @@
-failed: quiterss.portable
-merging quiterss.portable
-deprecate glide_scoop
-merging Dopamine.2_winget
-merging Groovy_winget
-deprecate Dopamine_winget
+merging autohotkey-installer_scoop
+merging Temurin.20_winget
+deprecate Dopamine.2_winget
+deprecate Groovy_winget
