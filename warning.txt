@@ -1,4 +1,3 @@
-merging autohotkey-installer_scoop
-merging Temurin.20_winget
-deprecate Dopamine.2_winget
-deprecate Groovy_winget
+deprecate autohotkey-installer_scoop
+merging Yukino_winget
+deprecate Temurin.20_winget
