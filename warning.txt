@@ -1,3 +1,5 @@
-deprecate autohotkey-installer_scoop
-merging Yukino_winget
-deprecate Temurin.20_winget
+merging Zulu.18_winget
+merging Zulu.17.JDK_winget
+merging Ubuntu.2004_winget
+merging IntelliJIDEA.Community_winget
+deprecate Yukino_winget
