@@ -1,5 +1,3 @@
-merging Zulu.11_winget
-deprecate Zulu.18_winget
-deprecate Zulu.17.JDK_winget
-deprecate Ubuntu.2004_winget
-deprecate IntelliJIDEA.Community_winget
+merging Go_winget
+merging Go.1.18_winget
+deprecate Zulu.11_winget
