@@ -1,3 +1,2 @@
-merging Go_winget
-merging Go.1.18_winget
-deprecate Zulu.11_winget
+deprecate Go_winget
+deprecate Go.1.18_winget
