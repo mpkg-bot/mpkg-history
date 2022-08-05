@@ -1,2 +1,2 @@
-deprecate Go_winget
-deprecate Go.1.18_winget
+merging Zulu.8_winget
+merging Shell_winget
