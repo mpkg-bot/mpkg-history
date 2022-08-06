@@ -1,2 +1,3 @@
-merging Zulu.8_winget
-merging Shell_winget
+merging MailWasher.Pro_winget
+deprecate Zulu.8_winget
+deprecate Shell_winget
