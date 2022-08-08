@@ -1,1 +1,1 @@
-deprecate MailWasher.Pro_winget
+merging Chrome.Canary_winget
