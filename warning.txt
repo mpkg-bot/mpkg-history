@@ -1,1 +1,2 @@
-merging Chrome.Canary_winget
+merging OpenSSH_winget
+deprecate Chrome.Canary_winget
