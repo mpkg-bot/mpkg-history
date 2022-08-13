@@ -1,1 +1,5 @@
-pass
+failed: adb
+merging adb
+merging libjpeg-turbo.VC_winget
+merging AxisCameraStation-Preview_winget
+merging miuiplus_winget
