@@ -1,5 +1,3 @@
-failed: adb
-merging adb
-merging libjpeg-turbo.VC_winget
-merging AxisCameraStation-Preview_winget
-merging miuiplus_winget
+deprecate libjpeg-turbo.VC_winget
+deprecate AxisCameraStation-Preview_winget
+deprecate miuiplus_winget
