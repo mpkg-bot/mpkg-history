@@ -1,3 +1,2 @@
-merging Lightburn_winget
-deprecate libjpeg-turbo.GCC_winget
-deprecate Zulu.7_winget
+merging Python.3_winget
+deprecate Lightburn_winget
