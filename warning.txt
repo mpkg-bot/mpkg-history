@@ -1,2 +1,4 @@
-merging Python.3_winget
-deprecate Lightburn_winget
+merging LibreOffice.LTS_winget
+merging Wget_winget
+merging PyCharm.Professional_winget
+deprecate Python.3_winget
