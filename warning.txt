@@ -1,4 +1,4 @@
-merging LibreOffice.LTS_winget
-merging Wget_winget
-merging PyCharm.Professional_winget
-deprecate Python.3_winget
+merging Bas21_winget
+deprecate LibreOffice.LTS_winget
+deprecate Wget_winget
+deprecate PyCharm.Professional_winget
