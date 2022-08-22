@@ -1,4 +1,4 @@
-merging legendary_scoop
-merging Sysinternals.Autoruns_winget
-merging PyCharm.Community_winget
-deprecate Bas21_winget
+deprecate legendary_scoop
+merging DLP_winget
+deprecate Sysinternals.Autoruns_winget
+deprecate PyCharm.Community_winget
