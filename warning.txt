@@ -1,4 +1,3 @@
-deprecate legendary_scoop
-merging DLP_winget
-deprecate Sysinternals.Autoruns_winget
-deprecate PyCharm.Community_winget
+failed: adb
+merging adb
+deprecate DLP_winget
