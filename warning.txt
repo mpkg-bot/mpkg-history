@@ -1,3 +1,5 @@
 failed: adb
 merging adb
-deprecate DLP_winget
+merging TF2BotDetector_winget
+merging wget_winget_0
+merging wget_winget_1
