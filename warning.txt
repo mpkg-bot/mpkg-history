@@ -1,7 +1,3 @@
 failed: adb
 merging adb
-merging UniConverter.13_winget
-deprecate imageresizer_winget
-deprecate Raider_winget
-deprecate OBSStudio.Pre-release_winget
-deprecate SoundCleod_winget
+deprecate UniConverter.13_winget
