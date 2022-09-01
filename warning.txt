@@ -1,6 +1,6 @@
 failed: adb
 merging adb
-merging AutoHome-Autostart_winget
-merging ActivePerl_winget
-merging ksnip.Continuous_winget
-deprecate Chrome.Dev_winget
+merging Doomsday_winget
+deprecate AutoHome-Autostart_winget
+deprecate ActivePerl_winget
+deprecate ksnip.Continuous_winget
