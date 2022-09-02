@@ -1,6 +1,4 @@
 failed: adb
 merging adb
-merging Doomsday_winget
-deprecate AutoHome-Autostart_winget
-deprecate ActivePerl_winget
-deprecate ksnip.Continuous_winget
+merging ScreenShare_winget
+deprecate Doomsday_winget
