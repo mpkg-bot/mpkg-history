@@ -1,4 +1,4 @@
 failed: adb
 merging adb
-merging ScreenShare_winget
-deprecate Doomsday_winget
+merging Listary.Beta_winget
+deprecate ScreenShare_winget
