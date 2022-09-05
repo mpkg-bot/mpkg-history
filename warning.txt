@@ -1,3 +1,1 @@
-failed: adb
-merging adb
-deprecate Listary.Beta_winget
+merging Temurin.20.JDK_winget
