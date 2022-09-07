@@ -1,2 +1,1 @@
-merging FileZilla.Client_winget
-deprecate Temurin.20.JDK_winget
+deprecate FileZilla.Client_winget
