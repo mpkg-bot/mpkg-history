@@ -1,1 +1,1 @@
-deprecate FileZilla.Client_winget
+merging stfc_winget
