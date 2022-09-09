@@ -1,1 +1,3 @@
-merging stfc_winget
+merging lightworks_winget_0
+merging lightworks_winget_1
+deprecate stfc_winget

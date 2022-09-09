@@ -1,12 +1,12 @@
 {
     "id": "gsudo",
-    "ver": "1.4.1",
-    "date": "2022-09-05",
+    "ver": "1.5.1",
+    "date": "2022-09-09",
     "sha256": [
-        "32E798114179F5FDFCED822C0A12C85A3A2B47F267DF4F9530B03A8E3BDA01CF"
+        "2E761130A4A7AC925F13903D3B64D98E7119A090ADC90C2601D7162156ED4F52"
     ],
     "links": [
-        "https://github.com/gerardog/gsudo/releases/download/v1.4.1/gsudo.v1.4.1.zip"
+        "https://github.com/gerardog/gsudo/releases/download/v1.5.1/gsudo.v1.5.1.zip"
     ],
     "changelog": "https://github.com/gerardog/gsudo/releases/latest",
     "bin": {
