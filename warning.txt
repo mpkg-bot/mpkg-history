@@ -1,2 +1,3 @@
-deprecate lightworks_winget_0
-deprecate lightworks_winget_1
+merging btop4win_scoop
+merging Overwolf_winget
+merging Mumble_winget
