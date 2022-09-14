@@ -1,1 +1,1 @@
-merging png2html_scoop
+deprecate png2html_scoop
