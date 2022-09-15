@@ -1,1 +1,6 @@
-deprecate png2html_scoop
+merging KafkaAssistant_winget
+merging DataAssistant_winget
+merging RedisAssistant_winget
+merging TinyGUI_winget
+merging RabbitMQAssistant_winget
+merging ZooKeeperAssistant_winget
