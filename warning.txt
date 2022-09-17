@@ -1,10 +1,4 @@
-merging viewer_winget_0
-merging SEOSpider_winget
-merging viewer_winget_1
-merging Vista3_winget
-deprecate KafkaAssistant_winget
-deprecate DataAssistant_winget
-deprecate RedisAssistant_winget
-deprecate TinyGUI_winget
-deprecate RabbitMQAssistant_winget
-deprecate ZooKeeperAssistant_winget
+deprecate viewer_winget_0
+deprecate SEOSpider_winget
+deprecate viewer_winget_1
+deprecate Vista3_winget
