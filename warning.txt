@@ -1,4 +1,1 @@
-deprecate viewer_winget_0
-deprecate SEOSpider_winget
-deprecate viewer_winget_1
-deprecate Vista3_winget
+merging wtfast_winget
