@@ -1,7 +1,6 @@
 failed: ffmpeg
 merging ffmpeg
-merging QQPlayer_cn_winget
-merging wechat-devtool_winget
-merging VC++2005Redist-x64_winget
-merging VC++2005Redist-x86_winget
-deprecate wtfast_winget
+deprecate QQPlayer_cn_winget
+deprecate wechat-devtool_winget
+deprecate VC++2005Redist-x64_winget
+deprecate VC++2005Redist-x86_winget
