@@ -3,8 +3,8 @@
     "ver": "0.1.1-2",
     "date": "2022-09-05",
     "arch": {
-        "32bit": "https://github.com/zpcc/tcping/releases/download/v0.1.1-2/tcping-windows-386-v0.1.1-2@a3e9e7d5d7.zip",
-        "64bit": "https://github.com/zpcc/tcping/releases/download/v0.1.1-2/tcping-windows-amd64-v0.1.1-2@a3e9e7d5d7.zip"
+        "32bit": "https://github.com/zpcc/tcping/releases/download/v0.1.1-2/tcping-windows-386-v0.1.1-2%40a3e9e7d5d7.zip",
+        "64bit": "https://github.com/zpcc/tcping/releases/download/v0.1.1-2/tcping-windows-amd64-v0.1.1-2%40a3e9e7d5d7.zip"
     },
     "bin": [
         "tcping.exe"
