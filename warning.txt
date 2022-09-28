@@ -1,12 +1,4 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging LibericaJDK.18_winget
-merging LibericaJDK.18.Full_winget
-deprecate AnyLogic.Personal_winget
-deprecate AbilityOffice.10.Professional_winget
-deprecate Acrobat.Reader.32-bit_winget
-deprecate Valorant.NA_winget
-deprecate VCRedist.2008.x64_winget
-deprecate Presenter.Personal_winget
-deprecate CPU-Z.PHANTOM_winget
-deprecate SocketTools10.ActiveXRedist_x64_winget
+deprecate LibericaJDK.18_winget
+deprecate LibericaJDK.18.Full_winget
