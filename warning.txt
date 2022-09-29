@@ -1,4 +1,3 @@
-failed: sqlitebrowser
+failed: ffmpeg|sqlitebrowser
+merging ffmpeg
 merging sqlitebrowser
-deprecate LibericaJDK.18_winget
-deprecate LibericaJDK.18.Full_winget
