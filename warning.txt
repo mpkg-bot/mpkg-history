@@ -1,3 +1,11 @@
-failed: ffmpeg|sqlitebrowser
-merging ffmpeg
+failed: sqlitebrowser
 merging sqlitebrowser
+merging VC++2012Redist-x86_winget
+merging VC++2013Redist-x64_winget
+merging VC++2017Redist-x86_winget
+merging VC++2017Redist-x64_winget
+merging VC++2015Redist-x64_winget
+merging VC++2015Redist-x86_winget
+merging VC++2012Redist-x64_winget
+merging VCRedist.2008.x86_winget
+merging VC++2013Redist-x86_winget
