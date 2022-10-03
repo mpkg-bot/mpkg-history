@@ -1,10 +1,10 @@
 {
     "id": "git",
-    "ver": "2.37.3",
-    "date": "2022-08-30",
+    "ver": "2.38.0",
+    "date": "2022-10-03",
     "arch": {
-        "32bit": "https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-32-bit.exe",
-        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe"
+        "32bit": "https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-32-bit.exe",
+        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe"
     },
     "changelog": "https://github.com/git-for-windows/git/releases/latest",
     "args": "/sp- /verysilent /norestart"
