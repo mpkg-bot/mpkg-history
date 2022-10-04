@@ -1,11 +1,13 @@
-failed: sqlitebrowser
+failed: python-stable|sqlitebrowser
+merging python3.10
+merging python-stable
+ dependency: python3.10
 merging sqlitebrowser
-merging typora_winget_0
-merging VC++2019Redist-arm64_winget
-merging VC++2010Redist-x86_winget
-merging VC++2010Redist-x64_winget
-merging VC++2022Redist-arm64_winget
-merging VCRedist.2015+.x86_winget
-merging typora_winget_1
-deprecate Corretto.18_winget
-deprecate Unity.2021_winget
+merging Snagit_winget
+deprecate typora_winget_0
+deprecate VC++2019Redist-arm64_winget
+deprecate VC++2010Redist-x86_winget
+deprecate VC++2010Redist-x64_winget
+deprecate VC++2022Redist-arm64_winget
+deprecate VCRedist.2015+.x86_winget
+deprecate typora_winget_1
