@@ -3,11 +3,4 @@ merging python3.10
 merging python-stable
  dependency: python3.10
 merging sqlitebrowser
-merging Snagit_winget
-deprecate typora_winget_0
-deprecate VC++2019Redist-arm64_winget
-deprecate VC++2010Redist-x86_winget
-deprecate VC++2010Redist-x64_winget
-deprecate VC++2022Redist-arm64_winget
-deprecate VCRedist.2015+.x86_winget
-deprecate typora_winget_1
+deprecate Snagit_winget
