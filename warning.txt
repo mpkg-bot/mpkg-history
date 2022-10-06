@@ -1,6 +1,3 @@
-failed: python-stable|sqlitebrowser
-merging python3.10
-merging python-stable
- dependency: python3.10
+failed: sqlitebrowser
 merging sqlitebrowser
-deprecate Snagit_winget
+merging cli_winget_2
