@@ -1,3 +1,8 @@
-failed: sqlitebrowser
+failed: python-stable|sqlitebrowser
+merging python3.10
+merging python-stable
+ dependency: python3.10
 merging sqlitebrowser
-merging cli_winget_2
+merging XMind_winget
+merging XMind.8_winget
+deprecate cli_winget_2
