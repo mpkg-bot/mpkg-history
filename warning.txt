@@ -3,6 +3,7 @@ merging python3.10
 merging python-stable
  dependency: python3.10
 merging sqlitebrowser
-merging XMind_winget
-merging XMind.8_winget
-deprecate cli_winget_2
+merging Messenger_winget
+merging NextDNS_winget
+deprecate XMind_winget
+deprecate XMind.8_winget
