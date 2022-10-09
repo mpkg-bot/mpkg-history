@@ -1,9 +1,5 @@
-failed: python-stable|sqlitebrowser
-merging python3.10
-merging python-stable
- dependency: python3.10
+failed: sqlitebrowser
 merging sqlitebrowser
-merging Messenger_winget
-merging NextDNS_winget
-deprecate XMind_winget
-deprecate XMind.8_winget
+merging Reactotron.Beta_winget
+deprecate Messenger_winget
+deprecate NextDNS_winget
