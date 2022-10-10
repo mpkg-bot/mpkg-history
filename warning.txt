@@ -1,5 +1,4 @@
-failed: sqlitebrowser
+failed: xpdf-tools|sqlitebrowser
+merging xpdf-tools
 merging sqlitebrowser
-merging Reactotron.Beta_winget
-deprecate Messenger_winget
-deprecate NextDNS_winget
+deprecate Reactotron.Beta_winget
