@@ -1,14 +1,14 @@
 {
     "id": "python3.10",
-    "ver": "3.10.7",
-    "date": "2022-09-06",
+    "ver": "3.10.8",
+    "date": "2022-10-11",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.10.7/python-3.10.7.exe",
-        "64bit": "https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.10.8/python-3.10.8.exe",
+        "64bit": "https://www.python.org/ftp/python/3.10.8/python-3.10.8-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:58755d6906f825168999c83ce82315d7",
-        "64bit": "md5:bfbe8467c7e3504f3800b0fe94d9a3e6"
+        "32bit": "md5:10efcd9a8777fe84f9a9c583d074e632",
+        "64bit": "md5:308a3d095311fbc82e5c696ab4036251"
     },
-    "changelog": "https://docs.python.org/release/3.10.7/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.10.8/whatsnew/changelog.html#changelog"
 }

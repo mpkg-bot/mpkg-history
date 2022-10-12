@@ -1,9 +1,6 @@
-failed: python-stable|sqlitebrowser
-merging python3.10
-merging python-stable
- dependency: python3.10
+failed: sqlitebrowser
 merging sqlitebrowser
-merging BraveBrowser_winget
-merging BraveBrowser.Nightly_winget
-merging DriverBooster9_winget
-merging RamboxCE_winget
+deprecate BraveBrowser_winget
+deprecate BraveBrowser.Nightly_winget
+deprecate DriverBooster9_winget
+deprecate RamboxCE_winget
