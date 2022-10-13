@@ -1,6 +1,2 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-deprecate BraveBrowser_winget
-deprecate BraveBrowser.Nightly_winget
-deprecate DriverBooster9_winget
-deprecate RamboxCE_winget
