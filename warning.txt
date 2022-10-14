@@ -1,2 +1,4 @@
 failed: sqlitebrowser
 merging sqlitebrowser
+merging xysubfilter_scoop
+merging eMule_winget
