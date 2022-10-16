@@ -1,5 +1,6 @@
-failed: sqlitebrowser
+failed: virtualbox|sqlitebrowser
+merging virtualbox
 merging sqlitebrowser
-deprecate xysubfilter_scoop
-deprecate eMule_winget
-deprecate eMule_winget
+merging Ritchie-CLI_winget
+merging Cocos.Dashboard_winget
+merging LiveresultatDesktop_winget
