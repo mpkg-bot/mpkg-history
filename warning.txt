@@ -1,6 +1,8 @@
-failed: virtualbox|sqlitebrowser
-merging virtualbox
+failed: sqlitebrowser|gimp
+merging gimp
 merging sqlitebrowser
-merging Ritchie-CLI_winget
-merging Cocos.Dashboard_winget
-merging LiveresultatDesktop_winget
+merging SSHClient_winget
+merging TViewer_winget
+deprecate Ritchie-CLI_winget
+deprecate Cocos.Dashboard_winget
+deprecate LiveresultatDesktop_winget
