@@ -1,8 +1,6 @@
-failed: sqlitebrowser|gimp
-merging gimp
+failed: sqlitebrowser
 merging sqlitebrowser
-merging SSHClient_winget
-merging TViewer_winget
-deprecate Ritchie-CLI_winget
-deprecate Cocos.Dashboard_winget
-deprecate LiveresultatDesktop_winget
+merging Zoom.OutlookPlugin_winget
+merging PolyMC_winget
+deprecate SSHClient_winget
+deprecate TViewer_winget
