@@ -1,6 +1,4 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging Zoom.OutlookPlugin_winget
-merging PolyMC_winget
-deprecate SSHClient_winget
-deprecate TViewer_winget
+deprecate Zoom.OutlookPlugin_winget
+deprecate PolyMC_winget
