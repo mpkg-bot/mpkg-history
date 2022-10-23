@@ -1,2 +1,4 @@
 failed: sqlitebrowser
 merging sqlitebrowser
+merging ForOffice_winget
+merging gm8x_fix_winget
