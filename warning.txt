@@ -1,4 +1,7 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging ForOffice_winget
-merging gm8x_fix_winget
+merging mkvtoolnix_winget_0
+merging mkvtoolnix_winget_1
+merging PDFelement.9_winget
+deprecate ForOffice_winget
+deprecate gm8x_fix_winget
