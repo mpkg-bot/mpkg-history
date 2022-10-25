@@ -1,0 +1,14 @@
+{
+    "id": "python3.11",
+    "ver": "3.11.0",
+    "date": "2022-10-24",
+    "arch": {
+        "32bit": "https://www.python.org/ftp/python/3.11.0/python-3.11.0.exe",
+        "64bit": "https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe"
+    },
+    "sha256": {
+        "32bit": "md5:e369a267acaad62487223bd835279bb9",
+        "64bit": "md5:4fe11b2b0bb0c744cf74aff537f7cd7f"
+    },
+    "changelog": "https://docs.python.org/release/3.11.0/whatsnew/changelog.html#changelog"
+}

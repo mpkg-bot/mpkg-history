@@ -1,7 +1,6 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging mkvtoolnix_winget_0
-merging mkvtoolnix_winget_1
-merging PDFelement.9_winget
-deprecate ForOffice_winget
-deprecate gm8x_fix_winget
+merging IntelliJIDEA.Community.EAP_winget
+deprecate mkvtoolnix_winget_0
+deprecate mkvtoolnix_winget_1
+deprecate PDFelement.9_winget
