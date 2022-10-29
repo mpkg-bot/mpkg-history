@@ -1,5 +1,2 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-deprecate IntelliJIDEA.Ultimate.EAP_winget
-deprecate Python.3.10_winget
-deprecate msys2_winget
