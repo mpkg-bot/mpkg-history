@@ -1,2 +1,5 @@
 failed: sqlitebrowser
 merging sqlitebrowser
+merging PDFelement.CN_winget
+merging winfetch_winget
+merging SSH.Client_winget
