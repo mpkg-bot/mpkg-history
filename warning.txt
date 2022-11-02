@@ -1,7 +1,5 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging Python.3.11_winget
-merging LibreOffice.SDK_winget
-deprecate PDFelement.CN_winget
-deprecate winfetch_winget
-deprecate SSH.Client_winget
+merging tropy_winget
+deprecate Python.3.11_winget
+deprecate LibreOffice.SDK_winget
