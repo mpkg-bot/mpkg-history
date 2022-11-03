@@ -1,5 +1,4 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging tropy_winget
-deprecate Python.3.11_winget
-deprecate LibreOffice.SDK_winget
+merging quicker_winget
+deprecate tropy_winget
