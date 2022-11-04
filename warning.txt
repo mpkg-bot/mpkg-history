@@ -1,4 +1,5 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-merging quicker_winget
-deprecate tropy_winget
+merging Chrome.Canary_winget
+merging SSH.Server_winget
+deprecate quicker_winget
