@@ -1,9 +1,9 @@
 {
     "id": "firefox",
-    "ver": "106.0.4",
+    "ver": "106.0.5",
     "arch": {
-        "64bit": "https://archive.mozilla.org/pub/firefox/releases/106.0.4/win64/en-US/Firefox%20Setup%20106.0.4.exe",
-        "32bit": "https://archive.mozilla.org/pub/firefox/releases/106.0.4/win32/en-US/Firefox%20Setup%20106.0.4.exe"
+        "64bit": "https://archive.mozilla.org/pub/firefox/releases/106.0.5/win64/en-US/Firefox%20Setup%20106.0.5.exe",
+        "32bit": "https://archive.mozilla.org/pub/firefox/releases/106.0.5/win32/en-US/Firefox%20Setup%20106.0.5.exe"
     },
     "description": "Popular open source web browser.",
     "homepage": "https://www.mozilla.org/firefox/"
