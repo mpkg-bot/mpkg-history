@@ -1,4 +1,2 @@
 failed: sqlitebrowser
 merging sqlitebrowser
-deprecate Chrome.Canary_winget
-deprecate SSH.Server_winget
