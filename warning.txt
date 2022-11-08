@@ -1,2 +1,6 @@
-failed: sqlitebrowser
+failed: sqlitebrowser|veracrypt
+merging veracrypt
 merging sqlitebrowser
+merging Chrome.Dev_winget
+merging AnyDeskMSI_winget
+merging AlipayDevelopmentAssistant_winget
