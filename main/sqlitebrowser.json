@@ -10,6 +10,6 @@
         "32bit": "2b87a0ca1b14f436f2dc2cbfaa380249e754c3c87c81b6648a513f75d3c73368",
         "64bit": "723d601f125b0d2402d9ea191e4b310345ec52f76b61e117bf49004a2ff9b8ae"
     },
-    "changelog": "https://github.com/sqlitebrowser/sqlitebrowser/releases/v3.12.2",
+    "changelog": "https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.12.2",
     "args": "/qn /norestart"
 }

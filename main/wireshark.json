@@ -2,8 +2,10 @@
     "id": "wireshark",
     "ver": "4.0.1",
     "arch": {
-        "32bit": "https://1.na.dl.wireshark.org/win32/Wireshark-win32-4.0.1.exe",
-        "64bit": "https://1.na.dl.wireshark.org/win64/Wireshark-win64-4.0.1.exe"
+        "64bit": "https://www.wireshark.org/download/win64/Wireshark-win64-4.0.1.exe"
+    },
+    "sha256": {
+        "64bit": "39a544884be9fd40eb2c83f2440cd5efdc43a04f8ccd230379905c157c9b532e"
     },
     "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-4.0.1.html",
     "args": "/S /quicklaunchicon=no"

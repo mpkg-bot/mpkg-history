@@ -1,0 +1,11 @@
+{
+    "id": "wireshark-x86",
+    "ver": "3.6.9",
+    "arch": {
+        "32bit": "https://www.wireshark.org/download/win32/Wireshark-win32-3.6.9.exe"
+    },
+    "sha256": {
+        "32bit": "7001e74df9867ae2381ff34e32f762ce79754b3e2336a7dc365b76fd35e01ebe"
+    },
+    "args": "/S /quicklaunchicon=no"
+}

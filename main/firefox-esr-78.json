@@ -8,5 +8,6 @@
     "sha256": {
         "32bit": "147a977ee3558c7ccb2076d4bc5651d3f5000a0417e98685807c6cf82cf11131",
         "64bit": "754d823a4aa5059b5853bf3802b72b46c8767c9dbc83befbfba57964e02f3dbe"
-    }
+    },
+    "notes": "run this to disable updates: reg add HKEY_LOCAL_MACHINE\\Software\\Policies\\Mozilla\\Firefox /v DisableAppUpdate /t REG_DWORD /d 1 /f"
 }
