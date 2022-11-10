@@ -1,8 +1,6 @@
-deprecate AlipayDevelopmentAssistant_winget
-merging Ultrasearch_winget
-merging BPMN-RPAstudio_winget
-merging RawTherapee-Dev_winget
-merging RandomNumberGenerator_winget
-deprecate Chrome.Dev_winget
-deprecate AnyDeskMSI_winget
-deprecate AlipayDevelopmentAssistant_winget
+merging SAOUtils.Exp_winget
+merging BurpSuite.Community_winget
+deprecate Ultrasearch_winget
+deprecate BPMN-RPAstudio_winget
+deprecate RawTherapee-Dev_winget
+deprecate RandomNumberGenerator_winget
