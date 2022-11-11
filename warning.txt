@@ -1,6 +1,2 @@
-merging SAOUtils.Exp_winget
-merging BurpSuite.Community_winget
-deprecate Ultrasearch_winget
-deprecate BPMN-RPAstudio_winget
-deprecate RawTherapee-Dev_winget
-deprecate RandomNumberGenerator_winget
+deprecate SAOUtils.Exp_winget
+deprecate BurpSuite.Community_winget
