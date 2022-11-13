@@ -1,3 +1,1 @@
-failed: virtualbox
-merging virtualbox
-merging BurpSuite.Professional_winget
+deprecate BurpSuite.Professional_winget
