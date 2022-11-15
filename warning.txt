@@ -1,5 +1,5 @@
 failed: mpv.portable
 merging mpv.portable
-merging sfss_scoop
-merging Firefox.DeveloperEdition_winget
-merging AlipayDevelopmentAssistant_winget
+deprecate sfss_scoop
+deprecate Firefox.DeveloperEdition_winget
+deprecate AlipayDevelopmentAssistant_winget
