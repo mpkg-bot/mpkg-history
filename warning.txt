@@ -1,3 +1,5 @@
-failed: mpv.portable
+failed: gimp|mpv.portable
+merging gimp
 merging mpv.portable
-merging VCRedist.2022.arm64_winget
+merging acestudio_winget
+deprecate VCRedist.2022.arm64_winget
