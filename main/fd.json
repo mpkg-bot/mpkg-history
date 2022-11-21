@@ -1,7 +1,7 @@
 {
     "id": "fd",
     "ver": "8.5.3",
-    "date": "2022-11-14",
+    "date": "2022-11-21",
     "arch": {
         "32bit": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-i686-pc-windows-msvc.zip",
         "64bit": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-pc-windows-msvc.zip"

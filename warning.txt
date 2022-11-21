@@ -1,5 +1,4 @@
 failed: mpv.portable
 merging mpv.portable
-deprecate ppsspp_scoop
-merging VC++2008Redist-x86_winget
-merging VC++2008Redist-x64_winget
+deprecate VC++2008Redist-x86_winget
+deprecate VC++2008Redist-x64_winget
