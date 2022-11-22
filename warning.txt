@@ -1,4 +1,3 @@
 failed: mpv.portable
 merging mpv.portable
-deprecate VC++2008Redist-x86_winget
-deprecate VC++2008Redist-x64_winget
+merging PowerArchiver2022_winget
