@@ -1,3 +1,3 @@
 failed: mpv.portable
 merging mpv.portable
-merging PDFelement.9_winget
+deprecate PDFelement.9_winget
