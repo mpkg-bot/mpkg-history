@@ -1,1 +1,2 @@
-merging ProWritingAidOfficeAdd-in_winget
+merging PacketStream_winget
+deprecate ProWritingAidOfficeAdd-in_winget
