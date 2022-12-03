@@ -1,1 +1,4 @@
-merging Snagit.2022_winget
+merging LAClient_winget
+merging glue_winget
+merging QMProxyAccelerator_winget
+deprecate Snagit.2022_winget
