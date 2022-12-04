@@ -1,4 +1,3 @@
-merging LAClient_winget
-merging glue_winget
-merging QMProxyAccelerator_winget
-deprecate Snagit.2022_winget
+deprecate LAClient_winget
+deprecate glue_winget
+deprecate QMProxyAccelerator_winget
