@@ -1,9 +1,4 @@
-failed: python-stable
-merging python3.11
-merging python3.10
-merging python-stable
- dependency: python3.11|python3.10
-merging dotNetFramework_winget
-merging IDE.rc_winget
-merging ZuluFX.18.JDK_winget
-merging Zulu.18.JRE_winget
+deprecate dotNetFramework_winget
+deprecate IDE.rc_winget
+deprecate ZuluFX.18.JDK_winget
+deprecate Zulu.18.JRE_winget
