@@ -1,4 +1,3 @@
-deprecate dotNetFramework_winget
-deprecate IDE.rc_winget
-deprecate ZuluFX.18.JDK_winget
-deprecate Zulu.18.JRE_winget
+merging Viewer_winget
+merging LexibarES_winget
+merging Lexibar.RU_winget
