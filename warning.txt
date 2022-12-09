@@ -1,3 +1,6 @@
-merging Viewer_winget
-merging LexibarES_winget
-merging Lexibar.RU_winget
+failed: quiterss.portable
+merging quiterss.portable
+merging IntelliJIDEA.Ultimate.EAP_winget
+deprecate Viewer_winget
+deprecate LexibarES_winget
+deprecate Lexibar.RU_winget
