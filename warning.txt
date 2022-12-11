@@ -1,3 +1,2 @@
-deprecate IntelliJIDEA.Ultimate.EAP_winget
-merging IntelliJIDEA.Community.EAP_winget
-deprecate IntelliJIDEA.Ultimate.EAP_winget
+merging JupyterLab.Prerelease_winget
+deprecate IntelliJIDEA.Community.EAP_winget
