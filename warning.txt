@@ -1,2 +1,2 @@
-merging JupyterLab.Prerelease_winget
-deprecate IntelliJIDEA.Community.EAP_winget
+merging PDFelement.CN_winget
+deprecate JupyterLab.Prerelease_winget
