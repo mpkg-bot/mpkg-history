@@ -1,2 +1,1 @@
-merging PDFelement.CN_winget
-deprecate JupyterLab.Prerelease_winget
+deprecate PDFelement.CN_winget
