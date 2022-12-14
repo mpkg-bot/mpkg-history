@@ -1,1 +1,5 @@
-deprecate PDFelement.CN_winget
+merging DotNet.SDK.Preview_winget
+merging Firefox.Nightly_winget
+merging espanso_winget_0
+merging espanso_winget_1
+merging win_winget
