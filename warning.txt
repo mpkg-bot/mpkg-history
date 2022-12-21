@@ -1,2 +1,6 @@
+merging autohotkey2_scoop
+merging fan-control_scoop
+merging NovationUSBMidiDriver_winget
+merging LibreOffice.HelpPack_winget
 merging Evope_winget
 merging SocketTools10.LibraryRedist_x64_winget
