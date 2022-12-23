@@ -1,7 +1,1 @@
-merging nvidia-profile-inspector-foulplay_scoop
-deprecate autohotkey2_scoop
-deprecate fan-control_scoop
-deprecate NovationUSBMidiDriver_winget
-deprecate LibreOffice.HelpPack_winget
-deprecate Evope_winget
-deprecate SocketTools10.LibraryRedist_x64_winget
+deprecate nvidia-profile-inspector-foulplay_scoop
