@@ -1,1 +1,2 @@
-deprecate nvidia-profile-inspector-foulplay_scoop
+merging mpc-qt_scoop
+merging mcomix_scoop
