@@ -1,4 +1,1 @@
-deprecate mpc-qt_scoop
-deprecate mcomix_scoop
-deprecate mpc-qt_scoop
-deprecate mcomix_scoop
+pass
