@@ -1,4 +1,5 @@
-merging TowerofFantasy_winget
-merging 7+TaskbarTweaker.Beta_winget
-merging browser_winget_0
-merging browser_winget_1
+merging Lux_winget
+deprecate TowerofFantasy_winget
+deprecate 7+TaskbarTweaker.Beta_winget
+deprecate browser_winget_0
+deprecate browser_winget_1
