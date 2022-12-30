@@ -1,1 +1,4 @@
-deprecate Lux_winget
+merging winrar_scoop
+merging RubyWithDevKit.3.1_winget
+merging Writer_winget
+merging ToggleTrack_winget
