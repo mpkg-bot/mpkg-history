@@ -1,4 +1,5 @@
-merging winrar_scoop
-merging RubyWithDevKit.3.1_winget
-merging Writer_winget
-merging ToggleTrack_winget
+deprecate winrar_scoop
+deprecate winrar_scoop
+deprecate RubyWithDevKit.3.1_winget
+deprecate Writer_winget
+deprecate ToggleTrack_winget
