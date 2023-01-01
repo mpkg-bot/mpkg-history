@@ -1,5 +1,2 @@
-deprecate winrar_scoop
-deprecate winrar_scoop
-deprecate RubyWithDevKit.3.1_winget
-deprecate Writer_winget
-deprecate ToggleTrack_winget
+failed: virtualbox
+merging virtualbox
