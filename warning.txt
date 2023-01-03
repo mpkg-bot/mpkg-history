@@ -1,1 +1,2 @@
-pass
+merging avrdude_scoop
+merging ECLiPSeCLP.7.0_winget
