@@ -1,5 +1,5 @@
-deprecate avrdude_scoop
-merging xunlei_winget
-merging AutoHotkey_winget
-merging chatgpt_winget
-deprecate ECLiPSeCLP.7.0_winget
+failed: virtualbox
+merging virtualbox
+deprecate xunlei_winget
+deprecate AutoHotkey_winget
+deprecate chatgpt_winget
