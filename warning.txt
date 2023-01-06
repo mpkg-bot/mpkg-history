@@ -1,5 +1,1 @@
-failed: virtualbox
-merging virtualbox
-deprecate xunlei_winget
-deprecate AutoHotkey_winget
-deprecate chatgpt_winget
+pass
