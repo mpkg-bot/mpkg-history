@@ -1,1 +1,4 @@
-merging Julia_winget
+deprecate Julia_winget
+merging julia_winget_0
+merging julia_winget_1
+deprecate Julia_winget
