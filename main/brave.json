@@ -1,7 +1,7 @@
 {
     "id": "brave",
     "ver": "1.47.171",
-    "date": "2023-01-12",
+    "date": "2023-01-13",
     "arch": {
         "64bit": "https://github.com/brave/brave-browser/releases/download/v1.47.171/BraveBrowserStandaloneSilentSetup.exe",
         "32bit": "https://github.com/brave/brave-browser/releases/download/v1.47.171/BraveBrowserStandaloneSilentSetup32.exe"
