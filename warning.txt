@@ -1,3 +1,4 @@
-failed: virtualbox
-merging virtualbox
-deprecate AIDA64.Engineer_winget
+failed: mpv.portable
+merging mpv.portable
+merging AdvancedRun_winget
+merging aria2_winget
