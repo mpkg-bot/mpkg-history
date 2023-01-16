@@ -1,4 +1,5 @@
 failed: mpv.portable
 merging mpv.portable
-merging AdvancedRun_winget
-merging aria2_winget
+merging Ubuntu_winget
+deprecate AdvancedRun_winget
+deprecate aria2_winget
