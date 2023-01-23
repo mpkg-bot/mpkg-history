@@ -1,3 +1,1 @@
-no history file: extras.json
-no history file: scoop.json
-no history file: winget.json
+pass
