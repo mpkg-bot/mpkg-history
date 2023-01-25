@@ -1,1 +1,2 @@
-merging Biliup_winget
+merging Firefox_winget
+deprecate Biliup_winget
