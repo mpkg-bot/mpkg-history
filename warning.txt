@@ -1,2 +1,2 @@
-merging Firefox_winget
-deprecate Biliup_winget
+merging Rust.MSVC_winget
+deprecate Firefox_winget
