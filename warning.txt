@@ -1,2 +1,6 @@
-merging Rust.MSVC_winget
-deprecate Firefox_winget
+failed: veracrypt
+merging veracrypt
+deprecate Rust.MSVC_winget
+merging IntelliJIDEA.Community_winget
+merging Rust.GNU_winget
+deprecate Rust.MSVC_winget
