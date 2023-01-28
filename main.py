@@ -7,7 +7,8 @@ from pathlib import Path
 
 from mpkg.load import Load
 
-for repo in ['main', 'extras', 'scoop', 'winget']:
+for repo in ['main', 'extras', 'scoop', 'winget',
+             'main_linux', 'main_linux_deb', 'main_linux_arm', 'main_linux_arm_deb']:
     filename = f'{repo}.json'
     os.system(
         f'wget -q https://github.com/mpkg-project/mpkg-autobuild/releases/download/AutoBuild/{filename} -O {filename}')
