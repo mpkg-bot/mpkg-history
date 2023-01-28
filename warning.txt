@@ -1,6 +1,2 @@
-failed: veracrypt
-merging veracrypt
-deprecate Rust.MSVC_winget
-merging IntelliJIDEA.Community_winget
-merging Rust.GNU_winget
-deprecate Rust.MSVC_winget
+deprecate IntelliJIDEA.Community_winget
+deprecate Rust.GNU_winget
