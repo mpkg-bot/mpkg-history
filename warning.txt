@@ -1,1 +1,1 @@
-merging OpenKneeboard.Preview_winget
+deprecate OpenKneeboard.Preview_winget
