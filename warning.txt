@@ -1,1 +1,4 @@
-pass
+failed: gimp
+merging gimp
+merging less_winget
+merging lesskey_winget
