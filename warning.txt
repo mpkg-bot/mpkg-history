@@ -1,4 +1,2 @@
-failed: gimp
-merging gimp
-merging less_winget
-merging lesskey_winget
+deprecate less_winget
+deprecate lesskey_winget
