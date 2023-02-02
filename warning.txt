@@ -1,2 +1,2 @@
-deprecate less_winget
-deprecate lesskey_winget
+merging Kamyroll-Tauri_winget
+merging LavFiltersMegamix_winget
