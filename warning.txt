@@ -1,2 +1,4 @@
-merging Kamyroll-Tauri_winget
-merging LavFiltersMegamix_winget
+merging VirusTotalUploader_winget
+merging PythonLauncher_winget
+deprecate Kamyroll-Tauri_winget
+deprecate LavFiltersMegamix_winget
