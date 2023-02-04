@@ -1,4 +1,2 @@
-merging VirusTotalUploader_winget
-merging PythonLauncher_winget
-deprecate Kamyroll-Tauri_winget
-deprecate LavFiltersMegamix_winget
+deprecate VirusTotalUploader_winget
+deprecate PythonLauncher_winget
