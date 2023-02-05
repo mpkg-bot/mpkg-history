@@ -1,2 +1,1 @@
-deprecate VirusTotalUploader_winget
-deprecate PythonLauncher_winget
+pass
