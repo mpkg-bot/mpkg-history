@@ -1,1 +1,4 @@
-pass
+merging VisualStudio.2022.Community_winget
+merging Colibri_winget
+merging PyCharm.Community.EAP_winget
+merging PsiphonInc_winget
