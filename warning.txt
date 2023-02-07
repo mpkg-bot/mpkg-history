@@ -1,4 +1,5 @@
-merging VisualStudio.2022.Community_winget
-merging Colibri_winget
-merging PyCharm.Community.EAP_winget
-merging PsiphonInc_winget
+merging VisualStudio.2022.Enterprise-Preview_winget
+deprecate VisualStudio.2022.Community_winget
+deprecate Colibri_winget
+deprecate PyCharm.Community.EAP_winget
+deprecate PsiphonInc_winget
