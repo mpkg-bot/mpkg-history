@@ -1,5 +1,2 @@
-merging Helm_winget
-deprecate VisualStudio.2022.Professional-Preview_winget
-deprecate less_winget_0
-deprecate PyCharm.Professional.EAP_winget
-deprecate less_winget_1
+merging Go.1.19_winget
+deprecate Helm_winget
