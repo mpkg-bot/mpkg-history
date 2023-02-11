@@ -1,9 +1,9 @@
 {
     "id": "adb",
-    "ver": "33.0.3",
-    "date": "2022-08-01",
+    "ver": "34.0.0",
+    "date": "2023-02-01",
     "links": [
-        "https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip"
+        "https://dl.google.com/android/repository/platform-tools_r34.0.0-windows.zip"
     ],
     "changelog": "https://developer.android.com/studio/releases/platform-tools?hl=en",
     "bin": [

@@ -1,2 +1,4 @@
-merging Go.1.19_winget
-deprecate Helm_winget
+merging AzureAztfy_winget
+merging AzureKubelogin_winget
+merging AzureDataCLI_winget
+deprecate Go.1.19_winget
