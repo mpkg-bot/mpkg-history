@@ -1,6 +1,5 @@
-merging upx-easy-gui_scoop
-merging azure-iot-explorer_winget
-merging AzureStorageExplorer_winget
-deprecate AzureAztfy_winget
-deprecate AzureKubelogin_winget
-deprecate AzureDataCLI_winget
+deprecate upx-easy-gui_scoop
+merging AzureCosmosEmulator_winget
+merging AzureFunctionsCoreTools_winget
+deprecate azure-iot-explorer_winget
+deprecate AzureStorageExplorer_winget
