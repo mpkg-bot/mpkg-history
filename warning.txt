@@ -1,4 +1,2 @@
-merging AzureStorageEmulator_winget
-merging Xampp.8.1_winget
-deprecate AzureCosmosEmulator_winget
-deprecate AzureFunctionsCoreTools_winget
+deprecate AzureStorageEmulator_winget
+deprecate Xampp.8.1_winget
