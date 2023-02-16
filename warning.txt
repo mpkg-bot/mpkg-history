@@ -1,2 +1,2 @@
-deprecate AzureStorageEmulator_winget
-deprecate Xampp.8.1_winget
+merging juice_winget
+merging PDFelement.9_winget
