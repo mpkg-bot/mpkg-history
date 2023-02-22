@@ -1,3 +1,6 @@
 failed: wireshark
 merging wireshark
-merging DotNet.SDK.7_winget
+merging VisualStudio.2022.Professional_winget
+merging DotNet.AspNetCore.Preview_winget
+merging Geekbench.5_winget
+deprecate DotNet.SDK.7_winget
