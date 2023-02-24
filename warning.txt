@@ -1,8 +1,6 @@
-failed: wireshark
+failed: wireshark|vlc
+merging vlc
 merging wireshark
-deprecate VisualStudio.2022.Professional_winget
-merging gwsl_winget
-merging VisualStudio.2022.BuildTools_winget
-deprecate VisualStudio.2022.Professional_winget
-deprecate DotNet.AspNetCore.Preview_winget
-deprecate Geekbench.5_winget
+merging PDFelement.CN_winget
+deprecate gwsl_winget
+deprecate VisualStudio.2022.BuildTools_winget
