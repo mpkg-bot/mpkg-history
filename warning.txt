@@ -1,4 +1,4 @@
 failed: wireshark
 merging wireshark
-merging Browser_winget
-deprecate Edge.Dev_winget
+merging UniConverter.CN_winget
+deprecate Browser_winget
