@@ -1,4 +1,3 @@
 failed: wireshark
 merging wireshark
-merging UniConverter.CN_winget
-deprecate Browser_winget
+deprecate UniConverter.CN_winget

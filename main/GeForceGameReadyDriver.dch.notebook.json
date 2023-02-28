@@ -1,10 +1,10 @@
 {
     "id": "GeForceGameReadyDriver.dch.notebook",
-    "ver": "528.49",
-    "date": "2023-02-08",
+    "ver": "531.18",
+    "date": "2023-02-28",
     "arch": {
-        "64bit": "https://us.download.nvidia.com/Windows/528.49/528.49-notebook-win10-win11-64bit-international-dch-whql.exe"
+        "64bit": "https://us.download.nvidia.com/Windows/531.18/531.18-notebook-win10-win11-64bit-international-dch-whql.exe"
     },
-    "changelog": "https://us.download.nvidia.com/Windows/528.49/528.49-win11-win10-release-notes.pdf",
+    "changelog": "https://us.download.nvidia.com/Windows/531.18/531.18-win11-win10-release-notes.pdf",
     "allowExtract": true
 }

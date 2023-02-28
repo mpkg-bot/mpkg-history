@@ -1,11 +1,11 @@
 {
     "id": "gimp",
-    "ver": "2.10.32_1",
+    "ver": "2.10.34",
     "sha256": [
-        "e4410b5695cfc83bc2a33a124e8689a50c942978d0164e77724407d2a5cefb0d"
+        "1cf2f422e4ab887415222d736313a38372012c5f3f46a2d2cff18245b22d04cd"
     ],
     "links": [
-        "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe"
+        "https://download.gimp.org/mirror/pub/gimp/v2.10/windows/gimp-2.10.34-setup.exe"
     ],
     "changelog": "https://www.gimp.org/release-notes/",
     "args": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES /SP-"
