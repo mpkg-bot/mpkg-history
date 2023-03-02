@@ -1,3 +1,6 @@
 failed: wireshark
 merging wireshark
-merging NextDNS.Prerelease_winget
+merging HamsterBase_winget
+merging TreeSize_winget
+merging TreeSize.Free_winget
+deprecate NextDNS.Prerelease_winget
