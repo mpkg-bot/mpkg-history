@@ -6,7 +6,7 @@
         "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/6.0/ffmpeg-6.0-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "ea6e157143ee832865e41f258854bd99e8bea819d55ee21ba5ee22fc43ba4678"
+        "64bit": "a852648944cdf4ce3aeebf16d750a036fe67ab657b82eb43f9f7fdcc7bef3af7"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
