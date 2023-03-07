@@ -1,3 +1,7 @@
 failed: wireshark
 merging wireshark
-deprecate TreeSize.Trial_winget
+deprecate Speedtest_winget
+deprecate Speedtest.CLI_winget
+deprecate Edge.Beta_winget
+deprecate BytedanceMiniappIDE_winget
+deprecate TypingLearner_winget
