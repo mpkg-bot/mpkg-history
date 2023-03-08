@@ -1,7 +1,6 @@
-failed: wireshark
+failed: nodejs-lts|wireshark
+merging nodejs-lts
 merging wireshark
-deprecate Speedtest_winget
-deprecate Speedtest.CLI_winget
-deprecate Edge.Beta_winget
-deprecate BytedanceMiniappIDE_winget
-deprecate TypingLearner_winget
+merging mizu-cli_scoop
+merging win-dynamic-desktop_scoop
+merging IntelliJIDEA.Ultimate.EAP_winget
