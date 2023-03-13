@@ -2,4 +2,7 @@ failed: quiterss.portable|nodejs-lts|wireshark
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging aztfy_scoop
+deprecate aztfy_scoop
+merging UniConverter_winget
+merging UniConverter.13_winget
+merging J.9.03_winget
