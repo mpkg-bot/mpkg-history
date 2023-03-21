@@ -1,7 +1,8 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging Go.Unstable_winget
-merging Edge.Canary_winget
-merging Warp_winget
-deprecate Paperlib_winget
+merging paperlib_winget_0
+merging paperlib_winget_1
+deprecate Go.Unstable_winget
+deprecate Edge.Canary_winget
+deprecate Warp_winget
