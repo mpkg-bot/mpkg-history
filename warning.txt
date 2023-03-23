@@ -1,5 +1,0 @@
-failed: nodejs-lts|wireshark
-merging nodejs-lts
-merging wireshark
-deprecate paperlib_winget_0
-deprecate paperlib_winget_1
