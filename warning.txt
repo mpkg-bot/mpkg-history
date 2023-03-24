@@ -1,0 +1,6 @@
+failed: nodejs-lts|wireshark
+merging nodejs-lts
+merging wireshark
+merging LibericaJDK.19_winget
+merging LibericaJDK.19.Full_winget
+merging RStudio.OpenSource_winget
