@@ -1,6 +1,7 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate LibericaJDK.19_winget
-deprecate LibericaJDK.19.Full_winget
-deprecate RStudio.OpenSource_winget
+merging rstudio.opensource_winget_0
+merging rstudio.opensource_winget_1
+merging quarto_winget
+merging GitCredentialManagerCore_winget
