@@ -1,10 +1,5 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging PDFelement.9_winget
-merging RStudio.OpenSource_winget
-merging mitmproxy_winget
-deprecate rstudio.opensource_winget_0
-deprecate rstudio.opensource_winget_1
-deprecate quarto_winget
-deprecate GitCredentialManagerCore_winget
+merging AIDA64.Extreme_winget
+deprecate GPUTweakIII_winget
