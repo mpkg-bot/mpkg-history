@@ -1,4 +1,7 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate AIDA64.Extreme_winget
+merging juice_winget_0
+merging GPUTweakIII_winget
+merging juice_winget_1
+merging Elsword_winget
