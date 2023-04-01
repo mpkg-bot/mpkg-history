@@ -1,7 +1,7 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging juice_winget_0
-merging GPUTweakIII_winget
-merging juice_winget_1
-merging Elsword_winget
+deprecate juice_winget_0
+deprecate GPUTweakIII_winget
+deprecate juice_winget_1
+deprecate Elsword_winget
