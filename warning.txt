@@ -1,8 +1,9 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging Edge.Beta_winget
-merging Xtranslator_winget
-merging ZhiyunTranslator_winget
-merging CAJViewer.Simple_winget
-merging Ventoy_winget
+merging kicad-lite_scoop
+deprecate Edge.Beta_winget
+deprecate Xtranslator_winget
+deprecate ZhiyunTranslator_winget
+deprecate CAJViewer.Simple_winget
+deprecate Ventoy_winget
