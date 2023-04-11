@@ -1,4 +1,4 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-deprecate kicad-lite_scoop
+merging VisualStudio.2022.Enterprise_winget
