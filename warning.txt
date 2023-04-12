@@ -1,4 +1,10 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging VisualStudio.2022.Enterprise_winget
+merging paperwork_scoop
+merging pandownload_scoop
+deprecate VisualStudio.2022.Enterprise_winget
+merging VisualStudio.2022.Professional_winget
+merging NDI5Tools_winget
+merging NDI5Runtime_winget
+deprecate VisualStudio.2022.Enterprise_winget
