@@ -1,8 +1,3 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-deprecate paperwork_scoop
-deprecate pandownload_scoop
-deprecate VisualStudio.2022.Professional_winget
-deprecate NDI5Tools_winget
-deprecate NDI5Runtime_winget
