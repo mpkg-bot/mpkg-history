@@ -1,4 +1,4 @@
-failed: wireshark|nodejs-lts
+failed: wireshark|nodejs-lts|veracrypt
+merging veracrypt
 merging nodejs-lts
 merging wireshark
-deprecate clash-mini_scoop
