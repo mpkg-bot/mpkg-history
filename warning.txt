@@ -1,4 +1,3 @@
-failed: wireshark|nodejs-lts|veracrypt
-merging veracrypt
+failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
