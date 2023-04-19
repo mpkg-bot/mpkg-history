@@ -1,3 +1,6 @@
-failed: wireshark|nodejs-lts
+failed: calibre|wireshark|nodejs-lts
+merging calibre
 merging nodejs-lts
 merging wireshark
+merging kde-dolphin_scoop
+merging GlassWire_winget
