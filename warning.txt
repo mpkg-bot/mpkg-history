@@ -1,6 +1,5 @@
-failed: calibre|wireshark|nodejs-lts
-merging calibre
+failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging kde-dolphin_scoop
-merging GlassWire_winget
+deprecate kde-dolphin_scoop
+deprecate GlassWire_winget
