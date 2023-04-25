@@ -1,3 +1,5 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
+merging SteamLink_winget
+merging Icaros.Beta_winget
