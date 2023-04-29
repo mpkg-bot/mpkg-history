@@ -1,4 +1,4 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate AndroidStudio.Beta_winget
+merging axel_scoop
