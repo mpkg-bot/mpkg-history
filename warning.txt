@@ -1,4 +1,6 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging axel_scoop
+deprecate axel_scoop
+merging QuantumKit_winget
+merging Syncplay.Beta_winget
