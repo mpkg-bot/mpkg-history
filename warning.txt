@@ -1,5 +1,3 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate Viber_winget
-deprecate Dolphin_winget
