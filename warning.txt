@@ -1,5 +1,6 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging randomnumbergenerator_winget_0
-merging randomnumbergenerator_winget_1
+merging Toolbox_winget
+deprecate randomnumbergenerator_winget_0
+deprecate randomnumbergenerator_winget_1
