@@ -1,4 +1,4 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate Toolbox_winget
+merging UrBackup.Client_winget
