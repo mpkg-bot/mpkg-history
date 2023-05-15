@@ -1,14 +1,14 @@
 {
     "id": "notepadplusplus",
-    "ver": "8.5.2",
-    "date": "2023-04-06",
+    "ver": "8.5.3",
+    "date": "2023-05-15",
     "arch": {
-        "32bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.2/npp.8.5.2.Installer.exe",
-        "64bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.2/npp.8.5.2.Installer.x64.exe"
+        "32bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.3/npp.8.5.3.Installer.exe",
+        "64bit": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.3/npp.8.5.3.Installer.x64.exe"
     },
     "sha256": {
-        "32bit": "884ee52151a87bd7e1f0bcbfec151e652f8e29640141da1f6b7f3e3c5c558cf1",
-        "64bit": "572811bf01a9112c7414b783861da34b2b93f3de298e8455dafb484d19b11f4b"
+        "32bit": "2df4bb1e9437d1abe991e5f5b7c3efa990be48d0a8954fe560ee2c317c740858",
+        "64bit": "90e1c08bee6b46a41713b1a612ed2b64e647194d9e4e9df40639d7a8cae94074"
     },
     "changelog": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/latest",
     "args": "/S"
