@@ -1,5 +1,4 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging SQLServer.2019.Developer_winget
-deprecate VisualStudio.2022.BuildTools_winget
+deprecate SQLServer.2019.Developer_winget
