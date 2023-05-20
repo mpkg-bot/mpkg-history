@@ -1,4 +1,3 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-deprecate SQLServer.2019.Developer_winget
