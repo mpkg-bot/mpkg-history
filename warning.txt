@@ -1,5 +1,5 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging kalk_winget
-merging Cemu_winget
+deprecate kalk_winget
+deprecate Cemu_winget
