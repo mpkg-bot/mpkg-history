@@ -1,5 +1,7 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-deprecate kalk_winget
-deprecate Cemu_winget
+merging Launcher_winget
+merging glasswire_winget_0
+merging Buzz_winget
+merging glasswire_winget_1
