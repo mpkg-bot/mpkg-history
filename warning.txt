@@ -1,9 +1,8 @@
 failed: wireshark|nodejs-lts
 merging nodejs-lts
 merging wireshark
-merging Core_winget
-merging VisualStudio.2022.Enterprise_winget
-deprecate Launcher_winget
-deprecate glasswire_winget_0
-deprecate Buzz_winget
-deprecate glasswire_winget_1
+deprecate VisualStudio.2022.Enterprise_winget
+merging VisualStudio.2022.BuildTools_winget
+merging AxisCameraStation_winget
+deprecate Core_winget
+deprecate VisualStudio.2022.Enterprise_winget
