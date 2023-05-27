@@ -1,8 +1,28 @@
-failed: wireshark|nodejs-lts
+failed: wireshark|nodejs-lts|vcredist-all-x86|vcredist-all-x64
+merging vcredist2005-x86
+merging vcredist2008-x86
+merging vcredist2010-x86
+merging vcredist2012-x86
+merging vcredist2013-x86
+merging vcredist2015-x86
+merging vcredist2017-x86
+merging vcredist2019-x86
+merging vcredist-all-x86
+ dependency: vcredist2005-x86|vcredist2008-x86|vcredist2010-x86|vcredist2012-x86|vcredist2013-x86|vcredist2015-x86|vcredist2017-x86|vcredist2019-x86
+merging vcredist2005-x64
+merging vcredist2008-x64
+merging vcredist2010-x64
+merging vcredist2012-x64
+merging vcredist2013-x64
+merging vcredist2015-x64
+merging vcredist2017-x64
+merging vcredist2019-x64
+merging vcredist-all-x64
+ dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
 merging nodejs-lts
 merging wireshark
-deprecate VisualStudio.2022.Enterprise_winget
-merging VisualStudio.2022.BuildTools_winget
-merging AxisCameraStation_winget
-deprecate Core_winget
-deprecate VisualStudio.2022.Enterprise_winget
+merging vcredist2017_scoop
+merging vcredist2019_scoop
+merging vcredist2015_scoop
+deprecate VisualStudio.2022.BuildTools_winget
+deprecate AxisCameraStation_winget
