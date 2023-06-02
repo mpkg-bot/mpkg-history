@@ -1,4 +1,4 @@
-failed: wireshark|nodejs-lts|vcredist-all-x86|vcredist-all-x64
+failed: wireshark|vcredist-all-x64|vcredist-all-x86|nodejs-lts
 merging vcredist2005-x86
 merging vcredist2008-x86
 merging vcredist2010-x86
@@ -21,6 +21,18 @@ merging vcredist-all-x64
  dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
 merging nodejs-lts
 merging wireshark
-deprecate ProcessLasso.Beta_winget
-merging Chrome.Dev_winget
-deprecate ProcessLasso.Beta_winget
+merging LeagueOfLegends.EUW_winget
+merging Valorant.BR_winget
+merging SDC.IETDViewAutark_winget
+merging VisualStudio.2022.Enterprise_winget
+merging SQLServer.2022.Developer_winget
+merging PH-UKL.TagbQRTY_winget
+merging Lexibar.EL_winget
+merging AbilityOffice.10.Standard_winget
+merging TI-Nspire.CXPremiumTeacher_winget
+merging jq_winget
+merging CrystalDiskInfo.ShizukuEdition_winget
+merging CPU-Z.MSI_winget
+merging K-LiteCodecPack.Basic_winget
+merging SocketTools10.InteropRedist.x64_winget
+deprecate Chrome.Dev_winget
