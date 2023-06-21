@@ -21,3 +21,8 @@ merging vcredist-all-x64
  dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
 merging nodejs-lts
 merging wireshark
+merging GameMaker_winget
+merging GameMaker.Studio.1_winget
+merging VisualStudio.2022.Professional_winget
+merging autohotkey_winget_0
+merging autohotkey_winget_1
