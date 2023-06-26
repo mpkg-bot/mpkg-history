@@ -21,5 +21,3 @@ merging vcredist-all-x64
  dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
 merging nodejs-lts
 merging wireshark
-deprecate AltA2DP_winget
-deprecate GDK.2303_winget
