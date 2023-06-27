@@ -21,3 +21,7 @@ merging vcredist-all-x64
  dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64|vcredist2015-x64|vcredist2017-x64|vcredist2019-x64
 merging nodejs-lts
 merging wireshark
+merging Qiyu_winget
+merging WindowsAppRuntime.1.2_winget
+merging Firefox.DeveloperEdition_winget
+merging JDK.18_winget
