@@ -1,12 +1,12 @@
 {
     "id": "gsudo",
-    "ver": "2.0.10",
-    "date": "2023-06-04",
+    "ver": "2.1.0",
+    "date": "2023-07-08",
     "sha256": [
-        "0D3DE5F0D0032F115C693E35E4A3DEBC16D6F13A6F757D1EC03EDB07C4D1C993"
+        "A7C92DAB7332E87ACB6132A209F4843E95B560679C6CC92A4409332FEB8D5881"
     ],
     "links": [
-        "https://github.com/gerardog/gsudo/releases/download/v2.0.10/gsudo.portable.zip"
+        "https://github.com/gerardog/gsudo/releases/download/v2.1.0/gsudo.portable.zip"
     ],
     "changelog": "https://github.com/gerardog/gsudo/releases/latest",
     "bin": {
