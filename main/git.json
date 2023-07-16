@@ -1,6 +1,6 @@
 {
     "id": "git",
-    "ver": "v2.41.0.windows.1",
+    "ver": "2.41.0",
     "date": "2023-06-01",
     "arch": {
         "32bit": "https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.1/Git-2.41.0-32-bit.exe",

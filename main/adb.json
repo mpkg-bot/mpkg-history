@@ -9,5 +9,8 @@
     "bin": [
         "adb.exe",
         "fastboot.exe"
-    ]
+    ],
+    "cmd": {
+        "start": "adb kill-server 2>nul"
+    }
 }

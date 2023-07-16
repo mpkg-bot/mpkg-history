@@ -1,14 +1,11 @@
 {
     "id": "vcredist-all-x86",
-    "ver": "vc2019",
+    "ver": "vc2013",
     "depends": [
         "vcredist2005-x86",
         "vcredist2008-x86",
         "vcredist2010-x86",
         "vcredist2012-x86",
-        "vcredist2013-x86",
-        "vcredist2015-x86",
-        "vcredist2017-x86",
-        "vcredist2019-x86"
+        "vcredist2013-x86"
     ]
 }
