@@ -1,7 +1,1 @@
-deprecate vcredist2015-x86
-deprecate vcredist2017-x86
-deprecate vcredist2019-x86
-deprecate vcredist2015-x64
-deprecate vcredist2017-x64
-deprecate vcredist2019-x64
-merging PyCharm.Community_winget
+deprecate PyCharm.Community_winget
