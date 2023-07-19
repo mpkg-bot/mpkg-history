@@ -1,1 +1,1 @@
-deprecate PyCharm.Community_winget
+merging PDFelement.9_winget
