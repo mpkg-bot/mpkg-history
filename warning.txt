@@ -1,1 +1,2 @@
-merging PDFelement.9_winget
+merging IntelliJIDEA.Community_winget
+deprecate PDFelement.9_winget
