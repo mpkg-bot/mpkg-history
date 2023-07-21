@@ -1,2 +1,2 @@
-merging IntelliJIDEA.Community_winget
-deprecate PDFelement.9_winget
+merging Chrome.Dev_winget
+deprecate IntelliJIDEA.Community_winget
