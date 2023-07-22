@@ -1,2 +1,2 @@
-merging Chrome.Dev_winget
-deprecate IntelliJIDEA.Community_winget
+merging Viber_winget
+deprecate Chrome.Dev_winget
