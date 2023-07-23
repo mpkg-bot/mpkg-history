@@ -1,2 +1,5 @@
-merging Viber_winget
-deprecate Chrome.Dev_winget
+failed: virtualbox
+merging virtualbox
+merging winrar-helper_scoop
+merging SophiApp_winget
+deprecate Viber_winget
