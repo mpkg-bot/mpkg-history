@@ -1,5 +1,3 @@
-failed: virtualbox
-merging virtualbox
-merging winrar-helper_scoop
-merging SophiApp_winget
-deprecate Viber_winget
+deprecate winrar-helper_scoop
+merging Chrome.Beta_winget
+deprecate SophiApp_winget
