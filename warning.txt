@@ -1,3 +1,2 @@
-deprecate winrar-helper_scoop
-merging Chrome.Beta_winget
-deprecate SophiApp_winget
+merging IntelliJIDEA.Ultimate_winget
+deprecate Chrome.Beta_winget
