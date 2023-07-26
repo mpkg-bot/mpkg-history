@@ -1,2 +1,2 @@
-merging IntelliJIDEA.Ultimate_winget
-deprecate Chrome.Beta_winget
+merging PCManager.CN_winget
+deprecate IntelliJIDEA.Ultimate_winget
