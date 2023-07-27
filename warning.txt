@@ -1,2 +1,1 @@
-merging PCManager.CN_winget
-deprecate IntelliJIDEA.Ultimate_winget
+deprecate PCManager.CN_winget
