@@ -1,1 +1,2 @@
-deprecate PCManager.CN_winget
+merging Aegisub_winget
+merging SublimeMerge.Dev_winget
