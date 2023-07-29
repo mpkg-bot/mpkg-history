@@ -1,2 +1,2 @@
-merging Aegisub_winget
-merging SublimeMerge.Dev_winget
+deprecate Aegisub_winget
+deprecate SublimeMerge.Dev_winget
