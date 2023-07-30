@@ -1,2 +1,1 @@
-deprecate Aegisub_winget
-deprecate SublimeMerge.Dev_winget
+pass
