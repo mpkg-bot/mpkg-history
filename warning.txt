@@ -1,4 +1,5 @@
-failed: IntelWirelessDriver.admin
-merging IntelWirelessDriver.admin
-merging PCManager.Flight_winget
-merging Winbox_winget
+deprecate Winbox_winget
+merging Neatify_winget
+merging SSH.Server_winget
+deprecate PCManager.Flight_winget
+deprecate Winbox_winget
