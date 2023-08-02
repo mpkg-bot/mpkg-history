@@ -1,5 +1,5 @@
-deprecate Winbox_winget
-merging Neatify_winget
-merging SSH.Server_winget
-deprecate PCManager.Flight_winget
-deprecate Winbox_winget
+deprecate SSH.Server_winget
+merging Kotlin.Complier_winget
+merging SSH.Client_winget
+deprecate Neatify_winget
+deprecate SSH.Server_winget
