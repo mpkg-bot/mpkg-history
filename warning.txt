@@ -1,10 +1,1 @@
-merging FFXIVTeamcraft_winget
-deprecate Imaconverter_winget
-deprecate Dream_winget
-deprecate Chrome.Dev_winget
-deprecate PVRDecoder_winget
-deprecate Flashpoint_winget
-deprecate MDFtoISO_winget
-deprecate Edge.Beta_winget
-deprecate flux_winget
-deprecate BrowserTamer_winget
+deprecate FFXIVTeamcraft_winget
