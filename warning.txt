@@ -1,1 +1,1 @@
-deprecate FFXIVTeamcraft_winget
+merging Chrome.Canary_winget
