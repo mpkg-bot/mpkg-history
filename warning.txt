@@ -1,2 +1,2 @@
-merging git-credential-manager-core_scoop
-deprecate Chrome.Canary_winget
+deprecate git-credential-manager-core_scoop
+merging Chrome.Dev_winget
