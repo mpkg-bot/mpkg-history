@@ -1,2 +1,3 @@
-deprecate git-credential-manager-core_scoop
-merging Chrome.Dev_winget
+failed: nodejs-lts
+merging nodejs-lts
+deprecate Chrome.Dev_winget
