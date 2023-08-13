@@ -1,3 +1,1 @@
-failed: ffmpeg
-merging ffmpeg
-merging Ditto++_winget
+deprecate Ditto++_winget
