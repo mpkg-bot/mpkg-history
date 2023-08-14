@@ -1,1 +1,4 @@
-deprecate Ditto++_winget
+merging Chrome.Canary_winget
+merging drive_winget_0
+merging SDRPlusPlus_winget
+merging drive_winget_1
