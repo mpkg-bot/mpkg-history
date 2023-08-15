@@ -1,4 +1,5 @@
-merging Chrome.Canary_winget
-merging drive_winget_0
-merging SDRPlusPlus_winget
-merging drive_winget_1
+merging dotnetUninstallTool_winget
+deprecate Chrome.Canary_winget
+deprecate drive_winget_0
+deprecate SDRPlusPlus_winget
+deprecate drive_winget_1
