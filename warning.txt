@@ -1,1 +1,1 @@
-deprecate dotnetUninstallTool_winget
+merging Chrome.Dev_winget
