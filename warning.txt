@@ -1,1 +1,3 @@
-merging Chrome.Dev_winget
+merging zap_winget
+merging PDFelement.9_winget
+deprecate Chrome.Dev_winget
