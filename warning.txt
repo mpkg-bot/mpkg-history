@@ -1,3 +1,2 @@
-merging zap_winget
-merging PDFelement.9_winget
-deprecate Chrome.Dev_winget
+deprecate zap_winget
+deprecate PDFelement.9_winget
