@@ -1,2 +1,1 @@
-deprecate zap_winget
-deprecate PDFelement.9_winget
+pass
