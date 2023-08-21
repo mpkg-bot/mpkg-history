@@ -1,1 +1,22 @@
-pass
+merging TI-Nspire.CXStudent_winget
+merging BurpSuite.Professional_winget
+merging GM8Decompiler.GNU_winget
+merging LeagueOfLegends.OC1_winget
+merging Valorant.BR_winget
+merging Rust.GNU_winget
+merging ViewerComponent.Office_winget
+merging CPU-Z.CM_winget
+merging SocketTools10.InteropRedist.x86_winget
+merging K-LiteCodecPack.Full_winget
+merging CrystalDiskInfo.ShizukuEdition_winget
+merging ripgrep.GNU_winget
+merging Fotophire.Maximizer_winget
+merging AbilityOffice.10.Professional_winget
+merging AnyLogic.University_winget
+merging Compass.Isolated_winget
+merging SQLServer.2022.Express_winget
+merging VCRedist.2015+.x86_winget
+merging VisualStudio.2022.Professional_winget
+merging PyCharm.Professional.EAP_winget
+merging PH-UKL.TagbQRTY_winget
+merging MailWasher.Pro_winget
