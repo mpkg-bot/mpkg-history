@@ -1,1 +1,1 @@
-deprecate Chrome.Beta_winget
+merging Acrobat.Reader.64-bit_winget
