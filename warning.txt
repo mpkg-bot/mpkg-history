@@ -1,2 +1,1 @@
-merging PyCharm.Professional_winget
-deprecate Acrobat.Reader.64-bit_winget
+deprecate PyCharm.Professional_winget
