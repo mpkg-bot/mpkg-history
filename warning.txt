@@ -1,1 +1,1 @@
-deprecate PyCharm.Professional_winget
+pass
