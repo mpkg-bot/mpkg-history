@@ -1,1 +1,2 @@
-merging Teams.ContinuousDeployment_winget
+merging IntelliJIDEA.Ultimate_winget
+deprecate Teams.ContinuousDeployment_winget
