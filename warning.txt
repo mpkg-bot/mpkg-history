@@ -1,3 +1,2 @@
-merging llama_scoop
-merging Acrobat.Reader.32-bit_winget
-deprecate IntelliJIDEA.Ultimate_winget
+deprecate llama_scoop
+deprecate Acrobat.Reader.32-bit_winget
