@@ -1,2 +1,2 @@
-deprecate llama_scoop
-deprecate Acrobat.Reader.32-bit_winget
+merging Chrome.Canary_winget
+merging WindowsWDK_winget
