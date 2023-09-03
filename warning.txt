@@ -1,2 +1,2 @@
-merging Chrome.Canary_winget
-merging WindowsWDK_winget
+deprecate Chrome.Canary_winget
+deprecate WindowsWDK_winget
