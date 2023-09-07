@@ -1,1 +1,2 @@
-merging PDFelement.CN_winget
+merging Bigrats_winget
+deprecate PDFelement.CN_winget
