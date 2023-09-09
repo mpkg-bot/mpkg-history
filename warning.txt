@@ -1,1 +1,1 @@
-deprecate Bigrats_winget
+merging YouTubeVideoDownloader_winget
