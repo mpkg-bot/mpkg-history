@@ -1,1 +1,1 @@
-merging YouTubeVideoDownloader_winget
+deprecate YouTubeVideoDownloader_winget
