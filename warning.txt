@@ -1,1 +1,1 @@
-deprecate YouTubeVideoDownloader_winget
+merging JawsForWindows_winget
