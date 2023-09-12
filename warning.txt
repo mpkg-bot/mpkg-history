@@ -1,1 +1,2 @@
-merging JawsForWindows_winget
+merging K-LiteCodecPack.Mega_winget
+deprecate JawsForWindows_winget
