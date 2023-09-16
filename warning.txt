@@ -1,5 +1,4 @@
-merging mro_scoop
-merging K-LiteCodecPack.Full_winget
-merging YoudaoDict_winget
-merging Backupper_winget
-deprecate Chrome.Dev_winget
+deprecate mro_scoop
+deprecate K-LiteCodecPack.Full_winget
+deprecate YoudaoDict_winget
+deprecate Backupper_winget
