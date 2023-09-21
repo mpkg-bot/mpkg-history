@@ -1,1 +1,2 @@
-merging PDFelement.10_winget
+merging Edge.Dev_winget
+deprecate PDFelement.10_winget
