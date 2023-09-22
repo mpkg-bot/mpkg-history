@@ -1,2 +1,5 @@
-merging Edge.Dev_winget
-deprecate PDFelement.10_winget
+deprecate Edge.Dev_winget
+merging Edge.Beta_winget
+merging WebDesigner_winget
+merging BackupAndSync_winget
+deprecate Edge.Dev_winget
