@@ -1,5 +1,4 @@
-deprecate Edge.Dev_winget
-merging Edge.Beta_winget
-merging WebDesigner_winget
-merging BackupAndSync_winget
-deprecate Edge.Dev_winget
+merging LibericaJDK.20_winget
+deprecate Edge.Beta_winget
+deprecate WebDesigner_winget
+deprecate BackupAndSync_winget
