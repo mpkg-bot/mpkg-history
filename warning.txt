@@ -1,4 +1,5 @@
-merging LibericaJDK.20_winget
-deprecate Edge.Beta_winget
-deprecate WebDesigner_winget
-deprecate BackupAndSync_winget
+merging GoLand.EarlyAccess_winget
+merging RubyMine.EarlyAccess_winget
+merging DataGrip.EarlyAccess_winget
+merging PHPStorm.EarlyAccess_winget
+deprecate LibericaJDK.20_winget
