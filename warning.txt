@@ -1,5 +1,11 @@
-merging GoLand.EarlyAccess_winget
-merging RubyMine.EarlyAccess_winget
-merging DataGrip.EarlyAccess_winget
-merging PHPStorm.EarlyAccess_winget
-deprecate LibericaJDK.20_winget
+merging wechat-work_winget
+merging iNFektNFOViewer_winget
+merging LibericaJDK.20.Full_winget
+merging dlss-swapper_winget
+merging Corretto.19_winget
+merging mobilecloud_winget
+merging Chrome.Canary_winget
+deprecate GoLand.EarlyAccess_winget
+deprecate RubyMine.EarlyAccess_winget
+deprecate DataGrip.EarlyAccess_winget
+deprecate PHPStorm.EarlyAccess_winget
