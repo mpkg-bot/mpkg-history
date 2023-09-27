@@ -1,9 +1,3 @@
-deprecate dlss-swapper_winget
-merging JDK.20_winget
-deprecate wechat-work_winget
-deprecate iNFektNFOViewer_winget
-deprecate LibericaJDK.20.Full_winget
-deprecate dlss-swapper_winget
-deprecate Corretto.19_winget
-deprecate mobilecloud_winget
-deprecate Chrome.Canary_winget
+merging openjdk.17_winget_0
+merging openjdk.17_winget_1
+deprecate JDK.20_winget
