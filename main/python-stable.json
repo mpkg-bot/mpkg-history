@@ -1,7 +1,8 @@
 {
     "id": "python-stable",
-    "ver": "3.11",
+    "ver": "3.12",
     "depends": [
+        "python3.12",
         "python3.11"
     ]
 }

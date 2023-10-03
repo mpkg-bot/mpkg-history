@@ -1,2 +1,3 @@
-merging warp_winget_0
-merging warp_winget_1
+merging DCSWorld_winget
+deprecate warp_winget_0
+deprecate warp_winget_1
