@@ -1,3 +1,4 @@
-merging DCSWorld_winget
-deprecate warp_winget_0
-deprecate warp_winget_1
+failed: wireshark
+merging wireshark
+merging SOPS_winget
+deprecate DCSWorld_winget
