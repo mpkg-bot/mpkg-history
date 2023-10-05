@@ -1,12 +1,12 @@
 {
     "id": "wireshark",
-    "ver": "4.0.8",
+    "ver": "4.0.10",
     "arch": {
-        "64bit": "https://www.wireshark.org/download/win64/Wireshark-win64-4.0.8.exe"
+        "64bit": "https://www.wireshark.org/download/win64/Wireshark-win64-4.0.10.exe"
     },
     "sha256": {
-        "64bit": "8243e019d2bd73c81de53c67ddb23d877ecec2fc1699c9aa074ccaa2d7d9b267"
+        "64bit": "085d9aa4f6614730f132fb5c28ec5fa445dea79687e4c648d586de569ffcc5e2"
     },
-    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-4.0.8.html",
+    "changelog": "https://www.wireshark.org/docs/relnotes/wireshark-4.0.10.html",
     "args": "/S /quicklaunchicon=no"
 }

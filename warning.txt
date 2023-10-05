@@ -1,4 +1,5 @@
-failed: wireshark
-merging wireshark
-merging SOPS_winget
-deprecate DCSWorld_winget
+merging LibreOffice.LTS_winget
+merging OpenSSL_winget
+merging Zulu.20.JDK_winget
+merging Brave.Nightly_winget
+deprecate SOPS_winget
