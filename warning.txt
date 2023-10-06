@@ -1,5 +1,5 @@
-merging LibreOffice.LTS_winget
-merging OpenSSL_winget
-merging Zulu.20.JDK_winget
-merging Brave.Nightly_winget
-deprecate SOPS_winget
+merging Rust.MSVC_winget
+deprecate LibreOffice.LTS_winget
+deprecate OpenSSL_winget
+deprecate Zulu.20.JDK_winget
+deprecate Brave.Nightly_winget
