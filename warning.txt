@@ -1,5 +1,3 @@
-merging Rust.MSVC_winget
-deprecate LibreOffice.LTS_winget
-deprecate OpenSSL_winget
-deprecate Zulu.20.JDK_winget
-deprecate Brave.Nightly_winget
+deprecate Rust.MSVC_winget
+merging Rust.GNU_winget
+deprecate Rust.MSVC_winget
