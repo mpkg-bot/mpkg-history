@@ -1,1 +1,1 @@
-deprecate Rust.GNU_winget
+merging Brave.Beta_winget
