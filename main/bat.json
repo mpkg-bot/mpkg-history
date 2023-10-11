@@ -1,10 +1,10 @@
 {
     "id": "bat",
-    "ver": "0.23.0",
-    "date": "2023-03-25",
+    "ver": "0.24.0",
+    "date": "2023-10-11",
     "arch": {
-        "32bit": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-i686-pc-windows-msvc.zip",
-        "64bit": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-pc-windows-msvc.zip"
+        "32bit": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-pc-windows-msvc.zip"
     },
     "changelog": "https://github.com/sharkdp/bat/releases/latest",
     "bin": [
