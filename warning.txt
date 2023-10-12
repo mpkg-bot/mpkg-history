@@ -1,6 +1,4 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging K-LiteCodecPack.Standard_winget
-deprecate Snagit.2023_winget
-deprecate GhostScript_winget
-deprecate Brave.Dev_winget
+merging Chrome.Canary_winget
+deprecate K-LiteCodecPack.Standard_winget
