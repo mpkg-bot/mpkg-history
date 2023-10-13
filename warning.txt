@@ -1,4 +1,4 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging Chrome.Canary_winget
-deprecate K-LiteCodecPack.Standard_winget
+merging Temurin.20.JDK_winget
+deprecate Chrome.Canary_winget
