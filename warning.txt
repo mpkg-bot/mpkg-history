@@ -1,4 +1,5 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging Temurin.20.JDK_winget
-deprecate Chrome.Canary_winget
+merging BurpSuite.Professional_winget
+merging Temurin.21.JRE_winget
+deprecate Temurin.20.JDK_winget
