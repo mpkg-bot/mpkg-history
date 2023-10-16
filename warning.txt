@@ -1,5 +1,5 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging dashdrop_winget
-deprecate BurpSuite.Professional_winget
-deprecate Temurin.21.JRE_winget
+merging Flrig_winget
+merging Fldigi_winget
+deprecate dashdrop_winget
