@@ -1,4 +1,4 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging PDFelement.CN_winget
-deprecate yt-dlp.nightly_winget
+merging TrustedQSL_winget
+deprecate PDFelement.CN_winget
