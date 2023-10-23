@@ -1,3 +1,10 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-deprecate TrustedQSL_winget
+merging Racelab_winget
+merging Project64_winget
+merging Project64.Dev_winget
+merging LAMMPS-USER-VCSGC_winget
+merging LAMMPS-USER-REBOMOS_winget
+merging CAMEOChemicals_winget
+merging winsnap_winget
+merging RoundedCorners_winget
