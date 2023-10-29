@@ -1,8 +1,5 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging LogitechGHUBInstaller_winget
-deprecate Z-Libray_winget
-deprecate Brave.Beta_winget
-deprecate companion_winget
-deprecate EVEOnline.Beta_winget
-deprecate PuloversMacroCreator_winget
+merging MasterPdfEditor_winget
+merging MonkeyMote4Foobar_winget
+deprecate LogitechGHUBInstaller_winget
