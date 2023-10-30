@@ -1,5 +1,4 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging MasterPdfEditor_winget
-merging MonkeyMote4Foobar_winget
-deprecate LogitechGHUBInstaller_winget
+deprecate MasterPdfEditor_winget
+deprecate MonkeyMote4Foobar_winget
