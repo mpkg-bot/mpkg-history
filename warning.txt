@@ -1,4 +1,4 @@
-failed: IntelWirelessDriver.admin
+failed: virtualbox|IntelWirelessDriver.admin
+merging virtualbox
 merging IntelWirelessDriver.admin
-deprecate MasterPdfEditor_winget
-deprecate MonkeyMote4Foobar_winget
+merging PCManager.CN_winget
