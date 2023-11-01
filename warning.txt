@@ -1,4 +1,4 @@
-failed: virtualbox|IntelWirelessDriver.admin
-merging virtualbox
+failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging PCManager.CN_winget
+merging android-sdk_scoop
+deprecate PCManager.CN_winget
