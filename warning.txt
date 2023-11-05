@@ -1,4 +1,4 @@
-failed: IntelWirelessDriver.admin
+failed: calibre|IntelWirelessDriver.admin
+merging calibre
 merging IntelWirelessDriver.admin
-deprecate userdiag_winget
-deprecate AladinDesktop_winget
+merging ClashForWindows_winget
