@@ -1,4 +1,7 @@
-failed: calibre|IntelWirelessDriver.admin
-merging calibre
+failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging ClashForWindows_winget
+merging Wtils_winget
+merging PrivadoVPN_winget
+merging pastel_winget
+merging Nalgaeset_winget
+deprecate ClashForWindows_winget
