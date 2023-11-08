@@ -1,6 +1,4 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-deprecate Wtils_winget
-deprecate PrivadoVPN_winget
-deprecate pastel_winget
-deprecate Nalgaeset_winget
+merging ALVR_winget
+merging Chrome.Beta_winget
