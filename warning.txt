@@ -1,5 +1,3 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging GDK.2306_winget
-deprecate ALVR_winget
-deprecate Chrome.Beta_winget
+deprecate GDK.2306_winget
