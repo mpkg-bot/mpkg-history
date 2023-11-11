@@ -1,3 +1,7 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-deprecate GDK.2306_winget
+merging mcomix_scoop
+merging openssl_winget_0
+merging openssl_winget_1
+merging OpenSSL.Light_winget
+merging Chrome.Canary_winget

@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "6.0",
-    "date": "2023-02-28",
+    "ver": "6.1",
+    "date": "2023-11-11",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/6.0/ffmpeg-6.0-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/6.1/ffmpeg-6.1-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "a852648944cdf4ce3aeebf16d750a036fe67ab657b82eb43f9f7fdcc7bef3af7"
+        "64bit": "6eab95d8cd00b4601ce443ff3aeab5f477c581379c633742f5df30856a95158d"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
