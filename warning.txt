@@ -1,7 +1,8 @@
 failed: IntelWirelessDriver.admin
 merging IntelWirelessDriver.admin
-merging mcomix_scoop
-merging openssl_winget_0
-merging openssl_winget_1
-merging OpenSSL.Light_winget
-merging Chrome.Canary_winget
+deprecate mcomix_scoop
+merging Office.2024_winget
+deprecate openssl_winget_0
+deprecate openssl_winget_1
+deprecate OpenSSL.Light_winget
+deprecate Chrome.Canary_winget
