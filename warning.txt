@@ -1,10 +1,4 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate WatchPro_winget
-deprecate Fiddler.Classic_winget
-deprecate Sideloady_winget
-deprecate Edge.Dev_winget
-deprecate Chrome.Dev_winget
-deprecate Dart_winget
-deprecate PCMigration_winget
+merging VisualStudioCode.Insiders_winget
