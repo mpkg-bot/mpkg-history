@@ -1,4 +1,4 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging VisualStudioCode.Insiders_winget
+deprecate VisualStudioCode.Insiders_winget
