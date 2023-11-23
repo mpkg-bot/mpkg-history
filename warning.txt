@@ -1,7 +1,5 @@
-failed: wireshark|virtualbox|IntelWirelessDriver.admin
-merging virtualbox
+failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-merging scrcpy+_winget_0
-merging scrcpy+_winget_1
-deprecate TableauPrepBuilder_winget
+deprecate scrcpy+_winget_0
+deprecate scrcpy+_winget_1
