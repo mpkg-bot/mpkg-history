@@ -1,5 +1,4 @@
-failed: wireshark|IntelWirelessDriver.admin
+failed: dog|wireshark|IntelWirelessDriver.admin
+merging dog
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate scrcpy+_winget_0
-deprecate scrcpy+_winget_1
