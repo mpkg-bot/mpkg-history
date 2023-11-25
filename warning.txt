@@ -1,4 +1,3 @@
-failed: dog|wireshark|IntelWirelessDriver.admin
-merging dog
+failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
