@@ -1,3 +1,5 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
+merging ZDaemon_winget
+merging WindowsAppRuntime.1.3_winget
