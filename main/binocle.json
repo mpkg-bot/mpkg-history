@@ -1,10 +1,10 @@
 {
     "id": "binocle",
-    "ver": "0.3.1",
-    "date": "2023-04-02",
+    "ver": "0.3.2",
+    "date": "2023-12-01",
     "arch": {
-        "32bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.1/binocle-v0.3.1-i686-pc-windows-msvc.zip",
-        "64bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.1/binocle-v0.3.1-x86_64-pc-windows-msvc.zip"
+        "32bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.2/binocle-v0.3.2-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/binocle/releases/download/v0.3.2/binocle-v0.3.2-x86_64-pc-windows-msvc.zip"
     },
     "changelog": "https://github.com/sharkdp/binocle/releases/latest",
     "bin": [

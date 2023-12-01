@@ -1,6 +1,6 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-merging lightcord_scoop
-merging AIDA64.Extreme_winget
-merging AgenteMilvus_winget
+deprecate lightcord_scoop
+deprecate AIDA64.Extreme_winget
+deprecate AgenteMilvus_winget
