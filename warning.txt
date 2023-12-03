@@ -1,4 +1,4 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-merging CutePDFWriter_winget
+deprecate CutePDFWriter_winget
