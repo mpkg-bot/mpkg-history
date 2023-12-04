@@ -1,4 +1,5 @@
-failed: wireshark|IntelWirelessDriver.admin
+failed: wireshark|gimp|IntelWirelessDriver.admin
+merging gimp
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate CutePDFWriter_winget
+merging VisualStudioCode.CLI_winget
