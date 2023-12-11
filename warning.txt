@@ -1,7 +1,7 @@
-failed: virtualbox|wireshark|IntelWirelessDriver.admin|veracrypt
-merging virtualbox
-merging veracrypt
+failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-merging avspmod_scoop
-deprecate App_winget
+deprecate avspmod_scoop
+merging Hubstaff_winget
+merging Rufus.Beta_winget
+merging CalculatorSuite_winget
