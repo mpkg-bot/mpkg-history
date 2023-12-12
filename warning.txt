@@ -1,7 +1,7 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate avspmod_scoop
-merging Hubstaff_winget
-merging Rufus.Beta_winget
-merging CalculatorSuite_winget
+deprecate CalculatorSuite_winget
+deprecate Hubstaff_winget
+deprecate Rufus.Beta_winget
+deprecate CalculatorSuite_winget
