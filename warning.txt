@@ -1,3 +1,6 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
+merging Genact_winget
+merging PDFelement.CN_winget
+merging Edge.Dev_winget
