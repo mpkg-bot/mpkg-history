@@ -1,13 +1,7 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging Xenia_winget
-merging tuna_winget
-deprecate DartSass.Embedded_winget
-deprecate WPSOffice.CN_winget
-deprecate Tamara_winget
-deprecate Flutter_winget
-deprecate PowerBIDesktopReportServer_winget
-deprecate SQLServer2012NativeClient_winget
-deprecate PowerAutomateDesktop_winget
-deprecate PowerBI_winget
+merging Hub_winget
+merging Tofu.Alpha_winget
+deprecate Xenia_winget
+deprecate tuna_winget
