@@ -1,7 +1,5 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging Hub_winget
-merging Tofu.Alpha_winget
-deprecate Xenia_winget
-deprecate tuna_winget
+deprecate Hub_winget
+deprecate Tofu.Alpha_winget
