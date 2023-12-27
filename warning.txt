@@ -1,3 +1,8 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
+merging Zeal-WebEmulator_winget
+merging ImgDrive_winget
+merging PDFelement.CN_winget
+merging FFmpeg.Essentials_winget
+merging Python.3.12_winget
