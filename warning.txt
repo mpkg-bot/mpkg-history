@@ -1,11 +1,6 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate PDFelement.CN_winget
-merging Lunacy_winget
-merging PDFelement.10_winget
-deprecate Zeal-WebEmulator_winget
-deprecate ImgDrive_winget
-deprecate PDFelement.CN_winget
-deprecate FFmpeg.Essentials_winget
-deprecate Python.3.12_winget
+deprecate Lunacy_winget
+deprecate Lunacy_winget
+deprecate PDFelement.10_winget
