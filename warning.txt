@@ -1,3 +1,5 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
+merging GetText_winget
+merging Aurora_winget
