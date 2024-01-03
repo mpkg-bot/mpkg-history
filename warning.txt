@@ -1,5 +1,13 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging GetText_winget
-merging Aurora_winget
+merging GeoScene3D_winget
+merging IriunWebcam_winget
+merging InstaminutesDesktopApp_winget
+merging ImageMagick_winget
+merging ProcessorDiagnosticTool_winget
+merging iniManager_winget
+merging Filelight_winget
+merging AMRInterpretationEngine_winget
+deprecate GetText_winget
+deprecate Aurora_winget
