@@ -1,9 +1,9 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging PyCharm.Professional.EAP_winget
-merging DataSpell.EarlyPreview_winget
-merging Writerside_winget
-merging Aqua.EAP_winget
-merging RustRover_winget
-deprecate Unity.2022_winget
+merging GuitarPro.7_winget
+deprecate PyCharm.Professional.EAP_winget
+deprecate DataSpell.EarlyPreview_winget
+deprecate Writerside_winget
+deprecate Aqua.EAP_winget
+deprecate RustRover_winget
