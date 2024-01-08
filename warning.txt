@@ -1,6 +1,6 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging PyCharm.Community.EAP_winget
-merging IntelliJIDEA.Community.EAP_winget
-deprecate GuitarPro.7_winget
+merging Mudlet_winget
+deprecate PyCharm.Community.EAP_winget
+deprecate IntelliJIDEA.Community.EAP_winget
