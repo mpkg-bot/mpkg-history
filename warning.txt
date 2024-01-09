@@ -1,6 +1,8 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging Mudlet_winget
-deprecate PyCharm.Community.EAP_winget
-deprecate IntelliJIDEA.Community.EAP_winget
+merging iCUE.4_winget
+merging Chrome.Canary_winget
+merging DotNet.SDK.Preview_winget
+merging VisualStudio.2022.Professional_winget
+deprecate Mudlet_winget
