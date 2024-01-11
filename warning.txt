@@ -1,9 +1,9 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate VisualStudio.2022.Professional_winget
-merging VisualStudio.2022.BuildTools_winget
-deprecate iCUE.4_winget
-deprecate Chrome.Canary_winget
-deprecate DotNet.SDK.Preview_winget
-deprecate VisualStudio.2022.Professional_winget
+merging RiseofKingdoms_winget
+merging ddev_winget
+merging GAMADV-XTD3_winget
+merging Quark_winget
+merging Teams.Preview_winget
+deprecate VisualStudio.2022.BuildTools_winget
