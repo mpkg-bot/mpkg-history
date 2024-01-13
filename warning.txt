@@ -1,9 +1,4 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging appgallery_winget
-deprecate RiseofKingdoms_winget
-deprecate ddev_winget
-deprecate GAMADV-XTD3_winget
-deprecate Quark_winget
-deprecate Teams.Preview_winget
+deprecate appgallery_winget
