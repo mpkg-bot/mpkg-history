@@ -1,10 +1,8 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging webcamoid_scoop
-deprecate CrystalDiskInfo.AoiEdition_winget
-deprecate Waterfox.Classic_winget
-deprecate FRLogger_winget
-deprecate WiseRegistryCleaner_winget
-deprecate PDFelement.CN_winget
-deprecate Webcamoid_winget
+merging sumo_scoop
+merging dumo_scoop
+deprecate webcamoid_scoop
+merging gamadv-xtd3_winget_0
+merging gamadv-xtd3_winget_1
