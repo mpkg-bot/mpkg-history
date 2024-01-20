@@ -1,10 +1,7 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate gop_winget
-merging CrystalDiskInfo.ShizukuEdition_winget
-merging NordPass_winget
-deprecate Lazydocker_winget
-deprecate WinlinkExpress_winget
-deprecate gop_winget
-deprecate PDFCreator_winget
+deprecate NordPass_winget
+merging SalesPrix_winget
+deprecate CrystalDiskInfo.ShizukuEdition_winget
+deprecate NordPass_winget
