@@ -1,3 +1,6 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
+merging PDFelement.10_winget
+merging VisualStudio.2022.Professional_winget
+merging browser_winget_3
