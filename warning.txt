@@ -1,3 +1,9 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
+merging Proxyman_winget
+merging GitBlade_winget
+merging DoubleMouseDownloader_winget
+merging WemeetOutlookPlugin_winget
+merging AORUS-ENGINE_winget
+merging Glimpse_winget
