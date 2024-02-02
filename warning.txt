@@ -1,7 +1,5 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging MonkeysAudio_winget
-merging ROpen_winget
-deprecate VideoMeld_winget
-deprecate PDFelement.CN_winget
+deprecate MonkeysAudio_winget
+deprecate ROpen_winget
