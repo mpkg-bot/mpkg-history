@@ -1,3 +1,5 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
+merging roku_remote_tool_winget
+merging launcher_winget_4
