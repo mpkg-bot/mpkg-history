@@ -1,14 +1,14 @@
 {
     "id": "python3.12",
-    "ver": "3.12.1",
-    "date": "2023-12-08",
+    "ver": "3.12.2",
+    "date": "2024-02-06",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.12.1/python-3.12.1.exe",
-        "64bit": "https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.12.2/python-3.12.2.exe",
+        "64bit": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:37a89a09138888e6331ec279d68fea8e",
-        "64bit": "md5:3e3b6550e58772d324f7519bfa8066dc"
+        "32bit": "md5:bc4d721cf44a52fa9e19c1209d45e8c3",
+        "64bit": "md5:44abfae489d87cc005d50a9267b5d58d"
     },
-    "changelog": "https://docs.python.org/release/3.12.1/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.12.2/whatsnew/changelog.html#changelog"
 }
