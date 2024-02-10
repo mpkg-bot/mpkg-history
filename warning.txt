@@ -1,8 +1,4 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate DATV-Express_winget
-deprecate InstallRoot_winget
-deprecate clash_winget
-deprecate TwitchDropsMiner_winget
-deprecate SDR-Radio.Beta_winget
+merging ServiceTool_winget
