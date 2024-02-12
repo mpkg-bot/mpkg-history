@@ -1,4 +1,4 @@
 failed: wireshark|IntelWirelessDriver.admin
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate ServiceTool_winget
+merging CHIRP-next_winget
