@@ -1,9 +1,11 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging IntelliJIDEA.Ultimate_winget
-merging RemoteDesktopManagerFree_winget
-merging proxyman_winget_0
-merging proxyman_winget_1
-merging PowerBIReportBuilder_winget
-deprecate BurpSuite.Community_winget
+merging LanguageTool_winget
+merging chirp-next_winget_0
+merging chirp-next_winget_1
+deprecate IntelliJIDEA.Ultimate_winget
+deprecate RemoteDesktopManagerFree_winget
+deprecate proxyman_winget_0
+deprecate proxyman_winget_1
+deprecate PowerBIReportBuilder_winget
