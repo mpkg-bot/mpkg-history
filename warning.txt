@@ -1,6 +1,4 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate LanguageTool_winget
-deprecate chirp-next_winget_0
-deprecate chirp-next_winget_1
+merging Rickrack_winget
