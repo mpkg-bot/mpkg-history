@@ -1,4 +1,6 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging Rickrack_winget
+deprecate Rickrack_winget
+merging IntelliJIDEA.Community_winget
+deprecate Rickrack_winget

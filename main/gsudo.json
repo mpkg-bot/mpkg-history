@@ -1,9 +1,9 @@
 {
     "id": "gsudo",
-    "ver": "2.4.2",
-    "date": "2023-12-18",
+    "ver": "2.4.4",
+    "date": "2024-02-20",
     "links": [
-        "https://github.com/gerardog/gsudo/releases/download/v2.4.2/gsudo.portable.zip"
+        "https://github.com/gerardog/gsudo/releases/download/v2.4.4/gsudo.portable.zip"
     ],
     "changelog": "https://github.com/gerardog/gsudo/releases/latest",
     "bin": {
