@@ -1,6 +1,11 @@
-failed: IntelWirelessDriver.admin|wireshark
+failed: boinc|IntelWirelessDriver.admin|wireshark
+merging boinc
 merging wireshark
 merging IntelWirelessDriver.admin
-deprecate Rickrack_winget
-merging IntelliJIDEA.Community_winget
-deprecate Rickrack_winget
+merging GridTracker_winget
+merging kwok_winget
+merging Make_winget
+merging messenger_winget_2
+merging tinyMediaManager_winget
+merging Mobirise_winget
+deprecate IntelliJIDEA.Community_winget
