@@ -1,9 +1,7 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging GM8Decompiler.GNU_winget
-merging make_winget_0
-merging make_winget_1
-merging WebexTeams_winget
-deprecate kwok_winget_0
-deprecate kwok_winget_1
+deprecate GM8Decompiler.GNU_winget
+deprecate make_winget_0
+deprecate make_winget_1
+deprecate WebexTeams_winget
