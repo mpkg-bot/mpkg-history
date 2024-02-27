@@ -1,6 +1,8 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging byenow_winget
-merging IPUtility_winget
-merging LibreOffice.HelpPack_winget
+merging Chrome.Dev_winget
+merging VCRedist.2015+.x64_winget
+deprecate byenow_winget
+deprecate IPUtility_winget
+deprecate LibreOffice.HelpPack_winget
