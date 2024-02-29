@@ -1,7 +1,9 @@
 failed: IntelWirelessDriver.admin|wireshark
 merging wireshark
 merging IntelWirelessDriver.admin
-merging 7zip.Alpha.exe_winget
-merging VisualStudioCode.Insiders_winget
-deprecate Chrome.Dev_winget
-deprecate VCRedist.2015+.x64_winget
+deprecate VisualStudioCode.Insiders_winget
+merging Workspace_winget
+merging AdGuardVPN.Beta_winget
+merging VisualStudioCode.CLI_winget
+deprecate 7zip.Alpha.exe_winget
+deprecate VisualStudioCode.Insiders_winget
