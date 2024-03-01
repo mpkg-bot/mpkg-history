@@ -1,9 +1,7 @@
-failed: IntelWirelessDriver.admin|wireshark
+failed: wireshark
 merging wireshark
-merging IntelWirelessDriver.admin
-deprecate VisualStudioCode.Insiders_winget
-merging Workspace_winget
-merging AdGuardVPN.Beta_winget
-merging VisualStudioCode.CLI_winget
-deprecate 7zip.Alpha.exe_winget
-deprecate VisualStudioCode.Insiders_winget
+merging PowerShellStudio_winget
+merging ngraph-gtk_winget
+deprecate Workspace_winget
+deprecate AdGuardVPN.Beta_winget
+deprecate VisualStudioCode.CLI_winget
