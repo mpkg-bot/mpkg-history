@@ -1,5 +1,2 @@
-failed: IntelWirelessDriver.admin|wireshark
-merging IntelWirelessDriver.admin
+failed: wireshark
 merging wireshark
-deprecate PowerShellStudio_winget
-deprecate ngraph-gtk_winget
