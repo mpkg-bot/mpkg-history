@@ -1,2 +1,10 @@
-failed: wireshark
+failed: IntelWirelessDriver.admin|wireshark
+merging IntelWirelessDriver.admin
 merging wireshark
+merging rkward_winget
+merging DataRecovery_winget
+merging agent_winget_3
+merging OpenSSL_winget
+merging DISMTools.Stable_winget
+merging Komac.Nightly_winget
+merging QTTabBar_winget
