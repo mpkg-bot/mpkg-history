@@ -1,4 +1,5 @@
-failed: wireshark
+failed: veracrypt|wireshark
+merging veracrypt
 merging wireshark
-merging paintdotnet_winget
-merging WindowsAppRuntime.1.4_winget
+deprecate paintdotnet_winget
+deprecate WindowsAppRuntime.1.4_winget
