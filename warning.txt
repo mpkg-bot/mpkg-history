@@ -1,2 +1,4 @@
 failed: wireshark
 merging wireshark
+merging FMSDataManager_winget
+merging Walk_winget
