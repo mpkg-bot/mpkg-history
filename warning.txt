@@ -1,4 +1,7 @@
 failed: wireshark
 merging wireshark
-merging FMSDataManager_winget
-merging Walk_winget
+merging PHPStorm_winget
+merging PHPStorm.EAP_winget
+merging Plus_winget
+deprecate FMSDataManager_winget
+deprecate Walk_winget
