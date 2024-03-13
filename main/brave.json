@@ -1,10 +1,10 @@
 {
     "id": "brave",
-    "ver": "1.63.169",
-    "date": "2024-03-06",
+    "ver": "1.63.174",
+    "date": "2024-03-13",
     "arch": {
-        "64bit": "https://github.com/brave/brave-browser/releases/download/v1.63.169/BraveBrowserStandaloneSilentSetup.exe",
-        "32bit": "https://github.com/brave/brave-browser/releases/download/v1.63.169/BraveBrowserStandaloneSilentSetup32.exe"
+        "64bit": "https://github.com/brave/brave-browser/releases/download/v1.63.174/BraveBrowserStandaloneSilentSetup.exe",
+        "32bit": "https://github.com/brave/brave-browser/releases/download/v1.63.174/BraveBrowserStandaloneSilentSetup32.exe"
     },
     "changelog": "https://github.com/brave/brave-browser/blob/master/CHANGELOG_DESKTOP.md"
 }
