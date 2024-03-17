@@ -1,10 +1,5 @@
 failed: wireshark
 merging wireshark
-merging 5EArena_winget
-merging AutoKeyboard_winget
-merging NeatDownloadManager_winget
-deprecate Sysinternals.ProcessExplorer_winget
-deprecate K-LiteCodecPack.Full_winget
-deprecate Brave.Beta_winget
-deprecate PDFelement.10_winget
-deprecate Tofu.Beta_winget
+deprecate 5EArena_winget
+deprecate AutoKeyboard_winget
+deprecate NeatDownloadManager_winget
