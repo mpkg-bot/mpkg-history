@@ -1,5 +1,3 @@
 failed: wireshark
 merging wireshark
-deprecate 5EArena_winget
-deprecate AutoKeyboard_winget
-deprecate NeatDownloadManager_winget
+merging IntelliJIDEA.Ultimate.EAP_winget
