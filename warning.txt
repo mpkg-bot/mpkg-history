@@ -1,9 +1,10 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate IntelliJIDEA.Ultimate.EAP_winget
-merging Warp_winget
-merging Arc_winget
-merging PDFelement.CN_winget
-merging IntelliJIDEA.Community.EAP_winget
-deprecate IntelliJIDEA.Ultimate.EAP_winget
+deprecate Arc_winget
+merging RGSS-RTPStandard_winget
+merging 2023_winget
+deprecate Warp_winget
+deprecate Arc_winget
+deprecate PDFelement.CN_winget
+deprecate IntelliJIDEA.Community.EAP_winget
