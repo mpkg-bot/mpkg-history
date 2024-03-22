@@ -1,7 +1,8 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging Edge.Dev_winget
-merging Collision_winget
-deprecate RGSS-RTPStandard_winget
-deprecate 2023_winget
+merging Psiphon_winget
+merging WeVPN_winget
+merging uTools_winget
+deprecate Edge.Dev_winget
+deprecate Collision_winget

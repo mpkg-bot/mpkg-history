@@ -1,9 +1,9 @@
 {
     "id": "shimexe_kiennq",
-    "ver": "3.0",
-    "date": "2022-04-01",
+    "ver": "3.1",
+    "date": "2024-03-22",
     "links": [
-        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.0/shimexe.zip"
+        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.1/shimexe.zip"
     ],
     "changelog": "https://github.com/kiennq/scoop-better-shimexe/releases/latest",
     "bin": [
