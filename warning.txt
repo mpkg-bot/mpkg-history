@@ -1,8 +1,6 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging LibericaJDK.21_winget
-merging NearbyShare_winget
-deprecate Psiphon_winget
-deprecate WeVPN_winget
-deprecate uTools_winget
+merging swift-mesonlsp_scoop
+deprecate LibericaJDK.21_winget
+deprecate NearbyShare_winget
