@@ -1,6 +1,5 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate swift-mesonlsp_scoop
-merging LibericaJDK.21.Full_winget
-merging jdupes_winget
+deprecate LibericaJDK.21.Full_winget
+deprecate jdupes_winget
