@@ -1,5 +1,4 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate LibericaJDK.21.Full_winget
-deprecate jdupes_winget
+merging Edge.Beta_winget
