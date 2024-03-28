@@ -1,4 +1,6 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging Edge.Beta_winget
+merging SketchUp.Pro.2022_winget
+merging Teams.Classic_winget
+deprecate Edge.Beta_winget
