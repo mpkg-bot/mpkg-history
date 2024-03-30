@@ -1,8 +1,6 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging GDK.2310_winget
-merging JDK.21_winget
-merging Beeper_winget
-deprecate SketchUp.Pro.2022_winget
-deprecate Teams.Classic_winget
+deprecate GDK.2310_winget
+deprecate JDK.21_winget
+deprecate Beeper_winget
