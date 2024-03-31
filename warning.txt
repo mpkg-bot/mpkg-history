@@ -1,6 +1,3 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate GDK.2310_winget
-deprecate JDK.21_winget
-deprecate Beeper_winget
