@@ -1,8 +1,7 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-merging kitten_winget
-merging DoubleKiller_winget
-merging BrightAuthorConfigurator_winget
-merging AzureInformationProtectionViewer_winget
-deprecate LibreOffice.LTS_winget
+deprecate kitten_winget
+deprecate DoubleKiller_winget
+deprecate BrightAuthorConfigurator_winget
+deprecate AzureInformationProtectionViewer_winget
