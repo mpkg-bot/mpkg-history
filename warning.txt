@@ -1,7 +1,3 @@
 failed: nodejs-lts|wireshark
 merging nodejs-lts
 merging wireshark
-deprecate kitten_winget
-deprecate DoubleKiller_winget
-deprecate BrightAuthorConfigurator_winget
-deprecate AzureInformationProtectionViewer_winget
