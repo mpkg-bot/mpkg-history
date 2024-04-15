@@ -1,4 +1,8 @@
-failed: nodejs-lts|wireshark
+failed: nodejs-lts|quiterss.portable|wireshark
+merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VisualStudioCode.CLI_winget
+merging DuckDns_winget
+merging Bun.Baseline_winget
+merging IntelliJIDEA.Ultimate.EAP_winget
+deprecate VisualStudioCode.CLI_winget
