@@ -2,10 +2,6 @@
     "id": "ultradefrag",
     "ver": "7.1.4",
     "date": "2020-03-01",
-    "arch": {
-        "32bit": "https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.4/ultradefrag-7.1.4.bin.i386.exe",
-        "64bit": "https://downloads.sourceforge.net/project/ultradefrag/stable-release/7.1.4/ultradefrag-7.1.4.bin.amd64.exe"
-    },
     "changelog": "https://ultradefrag.net/HISTORY.TXT",
     "args": "/S /FULL=1"
 }

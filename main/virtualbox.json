@@ -1,8 +1,8 @@
 {
     "id": "virtualbox",
-    "ver": "7.0.14",
+    "ver": "7.0.16",
     "arch": {
-        "64bit": "https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe"
+        "64bit": "https://download.virtualbox.org/virtualbox/7.0.16/VirtualBox-7.0.16-162802-Win.exe"
     },
     "changelog": "https://www.virtualbox.org/wiki/Changelog"
 }

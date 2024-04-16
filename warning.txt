@@ -2,7 +2,8 @@ failed: nodejs-lts|quiterss.portable|wireshark
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DuckDns_winget
-merging Bun.Baseline_winget
-merging IntelliJIDEA.Ultimate.EAP_winget
-deprecate VisualStudioCode.CLI_winget
+deprecate IntelliJIDEA.Ultimate.EAP_winget
+merging IntelliJIDEA.Community.EAP_winget
+deprecate DuckDns_winget
+deprecate Bun.Baseline_winget
+deprecate IntelliJIDEA.Ultimate.EAP_winget
