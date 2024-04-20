@@ -1,9 +1,6 @@
-failed: quiterss.portable|nodejs-lts|wireshark
+failed: quiterss.portable|nodejs-lts|iperf3|wireshark
+merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Bun.Profile_winget
-deprecate Archi_winget
-deprecate AXISCameraStation_winget
-deprecate K-LiteCodecPack.Full_winget
-deprecate Dash_winget
+deprecate Bun.Profile_winget
