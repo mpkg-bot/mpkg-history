@@ -3,5 +3,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Temurin.21.JRE_winget
-merging ProtonVPN_winget
+merging GlobalMapper_winget
+merging kommod_winget
+merging evernote_winget
+merging duplicatemusicfixer_winget_0
+merging duplicatemusicfixer_winget_1
+deprecate Temurin.21.JRE_winget
+deprecate ProtonVPN_winget
