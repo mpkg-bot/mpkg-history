@@ -3,10 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Bun.Baseline_winget
-merging yinxiang_winget
-deprecate GlobalMapper_winget
-deprecate kommod_winget
-deprecate evernote_winget
-deprecate duplicatemusicfixer_winget_0
-deprecate duplicatemusicfixer_winget_1
+merging ONE_winget
+deprecate Bun.Baseline_winget
+deprecate yinxiang_winget
