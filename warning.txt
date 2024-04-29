@@ -3,4 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate ONE_winget
+merging Bun.BaselineProfile_winget
+merging Zulu.21.JDK_winget
+merging PSpad_winget
