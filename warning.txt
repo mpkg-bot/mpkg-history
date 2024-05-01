@@ -3,8 +3,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AresCommander.2024_winget
-merging OneDrive.Internal.Fast_winget
-deprecate Bun.BaselineProfile_winget
-deprecate Zulu.21.JDK_winget
-deprecate PSpad_winget
+deprecate AresCommander.2024_winget
+deprecate OneDrive.Internal.Fast_winget
