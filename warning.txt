@@ -3,5 +3,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate AresCommander.2024_winget
-deprecate OneDrive.Internal.Fast_winget
+merging HDD-SSD_winget
