@@ -3,4 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging HDD-SSD_winget
+merging AresMechanical.2024_winget
+merging PuntoSwitcher_winget
+deprecate HDD-SSD_winget
