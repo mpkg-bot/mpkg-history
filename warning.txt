@@ -3,5 +3,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate AresMechanical.2024_winget
-deprecate PuntoSwitcher_winget
