@@ -3,3 +3,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging ZohoMail.Desktop_winget
+merging WinSetView_winget
+merging LeadDesk_winget
+merging ChromeRemoteDesktop_winget
+merging GoogleUpdate_winget
+merging CrystalDiskInfo.ShizukuEdition_winget
+merging SemeruRuntimeOpenEdition.JRE_winget
+merging SemeruRuntimeOpenEdition.JDK.17_winget
