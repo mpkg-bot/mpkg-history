@@ -3,7 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Intelligence_winget
-deprecate LanguageToolforDesktop_winget
-deprecate OneDrive.Internal.Slow_winget
-deprecate MAXQDAReader_winget
+merging Osu!_winget
+merging Clipnest_winget
+deprecate Intelligence_winget
