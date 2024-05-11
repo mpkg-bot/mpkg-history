@@ -3,8 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LibreOffice.HelpPack.LTS_winget
-merging protonvpn_winget_0
-merging protonvpn_winget_1
-deprecate Osu!_winget
-deprecate Clipnest_winget
+deprecate LibreOffice.HelpPack.LTS_winget
+deprecate protonvpn_winget_0
+deprecate protonvpn_winget_1
