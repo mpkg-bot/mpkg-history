@@ -3,6 +3,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate LibreOffice.HelpPack.LTS_winget
-deprecate protonvpn_winget_0
-deprecate protonvpn_winget_1
