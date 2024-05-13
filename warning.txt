@@ -3,3 +3,17 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Session_winget
+merging LibreOffice.SDK.LTS_winget
+merging Netstumbler_winget
+merging AeroChat_winget
+merging Dooray!Drive_winget
+merging ClashVerge_winget
+merging AndroidStudio.Canary_winget
+merging Unity.2023_winget
+merging OneDrive.Insiders_winget
+merging OneDrive.Internal.Fast_winget
+merging Marathon_winget
+merging DXLogNet_winget
+merging wsjtx_winget
+merging moonitor_winget
