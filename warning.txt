@@ -3,8 +3,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Wireframes_winget
-merging JAWS.2023_winget
-merging PDFelement.CN_winget
-merging WorkFlowy_winget
-deprecate stable_winget
+deprecate Wireframes_winget
+merging WorkstationPlayer_winget
+merging WorkstationPro_winget
+deprecate Wireframes_winget
+deprecate JAWS.2023_winget
+deprecate PDFelement.CN_winget
+deprecate WorkFlowy_winget
