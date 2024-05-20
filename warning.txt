@@ -3,5 +3,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate WorkstationPlayer_winget
-deprecate WorkstationPro_winget
+merging Vaccine_winget
+merging Viber_winget
+merging Groovy.2.5_winget
