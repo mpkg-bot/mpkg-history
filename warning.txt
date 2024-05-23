@@ -3,11 +3,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Oculus_winget
-merging Blender.LTS_winget
-merging Feather_winget
-merging ProgDVB.Free_winget
-merging Bun.Baseline_winget
-deprecate workflowy_winget_0
-deprecate workflowy_winget_1
-deprecate Oculus_winget
+merging IntelliJIDEA.Ultimate_winget
+deprecate Blender.LTS_winget
+deprecate Feather_winget
+deprecate ProgDVB.Free_winget
+deprecate Bun.Baseline_winget
