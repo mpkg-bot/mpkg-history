@@ -3,8 +3,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging IntelliJIDEA.Ultimate_winget
-deprecate Blender.LTS_winget
-deprecate Feather_winget
-deprecate ProgDVB.Free_winget
-deprecate Bun.Baseline_winget
+merging tachidesk-server_scoop
+merging tachidesk-jui_scoop
+deprecate IntelliJIDEA.Ultimate_winget
+merging Bun.BaselineProfile_winget
+merging IntelliJIDEA.Community_winget
+deprecate IntelliJIDEA.Ultimate_winget
