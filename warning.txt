@@ -3,9 +3,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate tachidesk-server_scoop
-deprecate tachidesk-jui_scoop
-merging lazydocker_winget_0
-merging lazydocker_winget_1
-deprecate Bun.BaselineProfile_winget
-deprecate IntelliJIDEA.Community_winget
+deprecate lazydocker_winget_0
+deprecate lazydocker_winget_1
