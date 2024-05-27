@@ -3,5 +3,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate lazydocker_winget_0
-deprecate lazydocker_winget_1
