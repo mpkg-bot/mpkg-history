@@ -1,8 +1,12 @@
-failed: nmap|nodejs-lts|iperf3|wireshark|quiterss.portable
-merging nmap
+failed: nodejs-lts|iperf3|wireshark|quiterss.portable
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PostgreSQL_winget
-merging Bun.Baseline_winget
+merging ADBAppControl_winget
+merging hourglass_winget
+merging PDFelement.10_winget
+merging FLAC_winget
+merging LAME_winget
+deprecate PostgreSQL_winget
+deprecate Bun.Baseline_winget
