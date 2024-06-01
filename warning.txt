@@ -3,8 +3,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Bun.BaselineProfile_winget
-deprecate AdGuardVPN.Nightly_winget
-deprecate LaserBox_winget
-deprecate Oculus_winget
-deprecate PowerBI.ReportBuilder_winget
+merging AdGuardVPN.Beta_winget
