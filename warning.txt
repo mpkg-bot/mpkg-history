@@ -3,4 +3,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AdGuardVPN.Beta_winget
+merging Julia.LTS_winget
+deprecate AdGuardVPN.Beta_winget
