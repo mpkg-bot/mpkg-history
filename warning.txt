@@ -3,5 +3,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Julia.LTS_winget
-deprecate AdGuardVPN.Beta_winget
+merging K-LiteCodecPack.Full_winget
+merging WhatsApp_winget
+merging WhatsApp.Beta_winget
+merging DWords2_winget
+merging Deploy_winget
+merging yesplaymusic_winget
+deprecate Julia.LTS_winget
