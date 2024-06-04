@@ -3,10 +3,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging K-LiteCodecPack.Full_winget
-merging WhatsApp_winget
-merging WhatsApp.Beta_winget
-merging DWords2_winget
-merging Deploy_winget
-merging yesplaymusic_winget
-deprecate Julia.LTS_winget
+deprecate DWords2_winget
+deprecate K-LiteCodecPack.Full_winget
+deprecate WhatsApp_winget
+deprecate WhatsApp.Beta_winget
+deprecate DWords2_winget
+deprecate Deploy_winget
+deprecate yesplaymusic_winget
