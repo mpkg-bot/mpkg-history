@@ -3,4 +3,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFelement.CN_winget
+deprecate PDFelement.CN_winget
