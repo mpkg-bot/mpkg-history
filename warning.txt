@@ -3,5 +3,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging gitify_winget
-deprecate StatlookServer_winget
+deprecate gitify_winget
