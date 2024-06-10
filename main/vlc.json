@@ -6,7 +6,7 @@
         "64bit": "https://download.videolan.org/pub/videolan/vlc/{ver}/win64/vlc-{ver}-win64.exe"
     },
     "sha256": {
-        "32bit": "45432a190c467c1af6d2b55cbbc51a90992e5640d7c92fee9f3edac16036f245",
-        "64bit": "2c0c7504888436f76cff98fd6e7c6e4aa95ca59f2689a3ce34e8915969afe8de"
+        "32bit": "4bd03202b6633f9611b3fc8757880a9b2b38c7c0c40ed6bcbefec71c0099d493",
+        "64bit": "9742689a50e96ddc04d80ceff046b28da2beefd617be18166f8c5e715ec60c59"
     }
 }
