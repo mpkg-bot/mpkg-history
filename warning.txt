@@ -3,7 +3,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging K-LiteCodecPack.Basic_winget
-merging Valorant.NA_winget
-merging AdGuardVPN.Nightly_winget
-deprecate LeagueOfLegends.TR_winget
+merging LeagueOfLegends.JP_winget
+deprecate K-LiteCodecPack.Basic_winget
+deprecate Valorant.NA_winget
+deprecate AdGuardVPN.Nightly_winget
