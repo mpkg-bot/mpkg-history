@@ -3,4 +3,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Valorant.LATAM_winget
