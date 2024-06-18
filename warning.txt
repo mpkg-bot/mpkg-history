@@ -3,4 +3,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging RemoveEmptyDirectories_winget
+deprecate RemoveEmptyDirectories_winget
