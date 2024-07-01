@@ -3,4 +3,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-failed: winget-pkgs
+merging Temurin.21.JDK_winget
+merging Mp3tag_winget
+merging Focusky_winget
+merging Voicemod_winget
+merging VHUB_winget
+merging MAILLE.EduPython_winget
+merging FreeOffice.2021_winget
+merging XMediaRecode64bit_winget
