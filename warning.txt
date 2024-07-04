@@ -3,9 +3,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate K-LiteCodecPack.Basic_winget
-merging K-LiteCodecPack.Full_winget
-merging Jami_winget
-deprecate K-LiteCodecPack.Basic_winget
-deprecate mp3tag_winget_0
-deprecate mp3tag_winget_1
+deprecate K-LiteCodecPack.Full_winget
+deprecate Jami_winget
