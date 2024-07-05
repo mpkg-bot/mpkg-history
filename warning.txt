@@ -3,5 +3,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate K-LiteCodecPack.Full_winget
-deprecate Jami_winget
+merging halloy_scoop
+merging clashverge_winget_0
+merging clashverge_winget_1
+merging GarfieldPlus_winget
+merging WiFiDrivers_winget
