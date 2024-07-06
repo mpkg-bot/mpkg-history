@@ -3,8 +3,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging halloy_scoop
-merging clashverge_winget_0
-merging clashverge_winget_1
-merging GarfieldPlus_winget
-merging WiFiDrivers_winget
+deprecate halloy_scoop
+merging AudioJam_winget
+deprecate clashverge_winget_0
+deprecate clashverge_winget_1
+deprecate GarfieldPlus_winget
+deprecate WiFiDrivers_winget
