@@ -1,11 +1,7 @@
-failed: iperf3|wireshark|quiterss.portable|nodejs-lts
+failed: iperf3|wireshark|boinc|quiterss.portable|nodejs-lts
+merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate halloy_scoop
-merging AudioJam_winget
-deprecate clashverge_winget_0
-deprecate clashverge_winget_1
-deprecate GarfieldPlus_winget
-deprecate WiFiDrivers_winget
+deprecate AudioJam_winget
