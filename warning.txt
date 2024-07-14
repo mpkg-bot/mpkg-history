@@ -3,8 +3,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Tabby_winget
-merging Cursor_winget
-merging LibreOffice.SDK_winget
-deprecate Opera.Beta_winget
-deprecate Tofu.Alpha_winget
+merging Tajpi_winget
+merging TigerVNC.Nightly_winget
+deprecate Tabby_winget
+deprecate Cursor_winget
+deprecate LibreOffice.SDK_winget
