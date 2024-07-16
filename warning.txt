@@ -3,8 +3,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MapillaryUploader_winget
-merging LibreOffice.HelpPack.LTS_winget
-merging DeepinCooperation_winget
-deprecate Tajpi_winget
-deprecate TigerVNC.Nightly_winget
+merging Acrobat.Reader.32-bit_winget
+deprecate MapillaryUploader_winget
+deprecate LibreOffice.HelpPack.LTS_winget
+deprecate DeepinCooperation_winget
