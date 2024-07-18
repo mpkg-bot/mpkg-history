@@ -4,10 +4,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging trustedqsl_winget_0
-merging PDFelement.10_winget
-merging BelieversSword_winget
-merging trustedqsl_winget_1
-merging Nano_winget
-merging Strawberry_winget
-deprecate Acrobat.Reader.32-bit_winget
+merging Opera.Dev_winget
+deprecate trustedqsl_winget_0
+deprecate PDFelement.10_winget
+deprecate BelieversSword_winget
+deprecate trustedqsl_winget_1
+deprecate Nano_winget
+deprecate Strawberry_winget
