@@ -4,10 +4,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging K-LiteCodecPack.Basic_winget
-merging AdditionalTools_winget
-merging 115_winget
-merging Fiddler.Everywhere.Insiders_winget
-merging opam_winget
-merging SmartGameBooster_winget
-deprecate Opera.Dev_winget
+deprecate K-LiteCodecPack.Basic_winget
+deprecate AdditionalTools_winget
+deprecate 115_winget
+deprecate Fiddler.Everywhere.Insiders_winget
+deprecate opam_winget
+deprecate SmartGameBooster_winget
