@@ -4,3 +4,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging SupernovaPlayer_winget
+merging SamsungMagician_winget
+merging Unity.6000.Android_winget
