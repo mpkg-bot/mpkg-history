@@ -1,9 +1,11 @@
-failed: iperf3|wireshark|nodejs-lts|boinc|quiterss.portable
+failed: iperf3|sqlitebrowser|wireshark|nodejs-lts|boinc|quiterss.portable
+merging sqlitebrowser
 merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SupernovaPlayer_winget
-merging SamsungMagician_winget
-merging Unity.6000.Android_winget
+merging Opera.Beta_winget
+deprecate SupernovaPlayer_winget
+deprecate SamsungMagician_winget
+deprecate Unity.6000.Android_winget
