@@ -1,26 +1,26 @@
 {
     "id": "restic",
-    "ver": "0.16.5",
-    "date": "2024-07-01",
+    "ver": "0.17.0",
+    "date": "2024-07-26",
     "arch": {
-        "32bit": "https://github.com/restic/restic/releases/download/v0.16.5/restic_0.16.5_windows_386.zip",
-        "64bit": "https://github.com/restic/restic/releases/download/v0.16.5/restic_0.16.5_windows_amd64.zip"
+        "32bit": "https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_386.zip",
+        "64bit": "https://github.com/restic/restic/releases/download/v0.17.0/restic_0.17.0_windows_amd64.zip"
     },
     "sha256": {
-        "32bit": "878dadc0cd51626f39072cd599be261d184cfe894a4447298449def8588072b8",
-        "64bit": "286cf8ac789b4752825dd6098cae26394b8803b99cd2d4cdb2153d9ef73f49c4"
+        "32bit": "ec72c50bdd6b49a4a045ee92e471c01596640426aa4f5cdfdce2c2a975a2913d",
+        "64bit": "8578d2a63bbedd34669ed4cd8b332fb3aecfd3480ea3ef6d0c692e6fc146cb3e"
     },
     "changelog": "https://github.com/restic/restic/releases/latest",
     "bin": {
         "32bit": [
             [
-                "restic_0.16.5_windows_386.exe",
+                "restic_0.17.0_windows_386.exe",
                 "restic"
             ]
         ],
         "64bit": [
             [
-                "restic_0.16.5_windows_amd64.exe",
+                "restic_0.17.0_windows_amd64.exe",
                 "restic"
             ]
         ]
