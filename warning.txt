@@ -5,4 +5,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Dev.EXE_winget
