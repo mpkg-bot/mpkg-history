@@ -1,4 +1,5 @@
-failed: iperf3|sqlitebrowser|wireshark|quiterss.portable|boinc|nodejs-lts
+failed: iperf3|sqlitebrowser|wireshark|quiterss.portable|octave|boinc|nodejs-lts
+merging octave
 merging sqlitebrowser
 merging boinc
 merging iperf3
