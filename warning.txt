@@ -5,6 +5,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Sia-UI_winget
-merging pCon.plannerSTD_winget
-merging LibericaNIK.22.Full_winget
+merging IdleEucalytus_winget
+merging BabySmash_winget
+merging UndeadKoalasAttack_winget
+merging FerrariCreator_winget
+merging TheFreezingKoala_winget
+merging LibericaNIK.22.Standard_winget
+deprecate Sia-UI_winget
+deprecate pCon.plannerSTD_winget
+deprecate LibericaNIK.22.Full_winget
