@@ -5,8 +5,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate HDSentinel_winget
-deprecate HDSentinel.Pro_winget
-deprecate Edge.Beta_winget
-deprecate CHIRP-next_winget
-deprecate Unity.6000.LinuxServer_winget
