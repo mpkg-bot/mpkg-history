@@ -5,3 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging AirGameServer_winget
+merging AirGamePlay_winget
+merging PowerBI.DesktopReportServer_winget
+merging K-LiteCodecPack.Full_winget
+merging Unity.6000.tvOS_winget
