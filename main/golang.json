@@ -1,11 +1,11 @@
 {
     "id": "golang",
-    "ver": "1.22.6",
+    "ver": "1.23.0",
     "arch": {
-        "64bit": "https://golang.org/dl/go1.22.6.windows-amd64.msi"
+        "64bit": "https://golang.org/dl/go1.23.0.windows-amd64.msi"
     },
     "sha256": {
-        "64bit": "1238a3e6892eb8a0eb3fe0640e18ab82ca21cc1a933f16897b2ad081f057b5da"
+        "64bit": "93e1cf580893303d0f6ac10647335de9f0768199d7027d8a361639cae6ab3145"
     },
     "changelog": "https://golang.org/doc/devel/release.html"
 }
