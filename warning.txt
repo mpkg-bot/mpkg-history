@@ -5,11 +5,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate VisualStudio.2022.Professional_winget
-merging Silouhette_winget
-merging Bun.BaselineProfile_winget
-merging VisualStudio.2022.Enterprise_winget
-deprecate Acrobat.Reader.64-bit_winget
-deprecate FlowUs_winget
-deprecate GridTracker_winget
-deprecate VisualStudio.2022.Professional_winget
+merging Brave.Nightly_winget
+merging IntelliJIDEA.Community.EAP_winget
+merging FenoPhoto_winget
+deprecate Silouhette_winget
+deprecate Bun.BaselineProfile_winget
+deprecate VisualStudio.2022.Enterprise_winget
