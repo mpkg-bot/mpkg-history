@@ -1,9 +1,9 @@
 {
     "id": "GeForceGameReadyDriver.dch.notebook",
-    "ver": "560.81",
-    "date": "2024-08-06",
+    "ver": "560.94",
+    "date": "2024-08-20",
     "arch": {
-        "64bit": "https://us.download.nvidia.com/Windows/560.81/560.81-notebook-win10-win11-64bit-international-dch-whql.exe"
+        "64bit": "https://us.download.nvidia.com/Windows/560.94/560.94-notebook-win10-win11-64bit-international-dch-whql.exe"
     },
     "changelog": "_blank",
     "allowExtract": true

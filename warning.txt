@@ -5,4 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Soroush+_winget
+merging ab-download-manager_scoop
+merging PotPlayer.Beta_winget
+merging ProgDVB.Professional_winget
+merging IntelliJIDEA.Community_winget
+deprecate Soroush+_winget
