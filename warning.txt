@@ -5,10 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging toggl_scoop
-deprecate ab-download-manager_scoop
-deprecate IntelliJIDEA.Community_winget
-merging IntelliJIDEA.Ultimate_winget
-deprecate PotPlayer.Beta_winget
-deprecate ProgDVB.Professional_winget
-deprecate IntelliJIDEA.Community_winget
+deprecate toggl_scoop
+deprecate IntelliJIDEA.Ultimate_winget
