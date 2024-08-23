@@ -5,5 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate toggl_scoop
-deprecate IntelliJIDEA.Ultimate_winget
+merging AdGuard.Nightly_winget
+merging Chrome.Dev.EXE_winget
