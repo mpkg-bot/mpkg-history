@@ -5,5 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AdGuard.Nightly_winget
-merging Chrome.Dev.EXE_winget
+deprecate Chrome.Dev.EXE_winget
+merging Chrome.Beta.EXE_winget
+deprecate AdGuard.Nightly_winget
+deprecate Chrome.Dev.EXE_winget
