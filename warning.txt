@@ -5,4 +5,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Beta.EXE_winget
+merging vpn_winget_0
+merging shellsy_winget
+merging TypeEasy_winget
+merging Zen_winget
+merging BlueDV_winget
+merging vpn_winget_1
