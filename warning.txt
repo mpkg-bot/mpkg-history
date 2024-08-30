@@ -5,7 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFelement.11_winget
-merging VisualStudio.2022.Enterprise_winget
-deprecate VisualStudio.2022.BuildTools_winget
-deprecate CrystalDiskInfo.AoiEdition_winget
+merging Edge.Dev_winget
+merging Connect_winget
+deprecate PDFelement.11_winget
+deprecate VisualStudio.2022.Enterprise_winget
