@@ -5,6 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate RustDesk.Nightly_winget
-deprecate LMStudio_winget
-deprecate majsoul-plus_winget
+merging UniConverter.14_winget
+merging Maltego_winget
+merging rubick_winget
