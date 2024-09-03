@@ -5,6 +5,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging UniConverter.14_winget
-merging Maltego_winget
-merging rubick_winget
+deprecate Maltego_winget
+merging AdGuard.Beta_winget
+merging ProgDVB.NetworkEdition_winget
+merging MapTilerDesktop_winget
+deprecate UniConverter.14_winget
+deprecate Maltego_winget
+deprecate rubick_winget
