@@ -5,7 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging IcedTea-Web_winget
-merging Edge.Beta_winget
-deprecate AndroidStudio.Canary_winget
-deprecate Fotophire.Maximizer_winget
+deprecate IcedTea-Web_winget
+deprecate Edge.Beta_winget
