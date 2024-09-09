@@ -5,5 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate IcedTea-Web_winget
-deprecate Edge.Beta_winget
+merging SecEditCtl_winget
+merging Doomsday_winget
+merging GameSaveManager_winget
+merging WindowsAppRuntime.1.5_winget
