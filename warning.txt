@@ -5,10 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging opam_winget_0
-merging Knotes_winget
-merging opam_winget_1
-merging LibreOffice.HelpPack_winget
-deprecate iPlayer_winget
-deprecate DJIAssistant2.ConsumerSeries_winget
-deprecate DiscordChatExporter.GUI_winget
+merging PSPlus_winget
+deprecate opam_winget_0
+deprecate Knotes_winget
+deprecate opam_winget_1
+deprecate LibreOffice.HelpPack_winget
