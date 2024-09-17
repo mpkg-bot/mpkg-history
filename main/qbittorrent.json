@@ -1,9 +1,9 @@
 {
     "id": "qbittorrent",
-    "ver": "4.6.6",
-    "date": "2024-08-19",
+    "ver": "4.6.7",
+    "date": "2024-09-16",
     "arch": {
-        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.6.6/qbittorrent_4.6.6_x64_setup.exe"
+        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.6.7/qbittorrent_4.6.7_x64_setup.exe"
     },
     "changelog": "https://www.qbittorrent.org/news.php",
     "args": "/S"
