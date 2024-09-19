@@ -1,10 +1,10 @@
 {
     "id": "sandboxie",
-    "ver": "5.69.8",
-    "date": "2024-09-08",
+    "ver": "5.69.9",
+    "date": "2024-09-19",
     "arch": {
-        "64bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Classic-x64-v5.69.8.exe",
-        "32bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.8/Sandboxie-Classic-x86-v5.69.8.exe"
+        "64bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.9/Sandboxie-Classic-x64-v5.69.9.exe",
+        "32bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.14.9/Sandboxie-Classic-x86-v5.69.9.exe"
     },
     "changelog": "https://github.com/sandboxie-plus/Sandboxie/releases/latest"
 }
