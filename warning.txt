@@ -5,9 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Dev.EXE_winget
-merging Chrome.Beta.EXE_winget
-merging IA.CS7_winget
-deprecate Chrome.Dev.EXE_winget
-deprecate WingetUIStore_winget
-deprecate WingetUIStore.Pre-release_winget
+deprecate Chrome.Beta.EXE_winget
+deprecate IA.CS7_winget
