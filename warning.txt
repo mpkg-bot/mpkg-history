@@ -5,4 +5,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate JDK.22_winget
+merging nCine_winget
