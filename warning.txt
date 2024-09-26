@@ -5,4 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging nCine_winget
+merging KGMusic_winget
+merging gejigeji_winget
+deprecate nCine_winget
