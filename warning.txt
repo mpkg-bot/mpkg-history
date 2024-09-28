@@ -5,10 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging bobonslaught_winget
-merging ResilioSync_winget
-merging B-SideRedux_winget
-merging jianqiebanzhushou_winget
-merging TutelaWindowsAgent_winget
-deprecate KGMusic_winget
-deprecate gejigeji_winget
+deprecate bobonslaught_winget
+deprecate ResilioSync_winget
+deprecate B-SideRedux_winget
+deprecate jianqiebanzhushou_winget
+deprecate TutelaWindowsAgent_winget
