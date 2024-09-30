@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "7.0.2",
-    "date": "2024-08-03",
+    "ver": "7.1",
+    "date": "2024-09-30",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/7.0.2/ffmpeg-7.0.2-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/7.1/ffmpeg-7.1-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "a0b6e8c7978b95d019a93dcf4b4ab74b17d9e53e0a87cfd463e1376c5927e30b"
+        "64bit": "01915dfe8591248be20d3d83453c91c1f71cfd10c07460e6fa2d2e667f513606"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [

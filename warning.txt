@@ -5,3 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Ares_winget
+merging SSH.Client_winget
+merging Edge.Dev_winget
+merging VirtualBox_winget
