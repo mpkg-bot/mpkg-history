@@ -5,8 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Arq7_winget
-merging Utility_winget
-deprecate Unity.6000.MacServer_winget
-deprecate Edge.Beta_winget
-deprecate Thunderbird.kk_winget
+merging Viber_winget
+deprecate Arq7_winget
+deprecate Utility_winget
