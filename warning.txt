@@ -5,6 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Viber_winget
-deprecate Arq7_winget
-deprecate Utility_winget
+merging Acrobat.Reader.32-bit_winget
+merging make_winget
+deprecate Viber_winget
