@@ -5,5 +5,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Acrobat.Reader.32-bit_winget
-deprecate make_winget
