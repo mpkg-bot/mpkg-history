@@ -5,10 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Temurin.23.JDK_winget
-deprecate PhantomPDF.Subscription.MSI_winget
-deprecate VCRedist.2015+.x64_winget
-deprecate Temurin.22.JRE_winget
-deprecate HandBrake-SVT-AV1-SPY_winget
-deprecate PostgreSQL.16_winget
-deprecate ScratchForDiscord.Dev_winget
+merging VCRedist.2015+.arm64_winget
+deprecate Temurin.23.JDK_winget
