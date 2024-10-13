@@ -5,5 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VCRedist.2015+.arm64_winget
-deprecate Temurin.23.JDK_winget
+merging msodbcsql_winget
+merging veeam-agent_winget
+merging PDFelement.11_winget
+deprecate VCRedist.2015+.arm64_winget
