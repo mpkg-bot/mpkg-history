@@ -5,7 +5,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging msodbcsql_winget
-merging veeam-agent_winget
-merging PDFelement.11_winget
-deprecate VCRedist.2015+.arm64_winget
+merging OpenSSH.Beta_winget
+merging Office_winget
+merging TinyVid_winget
+merging PlasticSCM.CloudEdition_winget
+merging HTTPdownloader_winget
+deprecate msodbcsql_winget
+deprecate veeam-agent_winget
+deprecate PDFelement.11_winget
