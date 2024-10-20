@@ -5,8 +5,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AdvancedSystemCare_winget
-deprecate eBook_winget
-deprecate classin_winget
-deprecate Rust.GNU_winget
-deprecate zyplayer_winget
+deprecate AdvancedSystemCare_winget
