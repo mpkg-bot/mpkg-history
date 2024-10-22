@@ -5,3 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging LibericaJDK.22_winget
+merging LibericaJDK.22.Full_winget
