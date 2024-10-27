@@ -9,5 +9,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Edge.Dev_winget
-deprecate PDFelement.CN_winget
