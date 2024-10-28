@@ -9,3 +9,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging NirCmd_winget
