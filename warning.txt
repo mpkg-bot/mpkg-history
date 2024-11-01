@@ -5,9 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate wingetui_scoop
-deprecate armcord_scoop
-merging TigerVNC_winget
-merging WingIDE101_winget
-deprecate alist_winget_0
-deprecate alist_winget_1
+deprecate TigerVNC_winget
+merging GDK.2406_winget
+merging PDFelement.11_winget
+deprecate TigerVNC_winget
+deprecate WingIDE101_winget
