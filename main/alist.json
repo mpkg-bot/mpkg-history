@@ -1,10 +1,10 @@
 {
     "id": "alist",
-    "ver": "3.38.0",
-    "date": "2024-10-11",
+    "ver": "3.39.1",
+    "date": "2024-11-02",
     "arch": {
-        "32bit": "https://github.com/AlistGo/alist/releases/download/v3.38.0/alist-windows-386.zip",
-        "64bit": "https://github.com/AlistGo/alist/releases/download/v3.38.0/alist-windows-amd64.zip"
+        "32bit": "https://github.com/AlistGo/alist/releases/download/v3.39.1/alist-windows-386.zip",
+        "64bit": "https://github.com/AlistGo/alist/releases/download/v3.39.1/alist-windows-amd64.zip"
     },
     "bin": [
         "alist.exe"

@@ -5,8 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate TigerVNC_winget
-merging GDK.2406_winget
-merging PDFelement.11_winget
-deprecate TigerVNC_winget
-deprecate WingIDE101_winget
+deprecate GDK.2406_winget
+deprecate PDFelement.11_winget
