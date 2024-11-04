@@ -5,6 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Kangaroo_winget
-merging NextDNS.Desktop_winget
-merging pl.SQLiteStudio_winget
+merging Edge.Beta_winget
+merging ARMPS_winget
+deprecate Kangaroo_winget
+deprecate NextDNS.Desktop_winget
+deprecate pl.SQLiteStudio_winget
