@@ -5,7 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging hyperion.ng_winget
-merging AdvancedSystemCare_winget
-deprecate Edge.Beta_winget
-deprecate ARMPS_winget
+deprecate AdvancedSystemCare_winget
+deprecate hyperion.ng_winget
+deprecate AdvancedSystemCare_winget

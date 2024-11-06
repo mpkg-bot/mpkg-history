@@ -1,14 +1,14 @@
 {
     "id": "curl",
-    "ver": "8.10.1_7",
-    "date": "2024-09-18",
+    "ver": "8.11.0_1",
+    "date": "2024-11-06",
     "arch": {
-        "32bit": "https://curl.se/windows/dl-8.10.1_7/curl-8.10.1_7-win32-mingw.zip",
-        "64bit": "https://curl.se/windows/dl-8.10.1_7/curl-8.10.1_7-win64-mingw.zip"
+        "32bit": "https://curl.se/windows/dl-8.11.0_1/curl-8.11.0_1-win32-mingw.zip",
+        "64bit": "https://curl.se/windows/dl-8.11.0_1/curl-8.11.0_1-win64-mingw.zip"
     },
     "sha256": {
-        "32bit": "b859eead2b407edd6fd2477b0eb7e2a5970794b3d85cae3c4eb61a72f2e33954",
-        "64bit": "b4190ffb8d82b8b76f010501e18296b7984d49bbfd64ad63fa9b05d010d3ed1b"
+        "32bit": "5713552ded2490e741208ee8ce54e868490517b88483bb49a2fe473b63976251",
+        "64bit": "387797de7ba79b0a056c332f3924cde267de9fb42616f524c24eaeeb8d9d84e9"
     },
     "changelog": "https://curl.se/changes.html",
     "bin": [
