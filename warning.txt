@@ -5,5 +5,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Acrobat.Reader.32-bit_winget
-merging SageMath_winget
+merging whatsapp_scoop
+merging Maltego_winget
+merging orange_winget_0
+merging orange_winget_1
+merging LINE_winget
+deprecate Acrobat.Reader.32-bit_winget
+deprecate SageMath_winget
