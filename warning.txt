@@ -6,6 +6,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging mqttx_winget
-merging Pymol_winget
-deprecate qsapecng_winget
+merging CrystalDiskMark.ShizukuEdition_winget
+deprecate mqttx_winget
+deprecate Pymol_winget
