@@ -1,10 +1,10 @@
-failed: nodejs-lts|IntelWirelessDriver.admin|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
-merging IntelWirelessDriver.admin
+failed: nodejs-lts|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
 merging sqlitebrowser
 merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging UniConverter.15_winget
-deprecate CrystalDiskMark.ShizukuEdition_winget
+merging strawberry_scoop
+merging AusweisApp2_winget
+deprecate UniConverter.15_winget
