@@ -5,8 +5,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate strawberry_scoop
-merging Chrome.Dev.EXE_winget
-merging LibreOffice.HelpPack_winget
-merging Orange_winget
-deprecate AusweisApp2_winget
+deprecate Chrome.Dev.EXE_winget
+deprecate LibreOffice.HelpPack_winget
+merging Chrome.Beta.EXE_winget
+merging LibreOffice.SDK_winget
+deprecate Chrome.Dev.EXE_winget
+deprecate LibreOffice.HelpPack_winget
+deprecate Orange_winget
