@@ -5,10 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Dev.EXE_winget
-deprecate LibreOffice.HelpPack_winget
-merging Chrome.Beta.EXE_winget
-merging LibreOffice.SDK_winget
-deprecate Chrome.Dev.EXE_winget
-deprecate LibreOffice.HelpPack_winget
-deprecate Orange_winget
+deprecate Chrome.Beta.EXE_winget
+deprecate LibreOffice.SDK_winget
