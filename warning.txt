@@ -5,9 +5,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate OSFMount_winget
-merging osfmount_winget_0
-merging osfmount_winget_1
-deprecate AbiWord_winget
-deprecate qBittorrent.Beta_winget
-deprecate OSFMount_winget
+merging SSH.Server_winget
+deprecate osfmount_winget_0
+deprecate osfmount_winget_1
