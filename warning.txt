@@ -1,10 +1,9 @@
-failed: nodejs-lts|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
+failed: nodejs-lts|boinc|gimp|wireshark|sqlitebrowser|quiterss.portable|iperf3
+merging gimp
 merging sqlitebrowser
 merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SSH.Server_winget
-deprecate osfmount_winget_0
-deprecate osfmount_winget_1
+deprecate SSH.Server_winget
