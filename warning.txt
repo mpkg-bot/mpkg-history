@@ -1,9 +1,8 @@
-failed: nodejs-lts|boinc|gimp|wireshark|sqlitebrowser|quiterss.portable|iperf3
-merging gimp
+failed: nodejs-lts|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
 merging sqlitebrowser
 merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SSH.Server_winget
+merging KoodoReader_winget
