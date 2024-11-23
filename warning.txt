@@ -5,4 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging KoodoReader_winget
+merging BackupSuiteFree_winget
+merging Fences_winget
+merging Lime3DS_winget
+deprecate KoodoReader_winget
