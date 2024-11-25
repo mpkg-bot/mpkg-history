@@ -5,8 +5,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Talk_winget
-merging K.DHLabel_winget
-deprecate BackupSuiteFree_winget
-deprecate Fences_winget
-deprecate Lime3DS_winget
+merging SkEditor+_winget
+merging ProgTV_winget
+merging IELTS-PC_winget
+merging SupernovaPlayer_winget
+deprecate Talk_winget
+deprecate K.DHLabel_winget
