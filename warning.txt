@@ -5,9 +5,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Firefox.DeveloperEdition.vi_winget
-merging Firefox.DeveloperEdition.ko_winget
-merging ODAFileConverter_winget
-merging Hoerbert_winget
-deprecate ArmCord_winget
-deprecate Firefox.DeveloperEdition.vi_winget
+merging GlobalProtect_winget
+merging PDFelement.CN_winget
+deprecate Firefox.DeveloperEdition.ko_winget
+deprecate ODAFileConverter_winget
+deprecate Hoerbert_winget
