@@ -5,6 +5,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Rust.MSVC_winget
-deprecate GlobalProtect_winget
-deprecate PDFelement.CN_winget
+deprecate Rust.MSVC_winget
