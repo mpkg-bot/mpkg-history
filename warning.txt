@@ -5,4 +5,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Rust.MSVC_winget
+merging MiXXX_winget
