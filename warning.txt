@@ -5,4 +5,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MiXXX_winget
+deprecate MiXXX_winget
