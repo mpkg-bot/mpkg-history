@@ -1,8 +1,12 @@
-failed: nodejs-lts|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
+failed: nodejs-lts|boinc|virtualbox|wireshark|sqlitebrowser|quiterss.portable|iperf3
+merging virtualbox
 merging sqlitebrowser
 merging boinc
 merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate MiXXX_winget
+merging Edge.Dev_winget
+merging ParallelsClient_winget
+merging deltachat_winget
+merging Wing.101_winget
