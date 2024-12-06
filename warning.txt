@@ -5,6 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate DotNet.SDK.Preview_winget
-deprecate Defrag.Professional_winget
-deprecate UpdateHub_winget
+merging Edge.Beta_winget
+merging VCam_winget
