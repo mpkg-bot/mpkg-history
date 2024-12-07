@@ -5,5 +5,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Edge.Beta_winget
-merging VCam_winget
+deprecate Edge.Beta_winget
+deprecate VCam_winget
