@@ -5,4 +5,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MusicBee_winget
+merging Acrobat.Reader.64-bit_winget
+merging OpenRA.Release_winget
+merging minder_winget
+deprecate MusicBee_winget
