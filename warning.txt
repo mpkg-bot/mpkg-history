@@ -1,4 +1,5 @@
-failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
+failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
+merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
 merging boinc
@@ -6,10 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate notepad2-zufuliu_scoop
-merging VisualStudioCode.Insiders_winget
-merging PDFelement.11_winget
-deprecate Thunderbird.bg_winget
-deprecate TurtleEditor_winget
-deprecate chiaki-ng_winget_0
-deprecate chiaki-ng_winget_1
+merging SSH.Client_winget
+deprecate VisualStudioCode.Insiders_winget
+deprecate PDFelement.11_winget
