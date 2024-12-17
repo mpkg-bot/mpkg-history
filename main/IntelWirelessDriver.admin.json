@@ -1,9 +1,9 @@
 {
     "id": "IntelWirelessDriver.admin",
-    "ver": "23.90.0",
-    "date": "2024-11-11",
+    "ver": "23.100.0",
+    "date": "2024-12-17",
     "links": [
-        "https://downloadmirror.intel.com/837762/WiFi-23.90.0-Driver64-Win10-Win11.zip"
+        "https://downloadmirror.intel.com/842460/WiFi-23.100.0-Driver64-Win10-Win11.zip"
     ],
     "changelog": "https://www.intel.com/content/www/us/en/download/18231/intel-proset-wireless-software-and-drivers-for-it-admins.html",
     "description": "IT Administrator Links for Intel\u00ae PROSet/Wireless Software"

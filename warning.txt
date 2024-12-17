@@ -6,6 +6,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging OpenRA_winget
-merging notes_winget
-merging Zoom.VDI_winget
+merging PhantomPDF.Subscription.CN_winget
+merging osukps_winget
+deprecate OpenRA_winget
+deprecate notes_winget
+deprecate Zoom.VDI_winget
