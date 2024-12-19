@@ -6,7 +6,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VisualStudioCode.CLI_winget
-merging CBox_winget
-deprecate PhantomPDF.Subscription.CN_winget
-deprecate osukps_winget
+merging LibreOffice.HelpPack_winget
+merging AnyFix_winget
+merging Wing.Pro_winget
+merging vMix_winget
+deprecate VisualStudioCode.CLI_winget
+deprecate CBox_winget
