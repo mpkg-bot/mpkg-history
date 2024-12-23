@@ -6,11 +6,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate aegisub_winget_0
-deprecate Aegisub.Dev_winget
-deprecate AdGuardVPN.Beta_winget
-deprecate CustomControlEditor_winget
-deprecate aegisub_winget_1
-deprecate MiniLyrics_winget
-deprecate DISMTools.Preview_winget
-deprecate Cider.Nightly_winget
