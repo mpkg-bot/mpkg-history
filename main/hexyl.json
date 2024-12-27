@@ -1,10 +1,10 @@
 {
     "id": "hexyl",
-    "ver": "0.15.0",
-    "date": "2024-10-29",
+    "ver": "0.16.0",
+    "date": "2024-12-27",
     "arch": {
-        "32bit": "https://github.com/sharkdp/hexyl/releases/download/v0.15.0/hexyl-v0.15.0-i686-pc-windows-msvc.zip",
-        "64bit": "https://github.com/sharkdp/hexyl/releases/download/v0.15.0/hexyl-v0.15.0-x86_64-pc-windows-msvc.zip"
+        "32bit": "https://github.com/sharkdp/hexyl/releases/download/v0.16.0/hexyl-v0.16.0-i686-pc-windows-msvc.zip",
+        "64bit": "https://github.com/sharkdp/hexyl/releases/download/v0.16.0/hexyl-v0.16.0-x86_64-pc-windows-msvc.zip"
     },
     "changelog": "https://github.com/sharkdp/hexyl/releases/latest",
     "bin": [

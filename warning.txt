@@ -6,6 +6,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Hyper_winget
-merging CamScanner_winget
-merging AIOI.2023_winget
+merging IMPIView_winget
+deprecate Hyper_winget
+deprecate CamScanner_winget
+deprecate AIOI.2023_winget
