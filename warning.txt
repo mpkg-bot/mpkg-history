@@ -8,6 +8,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AdGuard.Nightly_winget
-deprecate AHMSystemManager_winget
-deprecate jj_winget
+merging PDFPro.NLS_winget
+merging collapse_winget_0
+merging collapse_winget_1
+merging Cider_winget
+deprecate AdGuard.Nightly_winget
