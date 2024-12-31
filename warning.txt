@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|virtualbox|wireshark|sqlitebrowser|quiterss.portable|iperf3
-merging virtualbox
+failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,8 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFPro.NLS_winget
-merging collapse_winget_0
-merging collapse_winget_1
-merging Cider_winget
-deprecate AdGuard.Nightly_winget
+merging Rainbow_winget
+merging Workspace.Agent_winget
+deprecate PDFPro.NLS_winget
+deprecate collapse_winget_0
+deprecate collapse_winget_1
+deprecate Cider_winget
