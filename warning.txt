@@ -7,9 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Rainbow_winget
-merging Workspace.Agent_winget
-deprecate PDFPro.NLS_winget
-deprecate collapse_winget_0
-deprecate collapse_winget_1
-deprecate Cider_winget
+merging youtube-dl-gui_winget
+deprecate Rainbow_winget
+deprecate Workspace.Agent_winget
