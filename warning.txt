@@ -7,6 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging youtube-dl-gui_winget
-deprecate Rainbow_winget
-deprecate Workspace.Agent_winget
+merging AdGuard.Beta_winget
+deprecate youtube-dl-gui_winget
