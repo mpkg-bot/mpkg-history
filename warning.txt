@@ -7,5 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging client_winget_4
-deprecate Gperf_winget
+deprecate client_winget_4
