@@ -1,4 +1,5 @@
-failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
+failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|virtualbox|wireshark|sqlitebrowser|quiterss.portable|iperf3
+merging virtualbox
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,4 +8,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate client_winget_4
