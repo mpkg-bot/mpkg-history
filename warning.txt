@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|virtualbox|wireshark|sqlitebrowser|quiterss.portable|iperf3
-merging virtualbox
+failed: GeForceGameReadyDriver.dch.notebook|nodejs-lts|xpdf-tools|boinc|wireshark|sqlitebrowser|quiterss.portable|iperf3
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,3 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging HashCheckShellExtension_winget
+merging MaestroAarsoppgjoer.2023_winget
+merging LogTagAnalyzer_winget
