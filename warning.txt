@@ -7,8 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firewall_winget
-merging SafeErase.Professional_winget
-deprecate HashCheckShellExtension_winget
-deprecate MaestroAarsoppgjoer.2023_winget
-deprecate LogTagAnalyzer_winget
+deprecate Firewall_winget
+deprecate SafeErase.Professional_winget
