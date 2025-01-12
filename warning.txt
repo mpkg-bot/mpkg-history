@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PxCook_winget
-merging GameViewer_winget
-merging palminput_winget_0
-merging palminput_winget_1
-deprecate LeagueOfLegends.TH2_winget
+deprecate PxCook_winget
+deprecate GameViewer_winget
+deprecate palminput_winget_0
+deprecate palminput_winget_1
