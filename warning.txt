@@ -7,8 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Files_winget
-merging GeForceExperience_winget
-merging Broadcast_winget
-deprecate PhantomPDF.Subscription.CN_winget
-deprecate DISMTools.Stable_winget
+deprecate Files_winget
+deprecate GeForceExperience_winget
+deprecate Broadcast_winget
