@@ -7,6 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Files_winget
-deprecate GeForceExperience_winget
-deprecate Broadcast_winget
+merging files_winget_0
+merging files_winget_1
