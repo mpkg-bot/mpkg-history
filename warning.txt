@@ -7,5 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging files_winget_0
-merging files_winget_1
+merging Edge.Dev_winget
+deprecate files_winget_0
+deprecate files_winget_1
