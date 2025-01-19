@@ -1,13 +1,13 @@
 {
     "id": "kodi",
-    "ver": "21.1",
+    "ver": "21.2",
     "arch": {
-        "32bit": "https://mirrors.kodi.tv/releases/windows/win32/kodi-21.1-Omega-x86.exe",
-        "64bit": "https://mirrors.kodi.tv/releases/windows/win64/kodi-21.1-Omega-x64.exe"
+        "32bit": "https://mirrors.kodi.tv/releases/windows/win32/kodi-21.2-Omega-x86.exe",
+        "64bit": "https://mirrors.kodi.tv/releases/windows/win64/kodi-21.2-Omega-x64.exe"
     },
     "sha256": {
-        "32bit": "a0d24283bccd8706da2b401fdb2b2359b65337842360c760694ad4c6dd443723",
-        "64bit": "089519649fccf9fe0e5f9f6369521d035cd64553947a3bcea1acc7614e00a88f"
+        "32bit": "37516550aefb1e416801cba6c1ea2cf559c72ec336c99ade3507330c75aeb13a",
+        "64bit": "daac44fad06f4179f658f233bc777c47db24b3e9718b596b223aedc0f89de1b0"
     },
     "args": "/S"
 }
