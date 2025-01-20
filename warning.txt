@@ -7,6 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging nginx-prometheus-exporter_winget_0
-merging nginx-prometheus-exporter_winget_1
-deprecate Edge.Dev_winget
+deprecate nginx-prometheus-exporter_winget_0
+deprecate nginx-prometheus-exporter_winget_1
