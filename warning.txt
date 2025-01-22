@@ -7,6 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging PhantomPDF.Subscription.MSI_winget
+merging tcping_winget
+merging RocketDock_winget
+merging Discord.PTB_winget
 merging AdGuard.Nightly_winget
 merging TrafficMonitor.Lite_winget
 merging Start11.v1_winget
