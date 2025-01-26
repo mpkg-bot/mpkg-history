@@ -8,8 +8,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Edge.Beta_winget
-deprecate 33ZiMu_winget
-deprecate FrameSearchEngine_winget
-deprecate 33TaiCi_winget
-deprecate ChatGPTNextWeb_winget
