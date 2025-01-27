@@ -8,3 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging QuoteHunt_winget
+merging OmnifyHotspot_winget
+merging dolphin_winget_0
+merging dolphin_winget_1
