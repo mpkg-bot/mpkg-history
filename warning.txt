@@ -8,8 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AdGuard.Beta_winget
-deprecate QuoteHunt_winget
-deprecate OmnifyHotspot_winget
-deprecate dolphin_winget_0
-deprecate dolphin_winget_1
+merging Chime_winget
+merging TrafficMonitor.Full_winget
+merging WorkplaceClassic_winget
+deprecate AdGuard.Beta_winget
