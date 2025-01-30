@@ -8,7 +8,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chime_winget
-merging TrafficMonitor.Full_winget
-merging WorkplaceClassic_winget
-deprecate AdGuard.Beta_winget
+merging katharsis_winget_0
+merging LibreOffice.HelpPack_winget
+merging katharsis_winget_1
+merging Bilidown_winget
+merging StarConflict_winget
+deprecate Chime_winget
+deprecate TrafficMonitor.Full_winget
+deprecate WorkplaceClassic_winget
