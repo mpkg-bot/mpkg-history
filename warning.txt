@@ -8,11 +8,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Thetis_winget
-merging ThrottleStop_winget
-deprecate LibreOffice.SDK_winget
-deprecate GPU-Z_winget
-deprecate time-to-leave_winget
-deprecate TimeXtenderODX_winget
-deprecate TimeXtender_winget
-deprecate digikam_winget
+merging TeamSpeakClient.Beta_winget
+deprecate Thetis_winget
+deprecate ThrottleStop_winget
