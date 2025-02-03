@@ -8,6 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging TeamSpeakClient.Beta_winget
-deprecate Thetis_winget
-deprecate ThrottleStop_winget
+merging AzureDataStudio.Insiders_winget
+merging GAMADV-XTD3_winget
+merging Harbor_winget
+deprecate TeamSpeakClient.Beta_winget
