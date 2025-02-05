@@ -1,5 +1,4 @@
-failed: sqlitebrowser|iperf3|boinc|nodejs-lts|GeForceGameReadyDriver.dch.notebook|wireshark|xpdf-tools|quiterss.portable|veracrypt
-merging veracrypt
+failed: sqlitebrowser|iperf3|boinc|nodejs-lts|GeForceGameReadyDriver.dch.notebook|wireshark|xpdf-tools|quiterss.portable
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,7 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Brave.Nightly_winget
-deprecate AzureDataStudio.Insiders_winget
-deprecate GAMADV-XTD3_winget
-deprecate Harbor_winget
+merging BrotheriPrint&Scan_winget
+merging Chrome.Dev.EXE_winget
+deprecate Brave.Nightly_winget
