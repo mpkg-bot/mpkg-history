@@ -7,8 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging NDI5Tools_winget
-merging Chrome.Beta.EXE_winget
-deprecate Brave.Beta_winget
-deprecate FFmpeg.LGPL.Shared_winget
-deprecate DingTalk.Lite_winget
+merging mihomo_winget
+deprecate NDI5Tools_winget
+deprecate Chrome.Beta.EXE_winget
