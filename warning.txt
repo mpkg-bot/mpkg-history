@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging FFmpeg.GPL.Shared_winget
-merging TrafficMonitor.Lite_winget
-deprecate ruqola_winget
-deprecate kile_winget
-deprecate umbrello_winget
+merging kdevelop_winget
+merging Rode-Central_winget
+deprecate FFmpeg.GPL.Shared_winget
+deprecate TrafficMonitor.Lite_winget
