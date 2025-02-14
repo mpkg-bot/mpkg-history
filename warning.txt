@@ -7,9 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging 5.6_winget
-merging Duplicati.Canary_winget
-deprecate NDI5Runtime_winget
-deprecate 0xGingi-BrowserInstaller_winget
-deprecate Ktrip_winget
-deprecate pomo_winget
+merging Edge.Dev_winget
+merging MazeratorOld_winget
+deprecate 5.6_winget
+deprecate Duplicati.Canary_winget
