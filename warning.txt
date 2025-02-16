@@ -7,9 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging dotter_winget
-merging MediaMonkey.5_winget
-merging EassosRecovery_winget
-merging Dolphin_winget
-deprecate Edge.Dev_winget
-deprecate MazeratorOld_winget
+merging youtubetomp3_winget
+merging Midterm_winget
+merging GigabyteControlCenter_winget
+deprecate dotter_winget
+deprecate MediaMonkey.5_winget
+deprecate EassosRecovery_winget
+deprecate Dolphin_winget
