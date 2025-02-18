@@ -1,8 +1,8 @@
 {
     "id": "geogebra6",
-    "ver": "874-1",
+    "ver": "875-1",
     "links": [
-        "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-874-1.exe"
+        "https://download.geogebra.org/installers/6.0/GeoGebra-Windows-Installer-6-0-875-1.exe"
     ],
     "args": "/S"
 }
