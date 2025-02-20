@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging youtubetomp3_winget_0
-merging youtubetomp3_winget_1
-merging wsjtx_winget
-deprecate AnythingLLM_winget
-deprecate tailscale_winget
+merging 3Kontakt_winget
+deprecate youtubetomp3_winget_0
+deprecate youtubetomp3_winget_1
+deprecate wsjtx_winget
