@@ -7,7 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging 3Kontakt_winget
-deprecate youtubetomp3_winget_0
-deprecate youtubetomp3_winget_1
-deprecate wsjtx_winget
+merging NickvisionParabolic_winget
+merging Dart-Sass_winget
+merging Edge.Beta_winget
+merging Warp_winget
+merging RubyWithDevKit.3.2_winget
+deprecate 3Kontakt_winget
