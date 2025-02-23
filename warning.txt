@@ -7,10 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging flat_winget
-merging 3DFZephyrFree_winget
-deprecate NickvisionParabolic_winget
-deprecate Dart-Sass_winget
-deprecate Edge.Beta_winget
-deprecate Warp_winget
-deprecate RubyWithDevKit.3.2_winget
+merging XMLSpyProfessionalEdition2024_winget
+merging Threat-Dragon-ng_winget
+deprecate flat_winget
+deprecate 3DFZephyrFree_winget
