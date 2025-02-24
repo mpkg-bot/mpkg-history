@@ -7,7 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging XMLSpyProfessionalEdition2024_winget
-merging Threat-Dragon-ng_winget
-deprecate flat_winget
-deprecate 3DFZephyrFree_winget
+merging v2rayN.Pre-release_winget
+merging TrafficMonitor.Full_winget
+merging FFmpeg_winget
+deprecate XMLSpyProfessionalEdition2024_winget
+deprecate Threat-Dragon-ng_winget
