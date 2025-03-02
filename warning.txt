@@ -7,9 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging sheltasks-cli_winget
-merging AnyDesk.MSI_winget
-merging OpenSSL.Light_winget
-deprecate DISMTools.Preview_winget
-deprecate AdGuardVPN.Beta_winget
-deprecate AdGuard.Beta_winget
+merging Jami.Beta_winget
+deprecate sheltasks-cli_winget
+deprecate AnyDesk.MSI_winget
+deprecate OpenSSL.Light_winget
