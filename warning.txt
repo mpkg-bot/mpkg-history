@@ -1,5 +1,4 @@
-failed: nodejs-lts|iperf3|sqlitebrowser|GeForceGameReadyDriver.dch.notebook|boinc|xpdf-tools|virtualbox|quiterss.portable|wireshark
-merging virtualbox
+failed: nodejs-lts|iperf3|sqlitebrowser|GeForceGameReadyDriver.dch.notebook|boinc|xpdf-tools|quiterss.portable|wireshark
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,5 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Jami.Beta_winget
-deprecate Jami.Beta_winget
+merging LaiHuaVideo_winget
+merging Ark_winget
