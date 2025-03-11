@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|wireshark|virtualbox|iperf3|quiterss.portable|nodejs-lts|sqlitebrowser|boinc|xpdf-tools
-merging virtualbox
+failed: GeForceGameReadyDriver.dch.notebook|wireshark|iperf3|quiterss.portable|nodejs-lts|sqlitebrowser|boinc|xpdf-tools
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,8 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging StyleVision.2025.Enterprise_winget
-deprecate Golden_winget
-deprecate session_winget_0
-deprecate session_winget_1
-deprecate archiver_winget
+merging OpenRA.Playtest_winget
+merging PhraseExpress_winget
+merging dive_winget
+merging Acrobat.Reader.64-bit_winget
+merging Authentic.2025.Enterprise_winget
+merging VisualStudio.2022.Community_winget
+deprecate StyleVision.2025.Enterprise_winget
