@@ -7,8 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate AdvancedSystemCare_winget
-merging VisualStudioCode.CLI_winget
-deprecate InstallPackComplete_winget
-deprecate VisualStudio.2022.Enterprise_winget
-deprecate AdvancedSystemCare_winget
+merging FlashbackExpress_winget
+merging Bun.BaselineProfile_winget
+merging FFmpeg.Essentials_winget
+merging Edge.Dev_winget
+deprecate VisualStudioCode.CLI_winget
