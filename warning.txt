@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging FlashbackExpress_winget
-merging Bun.BaselineProfile_winget
-merging FFmpeg.Essentials_winget
-merging Edge.Dev_winget
-deprecate VisualStudioCode.CLI_winget
+deprecate FlashbackExpress_winget
+deprecate Bun.BaselineProfile_winget
+deprecate FFmpeg.Essentials_winget
+deprecate Edge.Dev_winget
