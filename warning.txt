@@ -7,3 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging SSH.Client_winget
