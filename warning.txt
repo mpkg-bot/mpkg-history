@@ -7,7 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SSH.Client_winget
-merging SSH.Server_winget
-merging VisualStudio.2022.Community_winget
-deprecate SSH.Client_winget
+deprecate VisualStudio.2022.Community_winget
+merging ghdl.ucrt64_winget
+merging Thunderbird.hy-AM_winget
+merging VisualStudio.2022.BuildTools_winget
+deprecate SSH.Server_winget
+deprecate VisualStudio.2022.Community_winget
