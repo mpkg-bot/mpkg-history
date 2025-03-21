@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|wireshark|iperf3|quiterss.portable|gimp|nodejs-lts|sqlitebrowser|boinc|xpdf-tools
-merging gimp
+failed: GeForceGameReadyDriver.dch.notebook|wireshark|iperf3|quiterss.portable|nodejs-lts|sqlitebrowser|boinc|xpdf-tools
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,11 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SapMachine.23.JDK_winget
-merging JDK.23_winget
-merging Corretto.23.JDK_winget
-merging Zulu.23.JDK_winget
-merging ZuluFX.23.JDK_winget
-deprecate ghdl.ucrt64_winget
-deprecate Thunderbird.hy-AM_winget
-deprecate VisualStudio.2022.BuildTools_winget
+merging PyCharm.Community.EAP_winget
+deprecate SapMachine.23.JDK_winget
+deprecate JDK.23_winget
+deprecate Corretto.23.JDK_winget
+deprecate Zulu.23.JDK_winget
+deprecate ZuluFX.23.JDK_winget
