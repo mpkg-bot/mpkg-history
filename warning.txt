@@ -7,9 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PyCharm.Community.EAP_winget
-deprecate SapMachine.23.JDK_winget
-deprecate JDK.23_winget
-deprecate Corretto.23.JDK_winget
-deprecate Zulu.23.JDK_winget
-deprecate ZuluFX.23.JDK_winget
+merging LibericaJDK.23_winget
+merging LibericaJDK.23.Full_winget
+merging Acrobat.Reader.32-bit_winget
+merging Thunderbird.ms_winget
+deprecate PyCharm.Community.EAP_winget
