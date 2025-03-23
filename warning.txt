@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LibericaJDK.23_winget
-merging LibericaJDK.23.Full_winget
-merging Acrobat.Reader.32-bit_winget
-merging Thunderbird.ms_winget
-deprecate PyCharm.Community.EAP_winget
+deprecate LibericaJDK.23_winget
+deprecate LibericaJDK.23.Full_winget
+deprecate Acrobat.Reader.32-bit_winget
+deprecate Thunderbird.ms_winget
