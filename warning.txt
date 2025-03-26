@@ -7,13 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VisualStudio.2022.Community_winget
-deprecate hyper_winget_0
-deprecate Bun.Baseline_winget
-deprecate DiffUtils_winget
-deprecate CCleaner.ProTrial_winget
-deprecate hyper_winget_1
-deprecate Edge.Beta_winget
-deprecate CrashPlanSMB_winget
-deprecate BorderlessGaming_winget
-deprecate K-Meleon_winget
+merging GIMP.Nightly_winget
+merging WindowsAppRuntime.1.6_winget
+merging Temurin.23.JDK_winget
+deprecate VisualStudio.2022.Community_winget
