@@ -7,9 +7,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging RazerInstaller4_winget
-merging LibreOffice.HelpPack_winget
-merging StorageExecutive_winget
-deprecate GIMP.Nightly_winget
-deprecate WindowsAppRuntime.1.6_winget
-deprecate Temurin.23.JDK_winget
+merging RazerInstaller_winget
+merging PyCharm.Professional.EAP_winget
+merging GIMP_winget
+merging WEHAGO_winget
+merging VisualStudio.2022.Enterprise_winget
+deprecate RazerInstaller4_winget
+deprecate LibreOffice.HelpPack_winget
+deprecate StorageExecutive_winget
