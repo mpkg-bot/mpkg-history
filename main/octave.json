@@ -1,9 +1,9 @@
 {
     "id": "octave",
-    "ver": "9.4.0",
+    "ver": "10.1.0",
     "arch": {
-        "32bit": "https://ftp.gnu.org/gnu/octave/windows/octave-9.4.0-w32-installer.exe",
-        "64bit": "https://ftp.gnu.org/gnu/octave/windows/octave-9.4.0-w64-installer.exe"
+        "32bit": "https://ftp.gnu.org/gnu/octave/windows/octave-10.1.0-w32-installer.exe",
+        "64bit": "https://ftp.gnu.org/gnu/octave/windows/octave-10.1.0-w64-installer.exe"
     },
     "changelog": "https://www.gnu.org/software/octave/news.html"
 }
