@@ -7,10 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LibreOffice.SDK_winget
-merging ImageMagick.Q8_winget
-deprecate RazerInstaller_winget
-deprecate PyCharm.Professional.EAP_winget
-deprecate GIMP_winget
-deprecate WEHAGO_winget
-deprecate VisualStudio.2022.Enterprise_winget
+deprecate ImageMagick.Q8_winget
+merging Todolist_winget
+merging looking-glass_winget
+merging ImageMagick.Q16_winget
+deprecate LibreOffice.SDK_winget
+deprecate ImageMagick.Q8_winget
