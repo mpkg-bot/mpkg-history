@@ -7,9 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate ImageMagick.Q8_winget
-merging Todolist_winget
-merging looking-glass_winget
-merging ImageMagick.Q16_winget
-deprecate LibreOffice.SDK_winget
-deprecate ImageMagick.Q8_winget
+merging CloudMusic.Beta_winget
+merging KuwoMusic_winget
+deprecate Todolist_winget
+deprecate looking-glass_winget
+deprecate ImageMagick.Q16_winget
