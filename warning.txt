@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MakeMKV_winget
-deprecate Rust.MSVC_winget
-deprecate ToastFish_winget
-deprecate Chrome.Beta.EXE_winget
-deprecate Thunderbird.ESR.br_winget
+merging jd_winget
+merging PDFelement.CN_winget
+merging EposConnect_winget
+deprecate MakeMKV_winget
