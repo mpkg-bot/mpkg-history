@@ -7,4 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-no history file: winget.json
+merging BrightAuthor.5.0_winget
+merging NoMachineClient_winget
