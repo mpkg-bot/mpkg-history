@@ -7,5 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging BrightAuthor.5.0_winget
-merging NoMachineClient_winget
+merging OpenSSL.Light_winget
+merging He3_winget
+merging SchemaAgent.Server.2025_winget
+deprecate BrightAuthor.5.0_winget
+deprecate NoMachineClient_winget
