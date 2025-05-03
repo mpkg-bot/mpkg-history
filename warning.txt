@@ -7,9 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate sort-uniq-wc_scoop
-merging TLOPO_winget
-merging SmartInstallMaker_winget
-deprecate Electron.35_winget
-deprecate WindowsAgent_winget
-deprecate JAWS.2024_winget
+merging DISMTools.Stable_winget
+merging AdGuardVPN.Beta_winget
+deprecate TLOPO_winget
+deprecate SmartInstallMaker_winget
