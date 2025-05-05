@@ -7,7 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LogTagAnalyzer_winget
-merging ELAN_winget
-deprecate DISMTools.Stable_winget
-deprecate AdGuardVPN.Beta_winget
+deprecate LogTagAnalyzer_winget
+merging Boardmaker.7.StudentCenter_winget
+merging MihomoParty_winget
+deprecate LogTagAnalyzer_winget
+deprecate ELAN_winget
