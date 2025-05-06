@@ -7,8 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate LogTagAnalyzer_winget
-merging Boardmaker.7.StudentCenter_winget
-merging MihomoParty_winget
-deprecate LogTagAnalyzer_winget
-deprecate ELAN_winget
+merging PSpad.x64_winget
+merging ADKPEAddon_winget
+merging dbeaver_winget
+merging DBeaverEnterpriseEdition_winget
+deprecate Boardmaker.7.StudentCenter_winget
+deprecate MihomoParty_winget
