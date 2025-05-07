@@ -7,9 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PSpad.x64_winget
-merging ADKPEAddon_winget
-merging dbeaver_winget
-merging DBeaverEnterpriseEdition_winget
-deprecate Boardmaker.7.StudentCenter_winget
-deprecate MihomoParty_winget
+merging DoomsdayEngine_winget
+deprecate PSpad.x64_winget
+deprecate ADKPEAddon_winget
+deprecate dbeaver_winget
+deprecate DBeaverEnterpriseEdition_winget
