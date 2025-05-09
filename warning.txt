@@ -7,5 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging groupconverter_winget
-deprecate DoomsdayEngine_winget
+merging MindManager24_winget
+merging HardDiskSentinel_winget
+merging AdGuardVPN.Nightly_winget
+merging Evope_winget
+deprecate groupconverter_winget
