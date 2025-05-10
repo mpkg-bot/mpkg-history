@@ -7,8 +7,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MindManager24_winget
-merging HardDiskSentinel_winget
-merging AdGuardVPN.Nightly_winget
-merging Evope_winget
-deprecate groupconverter_winget
+merging skype_scoop
+deprecate Evope_winget
+merging HardDiskSentinelPro_winget
+merging V.ProwiseReflect_winget
+merging SMLNJ.Legacy_winget
+deprecate MindManager24_winget
+deprecate HardDiskSentinel_winget
+deprecate AdGuardVPN.Nightly_winget
+deprecate Evope_winget
