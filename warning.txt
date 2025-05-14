@@ -7,10 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate TubeDigger_winget
-merging VisualStudio.2022.OnecoreMsvsmon_winget
-merging Edge.Dev_winget
-merging ControlCenter_winget
-deprecate DiskImage.Server_winget
-deprecate Proxifier_winget
-deprecate TubeDigger_winget
+deprecate VisualStudio.2022.OnecoreMsvsmon_winget
+deprecate Edge.Dev_winget
+deprecate ControlCenter_winget
