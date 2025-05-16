@@ -7,9 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MersiveSolstice_winget
-merging VisualStudio.2022.Enterprise_winget
-merging Edge.Beta_winget
-merging DiscordChatExporter.CLI_winget
-merging Citavi_winget
-merging Rust.GNU_winget
+deprecate MersiveSolstice_winget
+deprecate VisualStudio.2022.Enterprise_winget
+deprecate Edge.Beta_winget
+deprecate DiscordChatExporter.CLI_winget
+deprecate Citavi_winget
+deprecate Rust.GNU_winget
