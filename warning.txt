@@ -1,4 +1,5 @@
-failed: quiterss.portable|xpdf-tools|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
+failed: quiterss.portable|xpdf-tools|nmap|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
+merging nmap
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,11 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging BulkImageDownloader_winget
-deprecate SmartDNS-rs.GNU_winget
-deprecate PlusGDPSLauncher_winget
-deprecate SpyServer_winget
-deprecate AirExplorer_winget
-deprecate AceStream_winget
-deprecate PDFelement.CN_winget
-deprecate Rust.MSVC_winget
+merging Unchecky_winget
+merging pCon-planner.STD_winget
+merging security_winget_2
+deprecate BulkImageDownloader_winget
