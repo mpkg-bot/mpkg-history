@@ -1,5 +1,4 @@
-failed: quiterss.portable|xpdf-tools|nmap|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
-merging nmap
+failed: quiterss.portable|xpdf-tools|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,7 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Unchecky_winget
-merging pCon-planner.STD_winget
-merging security_winget_2
-deprecate BulkImageDownloader_winget
+merging DevHome_winget
+merging SnapmakerLuban_winget
+merging Voyager_winget
+deprecate Unchecky_winget
+deprecate pCon-planner.STD_winget
+deprecate security_winget_2
