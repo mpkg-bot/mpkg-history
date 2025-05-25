@@ -7,10 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging meta.ovr-platform-utility_winget
-merging DriverBooster_winget
-merging PhraseExpress_winget
-merging SerialOverEthernet_winget
-deprecate CHIRP-next_winget
-deprecate iLovePDFDesktop_winget
-deprecate Grafana.OSS_winget
+deprecate meta.ovr-platform-utility_winget
+deprecate DriverBooster_winget
+deprecate PhraseExpress_winget
+deprecate SerialOverEthernet_winget
