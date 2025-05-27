@@ -1,5 +1,4 @@
-failed: quiterss.portable|xpdf-tools|virtualbox|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
-merging virtualbox
+failed: quiterss.portable|xpdf-tools|sqlitebrowser|nodejs-lts|boinc|iperf3|GeForceGameReadyDriver.dch.notebook|wireshark
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,4 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging gpodder_winget
+merging DiscordChatExporter.GUI_winget
+merging SeirenVoice.yukari_winget
+merging PhotoGlory_winget
+merging Komga_winget
+deprecate gpodder_winget
