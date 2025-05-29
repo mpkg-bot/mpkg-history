@@ -1,7 +1,7 @@
 {
     "id": "python3.13",
     "ver": "3.13.3",
-    "date": "2025-04-08",
+    "date": "2025-05-29",
     "arch": {
         "32bit": "https://www.python.org/ftp/python/3.13.3/python-3.13.3.exe",
         "64bit": "https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe"
