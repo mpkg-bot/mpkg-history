@@ -1,12 +1,12 @@
 {
     "id": "veracrypt",
-    "ver": "1.26.20",
-    "date": "2025-02-02",
+    "ver": "1.26.24",
+    "date": "2025-05-29",
     "sha256": [
-        "6fe3efe246290fa802829ec8cde499677fc7eb8507f7b38ee3097b4a2c181496"
+        "08b80ab6a6c4eca08e18096c9468fe0bd2e33fc23142730e59177e6fcd7c902d"
     ],
     "links": [
-        "https://launchpad.net/veracrypt/trunk/1.26.20/+download/VeraCrypt Setup 1.26.20.exe"
+        "https://launchpad.net/veracrypt/trunk/1.26.24/+download/VeraCrypt Setup 1.26.24.exe"
     ],
-    "changelog": "https://launchpad.net/veracrypt/trunk/1.26.20/+download/README.TXT"
+    "changelog": "https://launchpad.net/veracrypt/trunk/1.26.24/+download/README.TXT"
 }
