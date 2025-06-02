@@ -7,5 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate llamafile.LLaVA_winget
-deprecate connect_winget_2
+merging ClassWidgets_winget
+merging MemoryZone.Desktop_winget
