@@ -7,5 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging ClassWidgets_winget
-merging MemoryZone.Desktop_winget
+merging VisualStudio.2022.Enterprise_winget
+merging SSH.Client_winget
+deprecate ClassWidgets_winget
+deprecate MemoryZone.Desktop_winget
