@@ -1,7 +1,4 @@
-failed: quiterss.portable|wireshark|GeForceGameReadyDriver.dch.notebook|xpdf-tools|python-stable|nodejs-lts|boinc|sqlitebrowser|iperf3
-merging python3.13
-merging python-stable
- dependency: python3.13
+failed: quiterss.portable|wireshark|GeForceGameReadyDriver.dch.notebook|xpdf-tools|nodejs-lts|boinc|sqlitebrowser|iperf3
 merging xpdf-tools
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -10,12 +7,15 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Edge.Dev_winget
-merging Edge.Beta_winget
-merging CONNECTIONClient_winget
-deprecate Pexip_winget
-deprecate ProfitCommunicationCenter_winget
-deprecate Edge.Dev_winget
-deprecate Autoanalysis.Release-Candidate_winget
-deprecate WinLibs.MCF.UCRT_winget
-deprecate K-LiteCodecPack.Mega_winget
+merging dgVoodoo2_winget
+merging ebook_winget_0
+merging Acrobat.Reader.64-bit_winget
+merging SupportAndRecoveryAssistant_winget
+merging SmartDNS-rs.MSVC_winget
+merging TBTool_winget
+merging ZWCAD.2025_winget
+merging ZWCAD.Mechanical.2025_winget
+merging ImageJ_winget
+merging ebook_winget_1
+deprecate Edge.Beta_winget
+deprecate CONNECTIONClient_winget
