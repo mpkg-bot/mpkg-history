@@ -7,8 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging qBittorrent.Beta_winget
-merging LLVM-MinGW.MSVCRT_winget
-deprecate qBittorrent.Qt6_winget
-deprecate ShangHai.PuDong.ZhiHuiPuDong_winget
-deprecate UI_winget
+deprecate qBittorrent.Beta_winget
+deprecate LLVM-MinGW.MSVCRT_winget
