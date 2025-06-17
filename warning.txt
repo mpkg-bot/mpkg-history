@@ -7,5 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging RawTherapee.Dev_winget
-merging LLVM-MinGW.UCRT_winget
+deprecate RawTherapee.Dev_winget
+merging VCRedist.2015+.arm64_winget
+merging Zoom.VDI_winget
+merging K-LiteCodecPack.Full_winget
+merging ElyPrismLauncher_winget
+deprecate RawTherapee.Dev_winget
+deprecate LLVM-MinGW.UCRT_winget
