@@ -7,4 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate DBeaver.Enterprise_winget
+merging VisualStudio.2022.OnecoreMsvsmon_winget
