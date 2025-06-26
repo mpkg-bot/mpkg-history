@@ -7,7 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Sysinternals_winget
-merging 3Kontact_winget
-merging ProfitCommunicationCenter.1_winget
-deprecate VisualStudio.2022.OnecoreMsvsmon_winget
+merging VCRedist.2015+.x86_winget
+merging IgorPro6-64_winget
+merging Chrome.Dev.EXE_winget
+deprecate Sysinternals_winget
+deprecate 3Kontact_winget
+deprecate ProfitCommunicationCenter.1_winget
