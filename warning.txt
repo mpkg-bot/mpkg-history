@@ -1,5 +1,4 @@
-failed: quiterss.portable|sqlitebrowser|xpdf-tools|boinc|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|iperf3
-merging xpdf-tools
+failed: quiterss.portable|sqlitebrowser|boinc|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|iperf3
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
 merging boinc
@@ -7,9 +6,14 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VCRedist.2015+.x86_winget
-merging IgorPro6-64_winget
-merging Chrome.Dev.EXE_winget
-deprecate Sysinternals_winget
-deprecate 3Kontact_winget
-deprecate ProfitCommunicationCenter.1_winget
+deprecate Chrome.Dev.EXE_winget
+merging LibericaJRE.21_winget
+merging LibericaJRE.21.Full_winget
+merging IgorPro7_winget
+merging IgorPro8_winget
+merging IgorPro9_winget
+merging IgorPro6_winget
+merging Chrome.Beta.EXE_winget
+deprecate VCRedist.2015+.x86_winget
+deprecate IgorPro6-64_winget
+deprecate Chrome.Dev.EXE_winget
