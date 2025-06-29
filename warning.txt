@@ -1,4 +1,5 @@
-failed: quiterss.portable|sqlitebrowser|boinc|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|iperf3
+failed: quiterss.portable|wireguard|sqlitebrowser|boinc|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|iperf3
+merging wireguard
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
 merging boinc
@@ -6,13 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging minisat_winget
-merging portmaster_winget_0
-merging portmaster_winget_1
-deprecate LibericaJRE.21_winget
-deprecate LibericaJRE.21.Full_winget
-deprecate IgorPro7_winget
-deprecate IgorPro8_winget
-deprecate IgorPro9_winget
-deprecate IgorPro6_winget
-deprecate Chrome.Beta.EXE_winget
+deprecate minisat_winget
+deprecate portmaster_winget_0
+deprecate portmaster_winget_1
