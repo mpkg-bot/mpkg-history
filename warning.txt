@@ -7,6 +7,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate minisat_winget
-deprecate portmaster_winget_0
-deprecate portmaster_winget_1
+merging PostyBirb_winget
+merging vleer_winget
+merging CowabungaLite_winget
+merging pandadev.qopy_winget
+merging duan.tre-command_winget
+merging Electron.36_winget
+merging MobileVPN.12.10_winget
+merging Docman.GP_winget
