@@ -1,9 +1,9 @@
 {
     "id": "qbittorrent",
-    "ver": "5.1.1",
-    "date": "2025-06-22",
+    "ver": "5.1.2",
+    "date": "2025-07-02",
     "arch": {
-        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-5.1.1/qbittorrent_5.1.1_x64_setup.exe"
+        "64bit": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-5.1.2/qbittorrent_5.1.2_x64_setup.exe"
     },
     "changelog": "https://www.qbittorrent.org/news.php",
     "args": "/S"

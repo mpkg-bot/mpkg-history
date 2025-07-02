@@ -7,12 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Sysinternals.PsTools_winget
-deprecate PostyBirb_winget
-deprecate vleer_winget
-deprecate CowabungaLite_winget
-deprecate pandadev.qopy_winget
-deprecate duan.tre-command_winget
-deprecate Electron.36_winget
-deprecate MobileVPN.12.10_winget
-deprecate Docman.GP_winget
+merging GlobalVPN_winget
+deprecate Sysinternals.PsTools_winget
