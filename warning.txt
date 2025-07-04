@@ -7,9 +7,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging EAJavelinAnticheat_winget
-merging CLAN_winget
-merging OpenSSL.Dev_winget
-merging Bun.BaselineProfile_winget
-merging RegRun.Platinum_winget
-deprecate GlobalVPN_winget
+deprecate EAJavelinAnticheat_winget
+deprecate CLAN_winget
+merging Edge.Dev_winget
+deprecate EAJavelinAnticheat_winget
+deprecate CLAN_winget
+deprecate OpenSSL.Dev_winget
+deprecate Bun.BaselineProfile_winget
+deprecate RegRun.Platinum_winget
