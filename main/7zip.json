@@ -1,10 +1,10 @@
 {
     "id": "7zip",
-    "ver": "24.09",
-    "date": "2024-11-29",
+    "ver": "25.00",
+    "date": "2025-07-05",
     "arch": {
-        "32bit": "https://www.7-zip.org/a/7z2409.exe",
-        "64bit": "https://www.7-zip.org/a/7z2409-x64.exe"
+        "32bit": "https://www.7-zip.org/a/7z2500.exe",
+        "64bit": "https://www.7-zip.org/a/7z2500-x64.exe"
     },
     "changelog": "https://www.7-zip.org/history.txt",
     "args": "/S"
