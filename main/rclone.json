@@ -1,14 +1,14 @@
 {
     "id": "rclone",
-    "ver": "1.70.2",
-    "date": "2025-06-27",
+    "ver": "1.70.3",
+    "date": "2025-07-09",
     "arch": {
-        "32bit": "https://github.com/rclone/rclone/releases/download/v1.70.2/rclone-v1.70.2-windows-386.zip",
-        "64bit": "https://github.com/rclone/rclone/releases/download/v1.70.2/rclone-v1.70.2-windows-amd64.zip"
+        "32bit": "https://github.com/rclone/rclone/releases/download/v1.70.3/rclone-v1.70.3-windows-386.zip",
+        "64bit": "https://github.com/rclone/rclone/releases/download/v1.70.3/rclone-v1.70.3-windows-amd64.zip"
     },
     "sha256": {
-        "32bit": "c76538ceab339f6a92b20c1a5a42da952916ab511b9e2f1193d569f436a7c517",
-        "64bit": "33754d8b3ed6dbade30883d497cf6abd10243de339298513acd28ab7bafe6bbb"
+        "32bit": "49c5cebd4acb5840f1217377f5458cfeeb82c8f693b9ae39a0644ab9ddeeb2a2",
+        "64bit": "1c75923b4d3f0b3d1faf16447a442b5aaed0cfc32997b3381eb96fd087603a30"
     },
     "changelog": "https://github.com/rclone/rclone/releases/latest",
     "bin": [
