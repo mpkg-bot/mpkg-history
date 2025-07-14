@@ -7,7 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Ruby.3.2_winget
-deprecate OracleLinux.9.1_winget
-deprecate AIDA64.Extreme_winget
-deprecate OneAPI.HPCToolkit_winget
+merging Scratch1_winget
+deprecate Ruby.3.2_winget
