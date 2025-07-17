@@ -7,10 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SapMachine.24.JDK_winget
-merging SapMachine.24.JRE_winget
-deprecate VisualStudio.2022.RemoteTools_winget
-deprecate Maltego_winget
-deprecate SapMachine.24.JDK_winget
-deprecate ContabilidadAnual_winget
-deprecate AnnualAccounting_winget
+merging LibreOffice.HelpPack_winget
+merging HMCL.Stable_winget
+merging Acrobat.Reader.64-bit_winget
+merging lightworks_winget
+deprecate SapMachine.24.JRE_winget
