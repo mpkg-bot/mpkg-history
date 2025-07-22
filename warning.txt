@@ -7,8 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate WorkspaceONEIntelligentHub_winget
-deprecate WorkspaceONEIntelligentHub_winget
-deprecate HMCL.Dev_winget
-deprecate HMCL.Dev.Maven_winget
-deprecate Alice3_winget
+merging Firefox.DeveloperEdition_winget
+merging Firefox.DeveloperEdition.az_winget
+merging Thunderbird.lt_winget
+merging AndroidStudio.Beta_winget
+merging Npcap_winget
