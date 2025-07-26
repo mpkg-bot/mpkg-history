@@ -7,9 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Autoanalysis.Release-Candidate_winget
-deprecate NextcloudTalk(Machine-MSI)_winget
-deprecate Opera.Dev_winget
-deprecate Grafana.OSS_winget
-deprecate Thunderbird.ESR.fi_winget
-deprecate Autobench.Release-Candidate_winget
+merging outlookcaldavsynchronizer_winget
+deprecate Autoanalysis.Release-Candidate_winget
