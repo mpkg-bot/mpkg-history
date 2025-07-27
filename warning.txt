@@ -7,5 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging outlookcaldavsynchronizer_winget
-deprecate Autoanalysis.Release-Candidate_winget
+merging Pritunl_winget
+deprecate outlookcaldavsynchronizer_winget
