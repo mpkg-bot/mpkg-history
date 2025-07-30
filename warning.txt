@@ -7,7 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Opera.Beta_winget
-deprecate HMCL.Stable_winget
-deprecate HMCL.Stable.Maven_winget
-deprecate coolpack_winget
+deprecate Opera.Beta_winget
