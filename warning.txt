@@ -7,4 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Opera.Beta_winget
+merging Pathfinder.2024_winget
+merging Ventus.2024_winget
+merging PyroSim.2024_winget
+merging ACDSeePhotoStudio.Professional_winget
+merging Annotator_winget
