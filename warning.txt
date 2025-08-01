@@ -7,8 +7,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Pathfinder.2024_winget
-merging Ventus.2024_winget
-merging PyroSim.2024_winget
-merging ACDSeePhotoStudio.Professional_winget
-merging Annotator_winget
+merging WMIExporter_winget
+merging UGit_winget
+merging PDFelement.CN_winget
+merging HexEdit_winget
+deprecate Pathfinder.2024_winget
+deprecate Ventus.2024_winget
+deprecate PyroSim.2024_winget
+deprecate ACDSeePhotoStudio.Professional_winget
+deprecate Annotator_winget
