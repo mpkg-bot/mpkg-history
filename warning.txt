@@ -7,11 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Picoscope_winget
-merging Eclipse.JEE_winget
-merging MyWorkDriveClient_winget
-merging Ltd.UpNote_winget
-deprecate WMIExporter_winget
-deprecate UGit_winget
-deprecate PDFelement.CN_winget
-deprecate HexEdit_winget
+merging Perimeter81Ltd_winget
+merging Piv-Tool_winget
+deprecate Picoscope_winget
+deprecate Eclipse.JEE_winget
+deprecate MyWorkDriveClient_winget
+deprecate Ltd.UpNote_winget
