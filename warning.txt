@@ -1,4 +1,5 @@
-failed: boinc|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|sqlitebrowser|iperf3|quiterss.portable|wireguard
+failed: boinc|IntelWirelessDriver.admin|GeForceGameReadyDriver.dch.notebook|wireshark|nodejs-lts|sqlitebrowser|iperf3|quiterss.portable|wireguard
+merging IntelWirelessDriver.admin
 merging wireguard
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,9 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Perimeter81Ltd_winget
-merging Piv-Tool_winget
-deprecate Picoscope_winget
-deprecate Eclipse.JEE_winget
-deprecate MyWorkDriveClient_winget
-deprecate Ltd.UpNote_winget
+merging Eclipse.Scout_winget
+merging Firefox.DeveloperEdition.sv-SE_winget
+deprecate Perimeter81Ltd_winget
+deprecate Piv-Tool_winget
