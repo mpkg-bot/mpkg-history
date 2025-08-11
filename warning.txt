@@ -1,4 +1,5 @@
-failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|wireguard|nodejs-lts|iperf3|IntelWirelessDriver.admin|quiterss.portable
+failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|octave|wireguard|nodejs-lts|iperf3|IntelWirelessDriver.admin|quiterss.portable
+merging octave
 merging IntelWirelessDriver.admin
 merging wireguard
 merging GeForceGameReadyDriver.dch.notebook
@@ -8,5 +9,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AlkataCompiler_winget
-deprecate PCManager_winget
+deprecate AlkataCompiler_winget
