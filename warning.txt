@@ -9,4 +9,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate AlkataCompiler_winget
