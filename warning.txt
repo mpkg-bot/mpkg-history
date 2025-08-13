@@ -9,3 +9,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging EclipseIDEforJavaDevelopers_winget
+merging devproxy_winget_0
+merging devproxy.beta_winget_0
+merging devproxy_winget_1
+merging devproxy.beta_winget_1
+merging HelloMinecraftLauncher_winget
