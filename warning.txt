@@ -8,11 +8,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Grayjay.Desktop_winget
-merging KakaoTalk_winget
-deprecate EclipseIDEforJavaDevelopers_winget
-deprecate devproxy_winget_0
-deprecate devproxy.beta_winget_0
-deprecate devproxy_winget_1
-deprecate devproxy.beta_winget_1
-deprecate HelloMinecraftLauncher_winget
+deprecate KakaoTalk_winget
+merging Edge.Dev_winget
+deprecate Grayjay.Desktop_winget
+deprecate KakaoTalk_winget
