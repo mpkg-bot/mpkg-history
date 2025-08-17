@@ -8,4 +8,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Edge.Dev_winget
+merging StrawberryMusicPlayer.MinGW_winget
