@@ -8,4 +8,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging StrawberryMusicPlayer.MinGW_winget
+merging fmedia_scoop
+deprecate StrawberryMusicPlayer.MinGW_winget
