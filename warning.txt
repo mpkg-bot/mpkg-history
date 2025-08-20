@@ -8,4 +8,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate fmedia_scoop
+merging PDFelement.11_winget
+merging Edge.Beta_winget
+merging BCFManager.AutoCAD.2025_winget
