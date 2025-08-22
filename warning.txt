@@ -8,9 +8,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PaintAid_winget
-merging XZAid_winget
-merging ZebraDesigner.3_winget
-deprecate PDFelement.11_winget
-deprecate Edge.Beta_winget
-deprecate BCFManager.AutoCAD.2025_winget
+merging SimpleStickyNotes_winget
+merging Scapple_winget
+merging ZoomWorkplace_winget
+merging Station_winget
+deprecate PaintAid_winget
+deprecate XZAid_winget
+deprecate ZebraDesigner.3_winget
