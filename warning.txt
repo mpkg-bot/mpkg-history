@@ -8,11 +8,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SimpleStickyNotes_winget
-deprecate Station_winget
-deprecate Scapple_winget
-merging NDITools_winget
-deprecate SimpleStickyNotes_winget
-deprecate Scapple_winget
-deprecate ZoomWorkplace_winget
-deprecate Station_winget
+merging FFmpeg.Shared_winget
+merging HMCL.Dev_winget
+merging HMCL.Dev.Maven_winget
+merging FFmpeg.Essentials_winget
+deprecate NDITools_winget
