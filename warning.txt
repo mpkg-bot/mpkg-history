@@ -8,8 +8,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging FFmpeg.Shared_winget
-merging HMCL.Dev_winget
-merging HMCL.Dev.Maven_winget
-merging FFmpeg.Essentials_winget
-deprecate NDITools_winget
+deprecate FFmpeg.Shared_winget
+deprecate FFmpeg.Essentials_winget
+merging StarfaceUCC_winget
+merging ffmpeg.shared_winget_0
+merging ffmpeg.shared_winget_1
+deprecate FFmpeg.Shared_winget
+deprecate HMCL.Dev_winget
+deprecate HMCL.Dev.Maven_winget
+deprecate FFmpeg.Essentials_winget
