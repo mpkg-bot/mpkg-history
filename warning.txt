@@ -1,5 +1,4 @@
-failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|wireguard|nodejs-lts|iperf3|IntelWirelessDriver.admin|quiterss.portable
-merging IntelWirelessDriver.admin
+failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|wireguard|nodejs-lts|iperf3|quiterss.portable
 merging wireguard
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,12 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate FFmpeg.Shared_winget
-deprecate FFmpeg.Essentials_winget
-merging StarfaceUCC_winget
-merging ffmpeg.shared_winget_0
-merging ffmpeg.shared_winget_1
-deprecate FFmpeg.Shared_winget
-deprecate HMCL.Dev_winget
-deprecate HMCL.Dev.Maven_winget
-deprecate FFmpeg.Essentials_winget
+merging PyPy.3.9_winget
+merging HMCL.Stable_winget
+merging HMCL.Stable.Maven_winget
+merging TI-SmartView.TI-83_winget
+deprecate StarfaceUCC_winget
+deprecate ffmpeg.shared_winget_0
+deprecate ffmpeg.shared_winget_1
