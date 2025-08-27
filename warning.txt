@@ -7,10 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PyPy.3.9_winget
-merging HMCL.Stable_winget
-merging HMCL.Stable.Maven_winget
-merging TI-SmartView.TI-83_winget
-deprecate StarfaceUCC_winget
-deprecate ffmpeg.shared_winget_0
-deprecate ffmpeg.shared_winget_1
+merging Codex_winget
+deprecate PyPy.3.9_winget
+deprecate HMCL.Stable_winget
+deprecate HMCL.Stable.Maven_winget
+deprecate TI-SmartView.TI-83_winget
