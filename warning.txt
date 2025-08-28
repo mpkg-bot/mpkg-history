@@ -7,8 +7,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Codex_winget
-deprecate PyPy.3.9_winget
-deprecate HMCL.Stable_winget
-deprecate HMCL.Stable.Maven_winget
-deprecate TI-SmartView.TI-83_winget
+merging Beta_winget
+deprecate Codex_winget
