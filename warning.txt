@@ -7,7 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Superhuman_winget
-merging Sidekick_winget
-merging SmartVerify_winget
-deprecate Beta_winget
+merging EAJavelinAnticheat_winget
+merging DISMTools.Preview_winget
+merging Bun.Profile_winget
+deprecate Superhuman_winget
+deprecate Sidekick_winget
+deprecate SmartVerify_winget
