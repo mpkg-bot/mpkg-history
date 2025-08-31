@@ -1,4 +1,5 @@
-failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|wireguard|nodejs-lts|iperf3|quiterss.portable
+failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|wireguard|nodejs-lts|curl|iperf3|quiterss.portable
+merging curl
 merging wireguard
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,9 +8,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging EAJavelinAnticheat_winget
-merging DISMTools.Preview_winget
-merging Bun.Profile_winget
-deprecate Superhuman_winget
-deprecate Sidekick_winget
-deprecate SmartVerify_winget
+merging FFmpeg.GPL.Shared_winget
+merging MoonscraperChartEditor_winget
+merging WelloIO_winget
+merging Online_winget
+merging Semeru.23.JDK_winget
+merging ImageMagick.Q8_winget
+deprecate EAJavelinAnticheat_winget
+deprecate DISMTools.Preview_winget
+deprecate Bun.Profile_winget
