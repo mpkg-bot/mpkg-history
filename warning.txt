@@ -1,4 +1,5 @@
-failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|nodejs-lts|curl|iperf3|quiterss.portable
+failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|virtualbox|sqlitebrowser|nodejs-lts|curl|iperf3|quiterss.portable
+merging virtualbox
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,9 +8,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SQLServerManagementStudio.21.Preview_winget
-merging Bisbee_winget
-merging RegRun.Platinum_winget
-deprecate DBeaver.Community_winget
-deprecate RegRun.Reanimator_winget
-deprecate Chrome.Beta.EXE_winget
+merging iroh_scoop
+merging sget_scoop
+merging SimAirClient_winget
+merging SmartConnect_winget
+merging HMCL.Dev_winget
+merging HMCL.Dev.Maven_winget
+deprecate SQLServerManagementStudio.21.Preview_winget
+deprecate Bisbee_winget
+deprecate RegRun.Platinum_winget
