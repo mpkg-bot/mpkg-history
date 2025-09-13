@@ -7,11 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate iroh_scoop
-deprecate sget_scoop
-merging TFTPServer_winget
-merging NFSServer_winget
-deprecate SimAirClient_winget
-deprecate SmartConnect_winget
-deprecate HMCL.Dev_winget
-deprecate HMCL.Dev.Maven_winget
+merging CS2D_winget
+merging DISMTools.Stable_winget
+merging Hugo.Extended_winget
+merging Zoom.EXE_winget
+deprecate TFTPServer_winget
+deprecate NFSServer_winget
