@@ -7,5 +7,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MindMaster_winget
-merging Zoom.VDI_winget
+merging SapMachine.24.JDK_winget
+merging Corretto.24.JDK_winget
+merging Zulu.24.JDK_winget
+merging ZuluFX.24.JDK_winget
+merging Eclipse.PHP_winget
+merging Edge.Canary_winget
+merging AIDA64.Business_winget
+deprecate MindMaster_winget
+deprecate Zoom.VDI_winget
