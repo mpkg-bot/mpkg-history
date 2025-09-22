@@ -7,8 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LenovoLegionToolkit_winget
-merging vMix_winget
-merging Sharperlight_winget
-merging DBeaver.Lite_winget
-deprecate EnvyUpdate_winget
+merging Clipboard_winget
+merging LemonTree.Connect.Polarion_winget
+deprecate LenovoLegionToolkit_winget
+deprecate vMix_winget
+deprecate Sharperlight_winget
+deprecate DBeaver.Lite_winget
