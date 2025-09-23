@@ -1,4 +1,5 @@
-failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|nodejs-lts|curl|iperf3|quiterss.portable
+failed: boinc|wireshark|GeForceGameReadyDriver.dch.notebook|sqlitebrowser|nodejs-lts|curl|iperf3|IntelWirelessDriver.admin|quiterss.portable
+merging IntelWirelessDriver.admin
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,9 +8,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Clipboard_winget
-merging LemonTree.Connect.Polarion_winget
-deprecate LenovoLegionToolkit_winget
-deprecate vMix_winget
-deprecate Sharperlight_winget
-deprecate DBeaver.Lite_winget
+merging HostsMan_winget
+merging fldigi_winget
+merging HMCL.Dev_winget
+merging HMCL.Dev.Maven_winget
+merging TinyTask_winget
+merging k6_winget_0
+merging k6_winget_1
+deprecate Clipboard_winget
+deprecate LemonTree.Connect.Polarion_winget
