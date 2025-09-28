@@ -7,9 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Skype.Insiders_winget
-deprecate NxWitness.Bundle_winget
-deprecate companion_winget_2
-deprecate BurpSuite.Community_winget
-deprecate LLVM-MinGW.MSVCRT_winget
-deprecate Bun.Profile_winget
+merging NxWitness.Server_winget
+merging controlcenter_winget_0
+merging Skype_winget
+merging HMCL.Stable_winget
+merging HMCL.Stable.Maven_winget
+merging controlcenter_winget_1
+deprecate Skype.Insiders_winget
