@@ -7,11 +7,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging LLVM-MinGW.UCRT_winget
-merging Bun.Baseline_winget
-deprecate NxWitness.Server_winget
-deprecate controlcenter_winget_0
-deprecate Skype_winget
-deprecate HMCL.Stable_winget
-deprecate HMCL.Stable.Maven_winget
-deprecate controlcenter_winget_1
+merging FFmpeg.GPL_winget
+merging Thunderbird.ESR.nl_winget
+merging GamingIntelligence_winget
+merging Chrome.Dev_winget
+deprecate LLVM-MinGW.UCRT_winget
+deprecate Bun.Baseline_winget
