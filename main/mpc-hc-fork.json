@@ -1,10 +1,10 @@
 {
     "id": "mpc-hc-fork",
-    "ver": "2.5.3.10",
-    "date": "2025-09-16",
+    "ver": "2.5.4",
+    "date": "2025-10-01",
     "arch": {
-        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/2.5.3/MPC-HC.2.5.3.x64.exe",
-        "32bit": "https://github.com/clsid2/mpc-hc/releases/download/2.5.3/MPC-HC.2.5.3.x86.exe"
+        "64bit": "https://github.com/clsid2/mpc-hc/releases/download/2.5.4/MPC-HC.2.5.4.x64.exe",
+        "32bit": "https://github.com/clsid2/mpc-hc/releases/download/2.5.4/MPC-HC.2.5.4.x86.exe"
     },
     "changelog": "https://github.com/clsid2/mpc-hc/releases"
 }
