@@ -1,9 +1,9 @@
 {
     "id": "firefox",
-    "ver": "143.0.3",
+    "ver": "143.0.4",
     "arch": {
-        "64bit": "https://archive.mozilla.org/pub/firefox/releases/143.0.3/win64/en-US/Firefox%20Setup%20143.0.3.exe",
-        "32bit": "https://archive.mozilla.org/pub/firefox/releases/143.0.3/win32/en-US/Firefox%20Setup%20143.0.3.exe"
+        "64bit": "https://archive.mozilla.org/pub/firefox/releases/143.0.4/win64/en-US/Firefox%20Setup%20143.0.4.exe",
+        "32bit": "https://archive.mozilla.org/pub/firefox/releases/143.0.4/win32/en-US/Firefox%20Setup%20143.0.4.exe"
     },
     "description": "Popular open source web browser.",
     "homepage": "https://www.firefox.com/"
