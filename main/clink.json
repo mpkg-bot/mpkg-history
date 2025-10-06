@@ -1,9 +1,9 @@
 {
     "id": "clink",
-    "ver": "1.8.4",
-    "date": "2025-09-29",
+    "ver": "1.8.5",
+    "date": "2025-10-05",
     "links": [
-        "https://github.com/chrisant996/clink/releases/download/v1.8.4/clink.1.8.4.72da93.zip"
+        "https://github.com/chrisant996/clink/releases/download/v1.8.5/clink.1.8.5.89b0f1.zip"
     ],
     "changelog": "https://github.com/chrisant996/clink/releases/latest",
     "bin": [

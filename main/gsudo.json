@@ -1,9 +1,9 @@
 {
     "id": "gsudo",
-    "ver": "2.6.0",
-    "date": "2025-02-27",
+    "ver": "2.6.1",
+    "date": "2025-10-06",
     "links": [
-        "https://github.com/gerardog/gsudo/releases/download/v2.6.0/gsudo.portable.zip"
+        "https://github.com/gerardog/gsudo/releases/download/v2.6.1/gsudo.portable.zip"
     ],
     "changelog": "https://github.com/gerardog/gsudo/releases/latest",
     "bin": {
