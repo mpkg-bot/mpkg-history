@@ -7,9 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Python.3.13_winget
-deprecate BatchImageResizer_winget
-deprecate DuplicateFileFinder_winget
-deprecate tend_winget
-deprecate Semeru.24.JDK_winget
-deprecate comet_winget
+merging WinLibs.POSIX.UCRT_winget
+merging WebpConverter_winget
+deprecate Python.3.13_winget
