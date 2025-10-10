@@ -7,6 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging WinLibs.POSIX.UCRT_winget
-merging WebpConverter_winget
-deprecate Python.3.13_winget
+merging MindManager_winget
+merging launcher_winget_9
+deprecate WinLibs.POSIX.UCRT_winget
+deprecate WebpConverter_winget
