@@ -7,8 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Omniverse_winget
-merging Monosnap_winget
-deprecate PHP-NTS.8.4_winget
-deprecate Docman.RMS_winget
-deprecate Spectrum.Server_winget
+merging Aya_winget
+merging SerialPortMonitor_winget
+merging PlusGDPSLauncherV2_winget
+merging tend_winget_0
+merging tend_winget_1
+deprecate Omniverse_winget
+deprecate Monosnap_winget
