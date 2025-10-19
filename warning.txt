@@ -7,9 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Metashape.Standard_winget
-merging ripgrep.MSVC_winget
-merging SCIAEngineer.25_winget
-deprecate DisplayCAL_winget
-deprecate Metashape.Standard_winget
-deprecate BarTender_winget
+merging SophiaScript_winget
+merging IgorPro.9_winget
+merging EverythingToolbar.Deskband_winget
+deprecate ripgrep.MSVC_winget
+deprecate SCIAEngineer.25_winget
