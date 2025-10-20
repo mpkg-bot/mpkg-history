@@ -7,8 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SophiaScript_winget
-merging IgorPro.9_winget
-merging EverythingToolbar.Deskband_winget
-deprecate ripgrep.MSVC_winget
-deprecate SCIAEngineer.25_winget
+deprecate SophiaScript_winget
+deprecate IgorPro.9_winget
+deprecate EverythingToolbar.Deskband_winget
