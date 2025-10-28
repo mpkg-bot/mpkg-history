@@ -7,5 +7,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging TeamSpeakClient.Beta.6_winget
-deprecate VisualStudio.Enterprise.Insiders_winget
+merging Authentic.Integration.2025_winget
+merging SchemaAgentServer.2025_winget
+merging DatabaseSpy.2026.Enterprise_winget
+merging MissionKit.2025.Professional_winget
+merging SchemaAgent.2025_winget
+merging DiffDog.2025.Professional_winget
+merging OfficeRecovery_winget
+merging PartitionRecovery_winget
+deprecate TeamSpeakClient.Beta.6_winget
