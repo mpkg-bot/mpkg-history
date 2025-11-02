@@ -7,21 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-no history file: extras.json
-deprecate WinLibs.POSIX.MSVCRT_winget
-deprecate FFmpeg.GPL.Shared_winget
-deprecate Fladder.Nightly_winget
-merging Engine_winget
-merging WinLibs.POSIX.UCRT_winget
-merging FFmpeg.LGPL.Shared_winget
-merging K-LiteCodecPack.Full_winget
-deprecate Chrome.Dev.EXE_winget
-deprecate CloudDriveMapper_winget
-deprecate NoMachine.WorkgroupCloudServer_winget
-deprecate WinLibs.POSIX.MSVCRT_winget
-deprecate FFmpeg.GPL_winget
-deprecate FFmpeg.GPL.Shared_winget
-deprecate Threema.OnPrem.2_winget
-deprecate DISMTools.Preview_winget
-deprecate Fladder.Nightly_winget
-deprecate Uneraser_winget
+deprecate Engine_winget
+deprecate WinLibs.POSIX.UCRT_winget
+deprecate FFmpeg.LGPL.Shared_winget
+deprecate K-LiteCodecPack.Full_winget
