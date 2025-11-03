@@ -1,4 +1,5 @@
-failed: iperf3|quiterss.portable|sqlitebrowser|curl|nodejs-lts|boinc|GeForceGameReadyDriver.dch.notebook|wireshark
+failed: iperf3|quiterss.portable|sqlitebrowser|curl|octave|nodejs-lts|boinc|GeForceGameReadyDriver.dch.notebook|wireshark
+merging octave
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,7 +8,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Engine_winget
-deprecate WinLibs.POSIX.UCRT_winget
-deprecate FFmpeg.LGPL.Shared_winget
-deprecate K-LiteCodecPack.Full_winget
+merging K-LiteCodecPack.Mega_winget
