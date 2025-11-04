@@ -1,5 +1,4 @@
-failed: iperf3|quiterss.portable|sqlitebrowser|curl|octave|nodejs-lts|boinc|GeForceGameReadyDriver.dch.notebook|wireshark
-merging octave
+failed: iperf3|quiterss.portable|sqlitebrowser|curl|nodejs-lts|boinc|GeForceGameReadyDriver.dch.notebook|wireshark
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,4 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging K-LiteCodecPack.Mega_winget
+merging Chrome.Beta.EXE_winget
+merging VisualStudio.Community.Insiders_winget
+deprecate K-LiteCodecPack.Mega_winget
