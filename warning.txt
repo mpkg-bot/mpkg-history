@@ -7,6 +7,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chrome.Beta.EXE_winget
-merging VisualStudio.Community.Insiders_winget
-deprecate K-LiteCodecPack.Mega_winget
+deprecate VisualStudio.Community.Insiders_winget
+merging QShell_winget
+merging KTrip_winget
+merging Merkuro_winget
+merging KirigamiGallery_winget
+merging FFmpeg.LGPL_winget
+merging VisualStudio.Professional.Insiders_winget
+deprecate Chrome.Beta.EXE_winget
+deprecate VisualStudio.Community.Insiders_winget
