@@ -1,8 +1,4 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|ultradefrag|boinc|GeForceGameReadyDriver.dch.notebook|qbittorrent|iperf3|nodejs-lts|mpv.portable|imdisk|curl
-merging ultradefrag
-merging qbittorrent
-merging mpv.portable
-merging imdisk
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -11,4 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate DISMTools.Stable_winget
+merging Rave_winget
