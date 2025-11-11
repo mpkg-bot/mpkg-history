@@ -7,4 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Rave_winget
+merging XAIREdit_winget
+merging qshell_winget_0
+merging AirwindowsConsolidated.DAWPlugin_winget
+merging GoToMachine_winget
+merging Popcorn-Time-X64_winget
+merging qshell_winget_1
+deprecate Rave_winget
