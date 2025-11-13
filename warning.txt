@@ -7,10 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VisualStudio.Locator_winget
-deprecate XAIREdit_winget
-deprecate qshell_winget_0
-deprecate AirwindowsConsolidated.DAWPlugin_winget
-deprecate GoToMachine_winget
-deprecate Popcorn-Time-X64_winget
-deprecate qshell_winget_1
+merging VisualStudio.Enterprise_winget
+merging Thunderbird.ESR.th_winget
+merging BurpSuite.Professional_winget
+deprecate VisualStudio.Locator_winget
