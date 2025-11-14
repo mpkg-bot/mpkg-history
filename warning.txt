@@ -7,7 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging VisualStudio.Enterprise_winget
-merging Thunderbird.ESR.th_winget
-merging BurpSuite.Professional_winget
-deprecate VisualStudio.Locator_winget
+deprecate VisualStudio.Enterprise_winget
+deprecate Thunderbird.ESR.th_winget
+deprecate BurpSuite.Professional_winget
