@@ -1,9 +1,9 @@
 {
     "id": "xpdf-tools",
-    "ver": "4.05",
-    "date": "2024-02-08",
+    "ver": "4.06",
+    "date": "2025-11-14",
     "links": [
-        "https://dl.xpdfreader.com/xpdf-tools-win-4.05.zip"
+        "https://dl.xpdfreader.com/xpdf-tools-win-4.06.zip"
     ],
     "bin": {
         "32bit": [
