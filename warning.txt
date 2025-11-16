@@ -8,5 +8,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Thunderbird.ESR.es-MX_winget
-merging PostgreSQL.17_winget
+merging Thunderbird.ESR.et_winget
+merging Unigram_winget
+merging AirPort.BaseStationUpdate_winget
+merging S4A_winget
+deprecate Thunderbird.ESR.es-MX_winget
+deprecate PostgreSQL.17_winget
