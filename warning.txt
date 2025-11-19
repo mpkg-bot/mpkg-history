@@ -1,4 +1,5 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
+failed: sqlitebrowser|sumatrapdf|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
+merging sumatrapdf
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -7,10 +8,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Authentic.2026.Enterprise_winget
-merging PlayGames.Beta_winget
-merging BurpSuite.Community_winget
-deprecate Thunderbird.ESR.et_winget
-deprecate Unigram_winget
-deprecate AirPort.BaseStationUpdate_winget
-deprecate S4A_winget
+merging SQLServerManagementStudio.21_winget
+merging PDFelement.CN_winget
+merging CAT_winget
+merging vcredist_winget
+deprecate Authentic.2026.Enterprise_winget
+deprecate PlayGames.Beta_winget
+deprecate BurpSuite.Community_winget
