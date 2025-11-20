@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "8.0",
-    "date": "2025-08-22",
+    "ver": "8.0.1",
+    "date": "2025-11-20",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/8.0/ffmpeg-8.0-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/8.0.1/ffmpeg-8.0.1-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "3413a6326c7aff1660af6e3ef2fadd6e5fed29ea267ccf67698bc5c055c0a0c3"
+        "64bit": "8030dc469fbde247b84cfc21a5c421f3965ffe779bc35de08d78966e0c4a272c"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
