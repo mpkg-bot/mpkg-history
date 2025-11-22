@@ -1,5 +1,4 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl|octave
-merging octave
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
 merging curl
 merging GeForceGameReadyDriver.dch.notebook
 merging sqlitebrowser
@@ -8,7 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate cider_scoop
-deprecate authy_scoop
-merging Acrobat.Reader.64-bit_winget
-merging Docman.RMS_winget
+merging PDFShaper.Premium_winget
+deprecate Acrobat.Reader.64-bit_winget
+deprecate Docman.RMS_winget
