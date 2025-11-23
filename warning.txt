@@ -7,6 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFShaper.Premium_winget
-deprecate Acrobat.Reader.64-bit_winget
-deprecate Docman.RMS_winget
+deprecate PDFShaper.Premium_winget
