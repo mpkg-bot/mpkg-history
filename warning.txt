@@ -7,4 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate PDFShaper.Premium_winget
+merging RootsMagic11_winget
+merging Raycast_winget
+merging IntelliJIDEA.Ultimate_winget
+merging PHP.8.4_winget
+merging StreamlabsOBS_winget
