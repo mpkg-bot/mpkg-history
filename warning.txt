@@ -1,4 +1,5 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|iperf3|nodejs-lts|curl
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
+merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
 merging boinc
@@ -6,13 +7,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate IntelliJIDEA.Ultimate_winget
-merging RootsMagic.10_winget
-merging VCRedist.2015+.x64_winget
-merging DeviceManager_winget
-merging IntelliJIDEA.Community_winget
-deprecate RootsMagic11_winget
-deprecate Raycast_winget
-deprecate IntelliJIDEA.Ultimate_winget
-deprecate PHP.8.4_winget
-deprecate StreamlabsOBS_winget
+deprecate VCRedist.2015+.x64_winget
+merging VCRedist.2015+.x86_winget
+merging PVSOL.Premium.2025_winget
+deprecate RootsMagic.10_winget
+deprecate VCRedist.2015+.x64_winget
+deprecate DeviceManager_winget
+deprecate IntelliJIDEA.Community_winget
