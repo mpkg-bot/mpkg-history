@@ -7,10 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate VCRedist.2015+.x64_winget
-merging VCRedist.2015+.x86_winget
-merging PVSOL.Premium.2025_winget
-deprecate RootsMagic.10_winget
-deprecate VCRedist.2015+.x64_winget
-deprecate DeviceManager_winget
-deprecate IntelliJIDEA.Community_winget
+merging Cryptainer.Pro.18_winget
+deprecate VCRedist.2015+.x86_winget
+deprecate PVSOL.Premium.2025_winget
