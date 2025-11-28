@@ -7,6 +7,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Cryptainer.Pro.18_winget
-deprecate VCRedist.2015+.x86_winget
-deprecate PVSOL.Premium.2025_winget
+deprecate Cryptainer.Pro.18_winget
