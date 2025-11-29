@@ -1,4 +1,5 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl|octave
+merging octave
 merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
@@ -7,4 +8,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Cryptainer.Pro.18_winget
+merging InternetDownloadManager_winget
