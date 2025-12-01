@@ -1,5 +1,4 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|veracrypt|iperf3|nodejs-lts|curl
-merging veracrypt
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
 merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
@@ -8,5 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging ImageMagick.Q8_winget
-deprecate InternetDownloadManager_winget
+deprecate ImageMagick.Q8_winget
+merging ImageMagick.Q16_winget
+deprecate ImageMagick.Q8_winget
