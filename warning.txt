@@ -7,6 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SwyxIt_winget
-merging HMCL.Dev_winget
-deprecate ImageMagick.Q16_winget
+deprecate HMCL.Dev_winget
+merging HMCL.Stable_winget
+deprecate SwyxIt_winget
+deprecate HMCL.Dev_winget
