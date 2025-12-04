@@ -7,7 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate HMCL.Dev_winget
-merging HMCL.Stable_winget
-deprecate SwyxIt_winget
-deprecate HMCL.Dev_winget
+merging Electron.38_winget
+merging CopilotCLI_winget
+merging UbuntuProforWSL_winget
+deprecate HMCL.Stable_winget
