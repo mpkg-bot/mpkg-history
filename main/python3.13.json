@@ -1,14 +1,14 @@
 {
     "id": "python3.13",
-    "ver": "3.13.10",
-    "date": "2025-12-02",
+    "ver": "3.13.11",
+    "date": "2025-12-05",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.13.10/python-3.13.10.exe",
-        "64bit": "https://www.python.org/ftp/python/3.13.10/python-3.13.10-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.13.11/python-3.13.11.exe",
+        "64bit": "https://www.python.org/ftp/python/3.13.11/python-3.13.11-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:fdebce36bfdd4f341d6b2bde84d66478",
-        "64bit": "md5:28481b8956f67a6a3daac96cd139a67a"
+        "32bit": "md5:41c1b631ed8db2d12f1c484e4a040984",
+        "64bit": "md5:379a32861f9f0a327f9fa9c163455574"
     },
-    "changelog": "https://docs.python.org/release/3.13.10/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.13.11/whatsnew/changelog.html#changelog"
 }
