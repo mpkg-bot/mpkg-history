@@ -7,9 +7,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate NxMeta.Server_winget
-deprecate NxWitness.Server_winget
-deprecate PDFelement.12_winget
-deprecate emotachDirect_winget
-deprecate Catalyst_winget
-deprecate DocuToolbox.AllFeatures_winget
+merging SpleeterGui_winget
+merging DBeaver.Community_winget
+merging ThreeShipsHelper_winget
