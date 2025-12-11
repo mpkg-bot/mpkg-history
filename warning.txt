@@ -7,10 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Firefox.DeveloperEdition_winget
-merging DotNet.SDK.Preview_winget
-merging Firefox.es-ES_winget
-merging Thunderbird.th_winget
-merging Thunderbird.ESR.th_winget
-deprecate Firefox.DeveloperEdition_winget
-deprecate LibreOffice.SDK_winget
+merging HubImporter_winget
+deprecate DotNet.SDK.Preview_winget
+deprecate Firefox.es-ES_winget
+deprecate Thunderbird.th_winget
+deprecate Thunderbird.ESR.th_winget
