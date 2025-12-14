@@ -1,5 +1,4 @@
-failed: sqlitebrowser|nmap|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
-merging nmap
+failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
 merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
@@ -8,8 +7,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Thunderbird.ESR.et_winget
-merging Suite_winget
-merging GeoTSOL.2025_winget
-deprecate Thunderbird.et_winget
-deprecate Thunderbird.ESR.sl_winget
+merging influx_scoop
+merging Rust.MSVC_winget
+deprecate Thunderbird.ESR.et_winget
+deprecate Suite_winget
+deprecate GeoTSOL.2025_winget
