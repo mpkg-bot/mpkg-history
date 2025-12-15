@@ -7,8 +7,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging influx_scoop
-merging Rust.MSVC_winget
-deprecate Thunderbird.ESR.et_winget
-deprecate Suite_winget
-deprecate GeoTSOL.2025_winget
+deprecate influx_scoop
+merging SSH.Server_winget
+merging FaFaRunner_winget
+deprecate Rust.MSVC_winget
