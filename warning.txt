@@ -1,4 +1,9 @@
-failed: sqlitebrowser|quiterss.portable|wireshark|boinc|GeForceGameReadyDriver.dch.notebook|iperf3|nodejs-lts|curl
+failed: sqlitebrowser|nmap|quiterss.portable|wireshark|ultradefrag|boinc|GeForceGameReadyDriver.dch.notebook|qbittorrent|iperf3|nodejs-lts|mpv.portable|imdisk|curl
+merging nmap
+merging ultradefrag
+merging qbittorrent
+merging mpv.portable
+merging imdisk
 merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
@@ -7,7 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate influx_scoop
-merging SSH.Server_winget
-merging FaFaRunner_winget
-deprecate Rust.MSVC_winget
+deprecate SSH.Server_winget
+merging SSH.Client_winget
+merging PicGuard_winget
+merging PicGuard.Pro_winget
+merging Office.2024_winget
+deprecate SSH.Server_winget
+deprecate FaFaRunner_winget
