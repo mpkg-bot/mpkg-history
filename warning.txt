@@ -11,8 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging HMCL.Dev.Maven_winget
-merging PyPy.2.7_winget
-deprecate PDFelement.CN_winget
-deprecate NoMachine.EnterpriseClient_winget
-deprecate SystemUpdate_winget
+deprecate HMCL.Dev.Maven_winget
+deprecate PyPy.2.7_winget

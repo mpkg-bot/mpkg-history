@@ -1,9 +1,9 @@
 {
     "id": "mpkg.download",
-    "ver": "0.0.12",
-    "date": "2023-02-09",
+    "ver": "0.0.13",
+    "date": "2025-12-20",
     "arch": {
-        "32bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.12/mpkg-win32.zip",
-        "64bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.12/mpkg-win64.zip"
+        "32bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.13/mpkg-win32.zip",
+        "64bit": "https://github.com/mpkg-project/mpkg/releases/download/v0.0.13/mpkg-win64.zip"
     }
 }
