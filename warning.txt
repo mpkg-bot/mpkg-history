@@ -11,5 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate HMCL.Dev.Maven_winget
-deprecate PyPy.2.7_winget
+merging Office.NX_winget
+merging JDownloader_winget
