@@ -1,0 +1,15 @@
+failed: curl|quiterss.portable|imdisk|nodejs-lts|wireshark|qbittorrent|GeForceGameReadyDriver.dch.notebook|ultradefrag|mpv.portable|boinc|iperf3|sqlitebrowser
+merging ultradefrag
+merging qbittorrent
+merging mpv.portable
+merging imdisk
+merging GeForceGameReadyDriver.dch.notebook
+merging curl
+merging sqlitebrowser
+merging boinc
+merging iperf3
+merging quiterss.portable
+merging nodejs-lts
+merging wireshark
+merging b1_scoop
+merging Thunderbird.sl_winget
