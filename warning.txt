@@ -11,5 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging b1_scoop
-merging Thunderbird.sl_winget
+deprecate b1_scoop
+deprecate Thunderbird.sl_winget
