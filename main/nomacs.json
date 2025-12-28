@@ -1,9 +1,9 @@
 {
     "id": "nomacs",
-    "ver": "3.16",
-    "date": "2020-07-17",
+    "ver": "3.22.0",
+    "date": "2025-12-28",
     "arch": {
-        "64bit": "https://github.com/nomacs/nomacs/releases/download/3.16.224/nomacs-setup-x64.msi"
+        "64bit": "https://github.com/nomacs/nomacs/releases/download/3.22.0/nomacs-setup-x64.msi"
     },
     "changelog": "https://github.com/nomacs/nomacs/releases/latest",
     "args": "/quiet /norestart"

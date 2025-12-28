@@ -11,7 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate fldigi_winget
-merging WinLibs.POSIX.UCRT_winget
-merging DISMTools.Preview_winget
-deprecate fldigi_winget
+deprecate WinLibs.POSIX.UCRT_winget
+deprecate DISMTools.Preview_winget
