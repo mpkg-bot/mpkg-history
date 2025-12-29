@@ -11,5 +11,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate WinLibs.POSIX.UCRT_winget
-deprecate DISMTools.Preview_winget
+merging Opera.Dev_winget
