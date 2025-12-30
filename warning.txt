@@ -11,4 +11,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Opera.Dev_winget
+merging AzureVPNClient_winget
+merging DotNet.UninstallTool_winget
+merging Autologon_winget
+merging PDFelement.CN_winget
+merging EyeRest_winget
+merging IntelliJIDEA.Ultimate_winget
+merging Eclipse.JEE_winget
+merging Rust.GNU_winget
+deprecate Opera.Dev_winget
