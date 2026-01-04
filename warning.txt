@@ -11,11 +11,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging jaspersoft-studio_scoop
-deprecate processhacker_scoop
-deprecate triliumnext_scoop
-deprecate mihomo-party_scoop
-merging DISMTools.Stable_winget
-merging Acrobat.Reader.32-bit_winget
-merging DBeaver.Ultimate_winget
-deprecate NoMachine.CloudServer_winget
+deprecate jaspersoft-studio_scoop
+deprecate DISMTools.Stable_winget
+deprecate Acrobat.Reader.32-bit_winget
+deprecate DBeaver.Ultimate_winget
