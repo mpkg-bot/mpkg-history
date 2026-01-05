@@ -1,4 +1,5 @@
-failed: curl|quiterss.portable|imdisk|nodejs-lts|wireshark|qbittorrent|GeForceGameReadyDriver.dch.notebook|ultradefrag|mpv.portable|boinc|iperf3|sqlitebrowser
+failed: curl|quiterss.portable|imdisk|nodejs-lts|wireshark|qbittorrent|GeForceGameReadyDriver.dch.notebook|ultradefrag|mpv.portable|xpdf-tools|boinc|iperf3|sqlitebrowser
+merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
 merging mpv.portable
@@ -11,7 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate jaspersoft-studio_scoop
-deprecate DISMTools.Stable_winget
-deprecate Acrobat.Reader.32-bit_winget
-deprecate DBeaver.Ultimate_winget
+merging jj_winget_0
+merging jj_winget_1
+merging WinLibs.POSIX.MSVCRT_winget
