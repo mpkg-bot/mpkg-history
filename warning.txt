@@ -12,6 +12,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging jj_winget_0
-merging jj_winget_1
-merging WinLibs.POSIX.MSVCRT_winget
+merging SQLServer.2022.Express_winget
+merging Picoscope.T&M_winget
+deprecate jj_winget_0
+deprecate jj_winget_1
+deprecate WinLibs.POSIX.MSVCRT_winget
