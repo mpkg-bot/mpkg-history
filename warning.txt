@@ -12,8 +12,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SQLServer.2022.Express_winget
-merging Picoscope.T&M_winget
-deprecate jj_winget_0
-deprecate jj_winget_1
-deprecate WinLibs.POSIX.MSVCRT_winget
+merging Boxcryptor_winget
+merging Catalyst3_winget
+merging Eclipse.JEE.TencentCloudMirror_winget
+merging IvonaVoicePack.Dutch_winget
+merging Unity.CN.6000_winget
+merging PCL2_winget
+merging PCL2.Beta_winget
+deprecate SQLServer.2022.Express_winget
+deprecate Picoscope.T&M_winget
