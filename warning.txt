@@ -12,6 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging WingetPathUpdater_winget
-merging CPU-Z.CM_winget
-deprecate IvonaVoicePack.English.American_winget
+deprecate WingetPathUpdater_winget
+deprecate CPU-Z.CM_winget
