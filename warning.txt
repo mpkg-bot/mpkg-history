@@ -1,4 +1,5 @@
-failed: mpv.portable|iperf3|qbittorrent|imdisk|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|wireshark|sqlitebrowser
+failed: mpv.portable|iperf3|qbittorrent|imdisk|kodi|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|wireshark|sqlitebrowser
+merging kodi
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,5 +13,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate WingetPathUpdater_winget
-deprecate CPU-Z.CM_winget
+merging Opera.Beta_winget
+merging Daytona_winget
+merging ZORG-IDDesktopApp_winget
+merging Cortexso_winget
+merging FortiClientVPN_winget
