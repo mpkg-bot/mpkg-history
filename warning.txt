@@ -1,5 +1,4 @@
-failed: mpv.portable|iperf3|qbittorrent|imdisk|veracrypt|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|wireshark|sqlitebrowser
-merging veracrypt
+failed: mpv.portable|iperf3|qbittorrent|imdisk|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|wireshark|sqlitebrowser
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -13,12 +12,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Time-Sync.Client_winget
-merging Firefox.DeveloperEdition_winget
-merging DirectX.ShaderCompiler_winget
-merging Time-Sync.Server_winget
-merging Chrome.Dev.EXE_winget
-deprecate CompanyPortal_winget
-deprecate Time-Sync.Client_winget
-deprecate JAWS.2025_winget
-deprecate Fusion.2025_winget
+merging Loom_winget
+merging FFmpegforAudacity_winget
+deprecate Firefox.DeveloperEdition_winget
+deprecate DirectX.ShaderCompiler_winget
+deprecate Time-Sync.Server_winget
+deprecate Chrome.Dev.EXE_winget
