@@ -7,8 +7,8 @@
         "64bit": "https://www.python.org/ftp/python/3.13.11/python-3.13.11-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:41c1b631ed8db2d12f1c484e4a040984",
-        "64bit": "md5:379a32861f9f0a327f9fa9c163455574"
+        "32bit": "md5:26.2\u00a0MB",
+        "64bit": "md5:27.4\u00a0MB"
     },
     "changelog": "https://docs.python.org/release/3.13.11/whatsnew/changelog.html#changelog"
 }

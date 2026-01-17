@@ -12,9 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Loom_winget
-merging FFmpegforAudacity_winget
-deprecate Firefox.DeveloperEdition_winget
-deprecate DirectX.ShaderCompiler_winget
-deprecate Time-Sync.Server_winget
-deprecate Chrome.Dev.EXE_winget
+merging Chrome.Beta.EXE_winget
+merging Eclipse.Scout_winget
+deprecate Loom_winget
+deprecate FFmpegforAudacity_winget
