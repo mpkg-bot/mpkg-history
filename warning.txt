@@ -12,7 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chrome.Beta.EXE_winget
-merging Eclipse.Scout_winget
-deprecate Loom_winget
-deprecate FFmpegforAudacity_winget
+merging opencode_scoop
+merging Firefox.ca-valencia_winget
+deprecate Chrome.Beta.EXE_winget
+deprecate Eclipse.Scout_winget
