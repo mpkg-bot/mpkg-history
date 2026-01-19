@@ -12,7 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging opencode_scoop
-merging Firefox.ca-valencia_winget
-deprecate Chrome.Beta.EXE_winget
-deprecate Eclipse.Scout_winget
+deprecate opencode_scoop
+deprecate Firefox.ca-valencia_winget
