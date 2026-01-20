@@ -12,5 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate opencode_scoop
-deprecate Firefox.ca-valencia_winget
+merging Electron.39_winget
