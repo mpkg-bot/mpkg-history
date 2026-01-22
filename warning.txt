@@ -12,6 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging newrelic-cli_winget
-merging Zulu.25.JRE_winget
-deprecate Electron.39_winget
+deprecate newrelic-cli_winget
+deprecate Zulu.25.JRE_winget
