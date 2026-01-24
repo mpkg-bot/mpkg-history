@@ -12,4 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Zulu.25.JDK_winget
+merging FreeTube_winget
+deprecate Zulu.25.JDK_winget
