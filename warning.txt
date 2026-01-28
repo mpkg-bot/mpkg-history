@@ -12,4 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SeewoPincoGroup_winget
+merging Thunderbird.ga-IE_winget
+merging Pathfinder.2025_winget
+merging Kinesis.x86_winget
+deprecate SeewoPincoGroup_winget
