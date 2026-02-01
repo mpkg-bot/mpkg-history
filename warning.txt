@@ -12,10 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging OpenSSL.Light_winget
-merging RocketDock_winget
-deprecate MaestroAarsoppgjoer.2024_winget
-deprecate EverythingToolbar.Launcher_winget
-deprecate Bun.BaselineProfile_winget
-deprecate LibericaJDK.25.Full_winget
-deprecate CCometixLine_winget
+merging AirGame_winget
+deprecate OpenSSL.Light_winget
+deprecate RocketDock_winget
