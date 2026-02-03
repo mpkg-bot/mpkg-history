@@ -1,4 +1,8 @@
-failed: mpv.portable|iperf3|qbittorrent|imdisk|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|wireshark|sqlitebrowser
+failed: mpv.portable|iperf3|qbittorrent|imdisk|quiterss.portable|ultradefrag|nodejs-lts|GeForceGameReadyDriver.dch.notebook|curl|boinc|xpdf-tools|python-stable|wireshark|sqlitebrowser
+merging python3.14
+merging python3.13
+merging python-stable
+ dependency: python3.14|python3.13
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,6 +16,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AirGame_winget
-deprecate OpenSSL.Light_winget
-deprecate RocketDock_winget
+merging moar_scoop
+merging btp_winget
+deprecate AirGame_winget

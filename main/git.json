@@ -1,9 +1,9 @@
 {
     "id": "git",
-    "ver": "2.52.0",
-    "date": "2025-11-17",
+    "ver": "2.53.0",
+    "date": "2026-02-02",
     "arch": {
-        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe"
+        "64bit": "https://github.com/git-for-windows/git/releases/download/v2.53.0.windows.1/Git-2.53.0-64-bit.exe"
     },
     "changelog": "https://github.com/git-for-windows/git/releases/latest",
     "args": "/sp- /verysilent /norestart"
