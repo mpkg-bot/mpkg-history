@@ -12,10 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Canary_winget
-merging Firefox.he_winget
-merging Chrome.Dev_winget
-deprecate RustDesk_winget
-deprecate Acrobat.Reader.32-bit_winget
-deprecate Chrome.Canary_winget
-deprecate Snagit.2025_winget
+merging Mihomo.GOAMD64v1_winget
+deprecate Firefox.he_winget
+deprecate Chrome.Dev_winget
