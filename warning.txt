@@ -1,10 +1,9 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|GeForceGameReadyDriver.dch.notebook|wireshark|mpv.portable|curl
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
 merging mpv.portable
 merging imdisk
-merging GeForceGameReadyDriver.dch.notebook
 merging curl
 merging sqlitebrowser
 merging boinc
@@ -12,6 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Mihomo.GOAMD64v1_winget
-deprecate Firefox.he_winget
-deprecate Chrome.Dev_winget
+merging Docman.RMS_winget
+deprecate Mihomo.GOAMD64v1_winget
