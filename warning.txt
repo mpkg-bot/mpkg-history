@@ -1,4 +1,5 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|nmap|quiterss.portable|boinc|wireshark|mpv.portable|curl
+merging nmap
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,5 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Docman.RMS_winget
-deprecate Mihomo.GOAMD64v1_winget
+merging Mihomo.GOAMD64v2_winget
+merging VisualStudio.Professional_winget
+merging SecurityComplianceToolkit.LGPO_winget
+merging GDAL.Oracle_winget
+merging Surge_winget
+merging Harmony_winget
+deprecate Docman.RMS_winget
