@@ -1,10 +1,11 @@
 {
     "id": "shimexe_kiennq",
-    "ver": "3.2.0",
-    "date": "2026-01-27",
+    "ver": "3.2.1",
+    "date": "2026-02-12",
     "links": [
-        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.2.0/shimexe-arm64.zip",
-        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.2.0/shimexe-x86.zip"
+        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.2.1/shimexe-aarch64.zip",
+        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.2.1/shimexe-x86.zip",
+        "https://github.com/kiennq/scoop-better-shimexe/releases/download/v3.2.1/shimexe-x86_64.zip"
     ],
     "changelog": "https://github.com/kiennq/scoop-better-shimexe/releases/latest",
     "bin": [
