@@ -11,10 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging RevoltDesktop_winget
-merging GettextIconv_winget
-merging GDAL.FileGDB_winget
-merging FFmpeg.GPL.Shared_winget
-deprecate Rust.GNU_winget
-deprecate Authentic.2026.Enterprise_winget
-deprecate PVSOL.2025_winget
+merging Rust.MSVC_winget
+merging Chrome.Dev.EXE_winget
+deprecate RevoltDesktop_winget
+deprecate GettextIconv_winget
+deprecate GDAL.FileGDB_winget
+deprecate FFmpeg.GPL.Shared_winget
