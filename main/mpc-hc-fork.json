@@ -1,6 +1,6 @@
 {
     "id": "mpc-hc-fork",
-    "ver": "2.6.2",
+    "ver": "2.6.2.1",
     "date": "2026-02-16",
     "arch": {
         "64bit": "https://github.com/clsid2/mpc-hc/releases/download/2.6.2/MPC-HC.2.6.2.x64.exe",

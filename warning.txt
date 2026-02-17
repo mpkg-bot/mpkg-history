@@ -1,5 +1,4 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|IntelWirelessDriver.admin|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
-merging IntelWirelessDriver.admin
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,7 +11,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Thunderbird.he_winget
-merging Thunderbird.ESR.he_winget
-deprecate Rust.MSVC_winget
-deprecate Chrome.Dev.EXE_winget
+deprecate Thunderbird.he_winget
+merging WinZip.SelfExtractor_winget
+merging Thunderbird.ca_winget
+merging Thunderbird.ESR.cy_winget
+merging lenovolegiontoolkit_winget_2
+merging MacroRecorder_winget
+merging koncierge_winget
+deprecate Thunderbird.he_winget
+deprecate Thunderbird.ESR.he_winget
