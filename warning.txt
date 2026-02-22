@@ -11,8 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chrome.Beta.EXE_winget
-merging Clarinet_winget
-deprecate CopyTransHEIC_winget
-deprecate amienrollmentuser_winget
-deprecate BurpSuite.Professional_winget
+deprecate Chrome.Beta.EXE_winget
+deprecate Clarinet_winget
