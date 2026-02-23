@@ -1,4 +1,5 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|octave|wireshark|mpv.portable|curl
+merging octave
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,5 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Beta.EXE_winget
-deprecate Clarinet_winget
+merging Bun.Profile_winget
