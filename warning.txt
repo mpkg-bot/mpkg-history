@@ -1,5 +1,4 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|octave|wireshark|mpv.portable|curl
-merging octave
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,4 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Bun.Profile_winget
+merging grid_winget
+merging tc_winget
+merging Firefox.DeveloperEdition_winget
+merging Thunderbird.he_winget
+merging VisualStudio.Professional_winget
+deprecate Bun.Profile_winget
