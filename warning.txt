@@ -11,11 +11,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Thunderbird.he_winget
-merging Bun.BaselineProfile_winget
-merging Thunderbird.br_winget
-deprecate grid_winget
-deprecate tc_winget
-deprecate Firefox.DeveloperEdition_winget
-deprecate Thunderbird.he_winget
-deprecate VisualStudio.Professional_winget
+merging Firefox.he_winget
+merging VisualStudio.BuildTools_winget
+deprecate Bun.BaselineProfile_winget
+deprecate Thunderbird.br_winget
