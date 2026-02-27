@@ -1,4 +1,5 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|veracrypt|curl
+merging veracrypt
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,7 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firefox.he_winget
-merging VisualStudio.BuildTools_winget
-deprecate Bun.BaselineProfile_winget
-deprecate Thunderbird.br_winget
+merging STARFACEUCC_winget
+deprecate Firefox.he_winget
+deprecate VisualStudio.BuildTools_winget
