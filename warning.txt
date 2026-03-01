@@ -11,5 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging BurpSuite.Community_winget
-deprecate STARFACEUCC_winget
+merging opencode_scoop_0
+merging pureref_scoop
+merging qtranslate_scoop
+merging opencode_scoop_1
+merging Azahar.MSYS2_winget
+deprecate BurpSuite.Community_winget
