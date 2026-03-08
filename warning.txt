@@ -1,5 +1,4 @@
-failed: qbittorrent|xpdf-tools|fd|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
-merging fd
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,7 +11,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging rustdesk_winget_0
-merging rustdesk_winget_1
-deprecate PyCalc-GUI_winget
-deprecate BurpSuite.Community_winget
+merging OpenRA.Release_winget
+deprecate rustdesk_winget_0
+deprecate rustdesk_winget_1
