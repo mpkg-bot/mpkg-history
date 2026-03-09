@@ -11,6 +11,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging OpenRA.Release_winget
-deprecate rustdesk_winget_0
-deprecate rustdesk_winget_1
+merging DISMTools.Preview_winget
+deprecate OpenRA.Release_winget
