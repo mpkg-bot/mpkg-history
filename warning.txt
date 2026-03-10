@@ -1,4 +1,5 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|veracrypt|curl
+merging veracrypt
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,5 +12,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DISMTools.Preview_winget
-deprecate OpenRA.Release_winget
+merging crystaldiskinfo_winget_0
+merging testdisk_winget_0
+merging ShowKeyPlus_winget
+merging QemuBootTester_winget
+merging qemu_winget_0
+merging crystaldiskinfo_winget_1
+merging testdisk_winget_1
+merging qemu_winget_1
+deprecate DISMTools.Preview_winget
