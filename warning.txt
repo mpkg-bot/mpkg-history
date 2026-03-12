@@ -11,12 +11,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging GG_winget
-deprecate crystaldiskinfo_winget_0
-deprecate testdisk_winget_0
-deprecate ShowKeyPlus_winget
-deprecate QemuBootTester_winget
-deprecate qemu_winget_0
-deprecate crystaldiskinfo_winget_1
-deprecate testdisk_winget_1
-deprecate qemu_winget_1
+merging Ruby.3.4_winget
+merging RubyWithDevKit.3.4_winget
+deprecate GG_winget
