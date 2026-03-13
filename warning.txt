@@ -11,6 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Ruby.3.4_winget
-merging RubyWithDevKit.3.4_winget
-deprecate GG_winget
+merging tanoshi_scoop
+merging 7zip.Alpha.msi_winget
+merging Lite_winget
+merging DBeaver.Community_winget
+deprecate Ruby.3.4_winget
+deprecate RubyWithDevKit.3.4_winget
