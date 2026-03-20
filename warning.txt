@@ -1,5 +1,4 @@
-failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|IntelWirelessDriver.admin|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
-merging IntelWirelessDriver.admin
+failed: qbittorrent|xpdf-tools|iperf3|imdisk|nodejs-lts|sqlitebrowser|ultradefrag|quiterss.portable|boinc|wireshark|mpv.portable|curl
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,12 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate EasyClaw_winget
-merging freetube_winget_0
-merging DBeaver.Team_winget
-merging freetube_winget_1
-deprecate JProfiler.15_winget
-deprecate JProfiler.15.Agent_winget
-deprecate VisualStudio.BuildTools_winget
-deprecate EasyClaw_winget
-deprecate Tandem_winget
+merging Eden.MinGW_winget
+merging NxMeta.Bundle_winget
+merging NxWitness.Bundle_winget
+deprecate freetube_winget_0
+deprecate DBeaver.Team_winget
+deprecate freetube_winget_1
