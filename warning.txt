@@ -11,6 +11,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Eden.MinGW_winget
-deprecate NxMeta.Bundle_winget
-deprecate NxWitness.Bundle_winget
