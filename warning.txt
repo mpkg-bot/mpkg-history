@@ -11,3 +11,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Grafana.Enterprise_winget
+merging NxMeta.Server_winget
+merging DBeaver.Ultimate_winget
