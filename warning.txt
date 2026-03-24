@@ -11,6 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Grafana.Enterprise_winget
-merging NxMeta.Server_winget
-merging DBeaver.Ultimate_winget
+merging IPM_winget
+merging Eden.MSVC_winget
+merging Firefox.DeveloperEdition_winget
+deprecate Grafana.Enterprise_winget
+deprecate NxMeta.Server_winget
+deprecate DBeaver.Ultimate_winget
