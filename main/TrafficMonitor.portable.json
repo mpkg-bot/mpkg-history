@@ -1,10 +1,10 @@
 {
     "id": "TrafficMonitor.portable",
-    "ver": "1.85.1",
-    "date": "2025-02-10",
+    "ver": "1.86",
+    "date": "2026-03-29",
     "arch": {
-        "64bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.85.1/TrafficMonitor_V1.85.1_x64.zip",
-        "32bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.85.1/TrafficMonitor_V1.85.1_x86.zip"
+        "64bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.86/TrafficMonitor_V1.86_x64.zip",
+        "32bit": "https://github.com/zhongyang219/TrafficMonitor/releases/download/V1.86/TrafficMonitor_V1.86_x86.zip"
     },
     "changelog": "https://github.com/zhongyang219/TrafficMonitor/releases/latest",
     "bin": [
