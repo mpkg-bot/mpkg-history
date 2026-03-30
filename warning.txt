@@ -11,6 +11,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate APM_winget
-deprecate Rust.GNU_winget
-deprecate libjpeg-turbo.GCC_winget
+merging TrafficMonitor.Full_winget
+merging Insomnia_winget
+merging WinLibs.POSIX.MSVCRT_winget
+merging EasyClaw_winget
