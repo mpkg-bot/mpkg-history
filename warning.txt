@@ -11,7 +11,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging TrafficMonitor.Full_winget
-merging Insomnia_winget
-merging WinLibs.POSIX.MSVCRT_winget
-merging EasyClaw_winget
+merging MathBotCLI_winget
+merging SimpleBrowser_winget
+merging PacmanRecreation_winget
+deprecate TrafficMonitor.Full_winget
+deprecate Insomnia_winget
+deprecate WinLibs.POSIX.MSVCRT_winget
+deprecate EasyClaw_winget
