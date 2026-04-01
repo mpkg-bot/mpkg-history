@@ -1,4 +1,5 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|boinc|imdisk|quiterss.portable
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|veracrypt|wireshark|ultradefrag|iperf3|qbittorrent|curl|boinc|imdisk|quiterss.portable
+merging veracrypt
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,10 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MathBotCLI_winget
-merging SimpleBrowser_winget
-merging PacmanRecreation_winget
-deprecate TrafficMonitor.Full_winget
-deprecate Insomnia_winget
-deprecate WinLibs.POSIX.MSVCRT_winget
-deprecate EasyClaw_winget
+merging WinLibs.POSIX.UCRT_winget
+deprecate MathBotCLI_winget
+deprecate SimpleBrowser_winget
+deprecate PacmanRecreation_winget
