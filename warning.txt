@@ -11,9 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging yoink_winget
-merging miniSIPServer.5C_winget
-merging Firefox.et_winget
-merging Thunderbird.pa-IN_winget
-merging OllamaDesktop_winget
-deprecate WinLibs.POSIX.UCRT_winget
+merging TrafficMonitor.Lite_winget
+deprecate yoink_winget
+deprecate miniSIPServer.5C_winget
+deprecate Firefox.et_winget
+deprecate Thunderbird.pa-IN_winget
+deprecate OllamaDesktop_winget
