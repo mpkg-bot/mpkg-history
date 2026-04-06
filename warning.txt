@@ -11,5 +11,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SecretsEngine_winget
-deprecate WinNUT_winget
+merging Semeru.25.JDK_winget
+merging TimeIt_winget
+merging ZuluFX.25.JDK_winget
+merging SapMachine.25.JDK_winget
+merging JDK.25_winget
+merging RevoScan_winget
+merging RevoScan.MetroX_winget
+merging gop_winget
