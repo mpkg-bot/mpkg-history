@@ -11,7 +11,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firefox.bn_winget
-deprecate Firefox.ta_winget
-deprecate Corretto.25.JDK_winget
-deprecate Zulu.25.JDK_winget
+merging Firefox.et_winget
+merging Files_winget
+merging Winmon_winget
+merging Inkwell_winget
+merging Chrome.Dev.EXE_winget
+deprecate Firefox.bn_winget
