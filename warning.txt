@@ -11,9 +11,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firefox.et_winget
-merging Files_winget
-merging Winmon_winget
-merging Inkwell_winget
-merging Chrome.Dev.EXE_winget
-deprecate Firefox.bn_winget
+merging czkawka.cli_winget
+merging Acrobat.Reader.64-bit_winget
+deprecate Firefox.et_winget
+deprecate Files_winget
+deprecate Winmon_winget
+deprecate Inkwell_winget
+deprecate Chrome.Dev.EXE_winget
