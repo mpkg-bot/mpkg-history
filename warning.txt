@@ -1,5 +1,4 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|boinc|imdisk|quiterss.portable|restic
-merging restic
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|boinc|imdisk|quiterss.portable
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -12,8 +11,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Miru_winget
-deprecate bb_winget
-deprecate Acrobat.Reader.32-bit_winget
-deprecate PyCalc_winget
-deprecate Chrome.Beta.EXE_winget
+merging I2PChat_winget
+merging Pencil_winget
+merging Groovy.4_winget
+merging Mogan_winget
+merging Lamina.unp_winget
