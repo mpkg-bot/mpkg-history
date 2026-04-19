@@ -11,7 +11,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging cv4pve.cli_winget
-deprecate Optimizer_winget
-deprecate WinSCP.RC_winget
-deprecate ChefDK_winget
+deprecate cv4pve.cli_winget
