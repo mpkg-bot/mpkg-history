@@ -1,4 +1,6 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|boinc|imdisk|quiterss.portable
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable|wireguard
+merging GeForceGameReadyDriver.dch.notebook
+merging wireguard
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -11,4 +13,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate cv4pve.cli_winget
