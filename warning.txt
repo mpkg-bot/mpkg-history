@@ -1,6 +1,5 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable|wireguard
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
 merging GeForceGameReadyDriver.dch.notebook
-merging wireguard
 merging xpdf-tools
 merging ultradefrag
 merging qbittorrent
@@ -13,3 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Firefox.ta_winget
+merging ESRPWingetTest_winget
+merging VisualStudio.BuildTools_winget
+merging DBT_winget
+merging shimo_winget
+merging OraDBDumpViewer_winget
+merging less_winget
