@@ -12,15 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DotNet.CodeContracts_winget
-deprecate OmniGet_winget
-deprecate MacrobondViewer_winget
-deprecate Macrobond_winget
-deprecate dingtalk_winget_0
-deprecate OraDBDumpViewer.BETA_winget
-deprecate LibericaJDK.25_winget
-deprecate LibericaJDK.25.Full_winget
-deprecate CHIRP-legacy_winget
-deprecate dingtalk_winget_1
-deprecate AresCommander.2026_winget
-deprecate AresElectrical.2026_winget
+deprecate DotNet.CodeContracts_winget
