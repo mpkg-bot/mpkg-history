@@ -1,10 +1,10 @@
 {
     "id": "7zip",
-    "ver": "26.00",
-    "date": "2026-02-12",
+    "ver": "26.01",
+    "date": "2026-04-27",
     "arch": {
-        "32bit": "https://www.7-zip.org/a/7z2600.exe",
-        "64bit": "https://www.7-zip.org/a/7z2600-x64.exe"
+        "32bit": "https://www.7-zip.org/a/7z2601.exe",
+        "64bit": "https://www.7-zip.org/a/7z2601-x64.exe"
     },
     "changelog": "https://www.7-zip.org/history.txt",
     "args": "/S"

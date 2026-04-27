@@ -1,4 +1,5 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable|googlechrome
+merging googlechrome
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,4 +13,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate DotNet.CodeContracts_winget
+merging Ignition_winget
