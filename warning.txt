@@ -1,5 +1,4 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable|googlechrome
-merging googlechrome
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -13,4 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Ignition_winget
+merging Firefox.et_winget
+deprecate Ignition_winget
