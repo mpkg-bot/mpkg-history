@@ -12,5 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firefox.et_winget
-deprecate Ignition_winget
+merging IIS.ServiceMonitor_winget
+merging CHIRP-next_winget
+deprecate Firefox.et_winget
