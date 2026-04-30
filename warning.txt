@@ -12,6 +12,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging IIS.ServiceMonitor_winget
-merging CHIRP-next_winget
-deprecate Firefox.et_winget
+merging LibreOffice.HelpPack_winget
+merging TMXValidator_winget
+merging rainbow_winget_0
+merging rainbow_winget_1
+deprecate IIS.ServiceMonitor_winget
+deprecate CHIRP-next_winget
