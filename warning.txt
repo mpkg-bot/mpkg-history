@@ -1,4 +1,8 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|python-stable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
+merging python3.14
+merging python3.13
+merging python-stable
+ dependency: python3.14|python3.13
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,15 +16,13 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AmendmentAppWordService_winget
-merging DSClock_winget
-merging AyuGram_winget
-merging Theseus2000_winget
-merging SystemExplorer_winget
-merging linepodlauncher_winget
-merging WinLibs.POSIX.MSVCRT_winget
-deprecate Firefox.ta_winget
-deprecate MapMap_winget
-deprecate dmgextractor_winget_0
-deprecate dmgextractor_winget_1
-deprecate KEAASZ_winget
+merging SSH.Client_winget
+merging PhotoVariants_winget
+merging PellesC_winget
+deprecate AmendmentAppWordService_winget
+deprecate DSClock_winget
+deprecate AyuGram_winget
+deprecate Theseus2000_winget
+deprecate SystemExplorer_winget
+deprecate linepodlauncher_winget
+deprecate WinLibs.POSIX.MSVCRT_winget
