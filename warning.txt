@@ -12,9 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate kcptun_scoop
-deprecate fat32format_scoop
-deprecate Thunderbird.pa-IN_winget
-deprecate K-LiteCodecPack.Mega_winget
-deprecate NoMachine.EnterpriseClient_winget
-deprecate Chrome.Beta.EXE_winget
+merging PasswordDepotEnterpriseServer.18_winget
+merging SublimeText.4.Portable_winget
+merging NetpasMaritimeMailAnalyzer_winget
+merging OperaCrypto_winget
+merging windatefromuno_winget
+merging numfortuneuno_winget
+merging ilfortunedinumeroneuno_winget
