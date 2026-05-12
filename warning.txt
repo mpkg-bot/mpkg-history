@@ -1,4 +1,18 @@
-failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable
+failed: sqlitebrowser|xpdf-tools|nodejs-lts|mpv.portable|wireshark|ultradefrag|iperf3|qbittorrent|curl|GeForceGameReadyDriver.dch.notebook|boinc|imdisk|quiterss.portable|vcredist-all-x86|vcredist-all-x64
+merging vcredist2005-x86
+merging vcredist2008-x86
+merging vcredist2010-x86
+merging vcredist2012-x86
+merging vcredist2013-x86
+merging vcredist-all-x86
+ dependency: vcredist2005-x86|vcredist2008-x86|vcredist2010-x86|vcredist2012-x86|vcredist2013-x86
+merging vcredist2005-x64
+merging vcredist2008-x64
+merging vcredist2010-x64
+merging vcredist2012-x64
+merging vcredist2013-x64
+merging vcredist-all-x64
+ dependency: vcredist2005-x64|vcredist2008-x64|vcredist2010-x64|vcredist2012-x64|vcredist2013-x64
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,10 +26,13 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PasswordDepotEnterpriseServer.18_winget
-merging SublimeText.4.Portable_winget
-merging NetpasMaritimeMailAnalyzer_winget
-merging OperaCrypto_winget
-merging windatefromuno_winget
-merging numfortuneuno_winget
-merging ilfortunedinumeroneuno_winget
+merging ImageMagick.Q16_winget
+merging Nova_winget
+merging Wiser_winget
+deprecate PasswordDepotEnterpriseServer.18_winget
+deprecate SublimeText.4.Portable_winget
+deprecate NetpasMaritimeMailAnalyzer_winget
+deprecate OperaCrypto_winget
+deprecate windatefromuno_winget
+deprecate numfortuneuno_winget
+deprecate ilfortunedinumeroneuno_winget
