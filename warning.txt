@@ -12,9 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate echoargs_scoop
-deprecate engauge-digitizer_scoop
-deprecate miru_scoop
-deprecate gammy_scoop
-deprecate winfbe_scoop
-deprecate glimpse_scoop
+merging Firefox.DeveloperEdition_winget
+merging AndroidStudio.Canary_winget
+merging Grain_winget
