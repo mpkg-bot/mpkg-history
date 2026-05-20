@@ -12,6 +12,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Firefox.DeveloperEdition_winget
-merging AndroidStudio.Canary_winget
-merging Grain_winget
+deprecate AndroidStudio.Canary_winget
+merging Everything.Alpha_winget
+merging BabySmash_winget
+merging VisualStudio.OnecoreMsvsmon_winget
+merging RevitLookup.2026_winget
+merging AndroidStudio.Beta_winget
+deprecate Firefox.DeveloperEdition_winget
+deprecate AndroidStudio.Canary_winget
+deprecate Grain_winget
