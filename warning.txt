@@ -1,5 +1,4 @@
-failed: iperf3|ultradefrag|curl|boinc|wireshark|mpv.portable|imdisk|nodejs-lts|xpdf-tools|qbittorrent|GeForceGameReadyDriver.dch.notebook|quiterss.portable|sqlitebrowser|IntelWirelessDriver.admin
-merging IntelWirelessDriver.admin
+failed: iperf3|ultradefrag|curl|boinc|wireshark|mpv.portable|imdisk|nodejs-lts|xpdf-tools|qbittorrent|GeForceGameReadyDriver.dch.notebook|quiterss.portable|sqlitebrowser
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -13,9 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Thunderbird.ga-IE_winget
-merging StyleVision.2026.Professional_winget
-merging MapForce.2026.Basic_winget
-merging Thunderbird.ar_winget
-deprecate TeamViewer.Host_winget
-deprecate Thunderbird.ga-IE_winget
+merging Hugo.Extended_winget
+merging JASP_winget
+merging PDFelement.CN_winget
+merging VisualStudioCode.Insiders_winget
+deprecate StyleVision.2026.Professional_winget
+deprecate MapForce.2026.Basic_winget
+deprecate Thunderbird.ar_winget
