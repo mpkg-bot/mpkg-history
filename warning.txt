@@ -12,8 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Sync_winget
-deprecate Hugo.Deploy_winget
-deprecate NoMachine.EnterpriseCloudServer_winget
-deprecate UModel.2026.Basic_winget
-deprecate StyleVision.2026.Basic_winget
+deprecate Sync_winget
