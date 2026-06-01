@@ -12,4 +12,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Sync_winget
+merging mambaforge_scoop
+merging dlss-swapper_scoop
+merging youtube-music_scoop
+merging idea-ultimate_scoop
+merging pycharm-professional_scoop
+merging openai-translator_scoop
+merging delta_winget
+merging SoundCheck_winget
