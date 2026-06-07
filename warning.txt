@@ -12,6 +12,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate AMPInstanceManager_winget
-deprecate Zoom.EXE_winget
-deprecate Chrome.Beta.EXE_winget
