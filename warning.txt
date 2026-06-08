@@ -12,3 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging NoMachine.EnterpriseDesktop_winget
+merging CPU-Z.MSI_winget
+merging DBeaver.Community_winget
+merging ai.ggcode-desktop_winget
