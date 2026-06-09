@@ -12,7 +12,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging NoMachine.EnterpriseDesktop_winget
-merging CPU-Z.MSI_winget
-merging DBeaver.Community_winget
-merging ai.ggcode-desktop_winget
+merging SJMCL_winget
+merging DBeaver.Lite_winget
+merging VisualStudio.Professional_winget
+merging Firefox.ga-IE_winget
+deprecate NoMachine.EnterpriseDesktop_winget
+deprecate CPU-Z.MSI_winget
+deprecate DBeaver.Community_winget
+deprecate ai.ggcode-desktop_winget
