@@ -1,14 +1,14 @@
 {
     "id": "python3.14",
-    "ver": "3.14.5",
-    "date": "2026-05-10",
+    "ver": "3.14.6",
+    "date": "2026-06-10",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.14.5/python-3.14.5.exe",
-        "64bit": "https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.14.6/python-3.14.6.exe",
+        "64bit": "https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:27.6\u00a0MB",
-        "64bit": "md5:29.0\u00a0MB"
+        "32bit": "md5:27.9\u00a0MB",
+        "64bit": "md5:29.3\u00a0MB"
     },
-    "changelog": "https://docs.python.org/release/3.14.5/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.14.6/whatsnew/changelog.html#changelog"
 }
