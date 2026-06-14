@@ -12,12 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Compass.Isolated_winget
-merging Sonik_winget
-merging Devin_winget
-merging Compass.Readonly_winget
-merging Reasonix_winget
-deprecate Hugo.Deploy_winget
-deprecate WorkspaceONE.Assist_winget
-deprecate Compass.Isolated_winget
-deprecate ElyPrismLauncher.MSVC_winget
+deprecate Sonik_winget
+deprecate Devin_winget
+deprecate Compass.Readonly_winget
+deprecate Reasonix_winget
