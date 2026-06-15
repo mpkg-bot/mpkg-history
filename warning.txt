@@ -12,7 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Sonik_winget
-deprecate Devin_winget
-deprecate Compass.Readonly_winget
-deprecate Reasonix_winget
+merging InterceptSuite.Standard_winget
+merging ElyPrismLauncher_winget
