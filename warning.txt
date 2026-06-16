@@ -12,5 +12,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging InterceptSuite.Standard_winget
-merging ElyPrismLauncher_winget
+merging NextTrace.Core_winget
+merging TRBOnet.Plus_winget
+merging NoMachine.EnterpriseCloudServer_winget
+merging Firefox.ga-IE_winget
+merging Thunderbird.ga-IE_winget
+merging TinyClips_winget
+deprecate InterceptSuite.Standard_winget
+deprecate ElyPrismLauncher_winget
