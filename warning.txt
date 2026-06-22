@@ -12,6 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DBeaver.Ultimate_winget
-deprecate Chrome.Dev_winget
-deprecate Firefox.gn_winget
+deprecate DBeaver.Ultimate_winget
