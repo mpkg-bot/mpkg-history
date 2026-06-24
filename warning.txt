@@ -12,6 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Zoom.VDI_winget
-merging TeamViewer.QuickSupport_winget
-merging HMCL.Dev_winget
+deprecate Zoom.VDI_winget
+deprecate TeamViewer.QuickSupport_winget
+deprecate HMCL.Dev_winget
