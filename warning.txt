@@ -1,4 +1,5 @@
-failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|iperf3|mpv.portable|quiterss.portable
+failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|veracrypt|iperf3|mpv.portable|quiterss.portable
+merging veracrypt
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,6 +13,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Zoom.VDI_winget
-deprecate TeamViewer.QuickSupport_winget
-deprecate HMCL.Dev_winget
+merging TotalCADConverter_winget
+merging Brave.Nightly_winget
+merging Proximity_winget
