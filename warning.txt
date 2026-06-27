@@ -13,10 +13,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Brave.Nightly_winget
-merging Fusion_winget
-merging Brave.Beta_winget
-merging OpenHashTab_winget
-deprecate TotalCADConverter_winget
-deprecate Brave.Nightly_winget
-deprecate Proximity_winget
+merging TiwutLauncher_winget
+merging DISMTools.Preview_winget
+merging HMCL.Dev.CNB_winget
+deprecate Fusion_winget
+deprecate Brave.Beta_winget
+deprecate OpenHashTab_winget
