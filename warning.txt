@@ -13,9 +13,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging TiwutLauncher_winget
-merging DISMTools.Preview_winget
-merging HMCL.Dev.CNB_winget
-deprecate Fusion_winget
-deprecate Brave.Beta_winget
-deprecate OpenHashTab_winget
+deprecate TiwutLauncher_winget
+deprecate DISMTools.Preview_winget
+deprecate HMCL.Dev.CNB_winget
