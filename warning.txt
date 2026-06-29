@@ -1,4 +1,5 @@
-failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|veracrypt|iperf3|mpv.portable|quiterss.portable
+failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|IntelWirelessDriver.admin|wireshark|veracrypt|iperf3|mpv.portable|quiterss.portable
+merging IntelWirelessDriver.admin
 merging veracrypt
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -13,6 +14,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate TiwutLauncher_winget
-deprecate DISMTools.Preview_winget
-deprecate HMCL.Dev.CNB_winget
+merging scrcpygui_winget
+merging NetBeans_winget
+merging mods_winget
+merging wtop_winget
+merging WindowsAppRuntime.2.0_winget
