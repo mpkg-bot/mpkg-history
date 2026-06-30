@@ -1,6 +1,4 @@
-failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|IntelWirelessDriver.admin|wireshark|veracrypt|iperf3|mpv.portable|quiterss.portable
-merging IntelWirelessDriver.admin
-merging veracrypt
+failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|iperf3|mpv.portable|quiterss.portable
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -14,8 +12,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging scrcpygui_winget
-merging NetBeans_winget
-merging mods_winget
-merging wtop_winget
-merging WindowsAppRuntime.2.0_winget
+deprecate scrcpygui_winget
+deprecate NetBeans_winget
+deprecate mods_winget
+deprecate wtop_winget
+deprecate WindowsAppRuntime.2.0_winget
