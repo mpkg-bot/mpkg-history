@@ -12,8 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate scrcpygui_winget
-deprecate NetBeans_winget
-deprecate mods_winget
-deprecate wtop_winget
-deprecate WindowsAppRuntime.2.0_winget
+merging TeamViewer.Host_winget
+merging Skiff_winget
