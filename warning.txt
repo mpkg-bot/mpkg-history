@@ -1,4 +1,5 @@
-failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|iperf3|mpv.portable|quiterss.portable
+failed: boinc|xpdf-tools|GeForceGameReadyDriver.dch.notebook|qbittorrent|imdisk|sqlitebrowser|curl|nodejs-lts|ultradefrag|wireshark|veracrypt|iperf3|mpv.portable|quiterss.portable
+merging veracrypt
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,5 +13,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging TeamViewer.Host_winget
-merging Skiff_winget
+merging Downloader_winget
+merging BaseCamp_winget
+merging HMCL.Stable_winget
+merging HMCL.Stable.CNB_winget
+deprecate TeamViewer.Host_winget
+deprecate Skiff_winget
