@@ -12,8 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DISMTools.Stable_winget
-merging ai.ggcode-cli_winget
-deprecate FFmpeg.GPL.Shared_winget
-deprecate BeagleEditor_winget
-deprecate Chrome.Dev.EXE_winget
+deprecate ai.ggcode-cli_winget
+merging ai.ggcode-desktop_winget
+deprecate DISMTools.Stable_winget
+deprecate ai.ggcode-cli_winget
