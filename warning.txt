@@ -13,5 +13,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging FluxLAN_winget
-deprecate ai.ggcode-desktop_winget
+merging CLI.Preview_winget
+merging lore_winget
+merging rig_winget
+merging MissionKit.2026.Enterprise_winget
+merging Firefox.fa_winget
+deprecate FluxLAN_winget
