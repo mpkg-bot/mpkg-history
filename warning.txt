@@ -12,7 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Rust.MSVC_winget
-merging Quill_winget
-deprecate Chrome.Beta.EXE_winget
-deprecate Firefox.da_winget
+deprecate Rust.MSVC_winget
+merging Rust.GNU_winget
+merging Picoscope.T&M_winget
+merging KopioRapido.GUI_winget
+merging Bridge_winget
+deprecate Rust.MSVC_winget
+deprecate Quill_winget
