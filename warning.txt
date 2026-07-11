@@ -12,10 +12,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Rust.MSVC_winget
-merging Rust.GNU_winget
-merging Picoscope.T&M_winget
-merging KopioRapido.GUI_winget
-merging Bridge_winget
-deprecate Rust.MSVC_winget
-deprecate Quill_winget
+merging FFmpeg.LGPL.Shared_winget
+deprecate Rust.GNU_winget
+deprecate Picoscope.T&M_winget
+deprecate KopioRapido.GUI_winget
+deprecate Bridge_winget
