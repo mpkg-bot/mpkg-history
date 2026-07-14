@@ -12,10 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging WorkspaceONE.Tunnel_winget
-merging TickFlow_winget
-deprecate Effidit_winget
-deprecate ProxyCast_winget
-deprecate BridgeDesigner_winget
-deprecate Fellou_winget
-deprecate SSH.Server_winget
+merging Weaver_winget
+merging ProfitCommunicationCenter.7_winget
+merging a2acli_winget
+merging Compass.Full_winget
+merging Firefox.fa_winget
+deprecate WorkspaceONE.Tunnel_winget
+deprecate TickFlow_winget
