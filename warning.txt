@@ -12,4 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate videotoascii_winget
+merging TPM_winget
+merging Huddle_winget
+merging autoclicker_winget
