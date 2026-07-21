@@ -1,9 +1,9 @@
 {
     "id": "workrave",
-    "ver": "1.10.54",
-    "date": "2025-10-16",
+    "ver": "1.11.0",
+    "date": "2026-07-21",
     "links": [
-        "https://github.com/rcaelers/workrave/releases/download/v1_10_54/workrave-win32-v1.10.54.exe"
+        "https://github.com/rcaelers/workrave/releases/download/v1_11_0/workrave-windows-1.11.0.exe"
     ],
     "changelog": "https://workrave.org/blog/",
     "args": "/verysilent /norestart"
