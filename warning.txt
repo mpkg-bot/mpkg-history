@@ -1,4 +1,5 @@
-failed: sqlitebrowser|iperf3|curl|boinc|mpv.portable|quiterss.portable|ultradefrag|nodejs-lts|xpdf-tools|qbittorrent|imdisk|wireshark|GeForceGameReadyDriver.dch.notebook
+failed: sqlitebrowser|iperf3|veracrypt|curl|boinc|mpv.portable|quiterss.portable|ultradefrag|nodejs-lts|xpdf-tools|qbittorrent|imdisk|wireshark|GeForceGameReadyDriver.dch.notebook
+merging veracrypt
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,5 +13,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate MediaDownloader_winget
-deprecate Glyph_winget
+merging Firefox.ro_winget
