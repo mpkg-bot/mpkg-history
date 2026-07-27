@@ -14,7 +14,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Voiden_winget
-deprecate ProtonCLI_winget
-deprecate TimeTracker_winget
-deprecate LibreOffice.SDK_winget
