@@ -1,5 +1,5 @@
-failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|veracrypt|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
-merging veracrypt
+failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|ffmpeg|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
+merging ffmpeg
 merging nmap
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -14,3 +14,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Thunderbird.ESR_winget
+merging Firefox.ESR_winget
+merging VisualStudio.RemoteTools_winget
+merging QuickLook_winget
+merging lode_winget
