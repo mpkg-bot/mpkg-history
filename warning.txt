@@ -1,6 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|veracrypt|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
-merging veracrypt
-merging nmap
+failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nodejs-lts|iperf3
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -14,12 +12,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging leaf-md_scoop
-merging WindowsAppRuntime.2.1_winget
-merging TalkType_winget
-merging TeamViewer.QuickSupport_winget
-deprecate Thunderbird.ESR_winget
-deprecate Firefox.ESR_winget
-deprecate VisualStudio.RemoteTools_winget
-deprecate QuickLook_winget
-deprecate lode_winget
+deprecate leaf-md_scoop
+merging Bitbucket-CLI_winget
+merging Chrome.Dev.EXE_winget
+deprecate WindowsAppRuntime.2.1_winget
+deprecate TalkType_winget
+deprecate TeamViewer.QuickSupport_winget
