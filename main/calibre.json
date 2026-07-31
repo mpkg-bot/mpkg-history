@@ -1,12 +1,12 @@
 {
     "id": "calibre",
-    "ver": "9.11.0",
-    "date": "2026-07-03",
+    "ver": "9.12.0",
+    "date": "2026-07-31",
     "arch": {
         "64bit": "https://download.calibre-ebook.com/{ver}/calibre-64bit-{ver}.msi"
     },
     "sha256": {
-        "64bit": "sha512:3fd18b34e6332ba6a6e908e4e569648d0f50b6b8b73afdf32bf2662f51b98e6ae8fc869cb2aee0d973c55c02f30a6ef932e8c613980aed2c5ed14a2050ef27f0"
+        "64bit": "sha512:cd66bbf855d9c97ad6661ccfa81f4680bd3523f944be32d1471c3e01d346f1d816edbd92dc42813dd5997c1f9f35cc9c120859512cfe8c332ea5ec38a4280cc3"
     },
     "changelog": "https://calibre-ebook.com/whats-new",
     "args": "/quiet"
