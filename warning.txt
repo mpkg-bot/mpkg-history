@@ -14,15 +14,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging win11-toggle-rounded-corners_winget
-merging TeamViewer.Host_winget
-deprecate DeploymentToolkit_winget
-deprecate Picoscope.Automotive_winget
-deprecate Cate_winget
-deprecate wedi_winget
-deprecate Wenget_winget
-deprecate ffmpeg.lgpl_winget_0
-deprecate Chrome.Beta.EXE_winget
-deprecate AdvancedOfficePasswordRecovery_winget
-deprecate Eclipse.JEE_winget
-deprecate ffmpeg.lgpl_winget_1
+deprecate win11-toggle-rounded-corners_winget
+deprecate TeamViewer.Host_winget
