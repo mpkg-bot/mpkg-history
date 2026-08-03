@@ -14,5 +14,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate win11-toggle-rounded-corners_winget
-deprecate TeamViewer.Host_winget
+merging AccountRight.Server_winget
+merging Acrobat.Reader.64-bit_winget
