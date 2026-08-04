@@ -1,6 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|veracrypt|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
-merging veracrypt
-merging nmap
+failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nodejs-lts|iperf3
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -14,5 +12,6 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging AccountRight.Server_winget
-merging Acrobat.Reader.64-bit_winget
+merging NoteDeck_winget
+deprecate AccountRight.Server_winget
+deprecate Acrobat.Reader.64-bit_winget
