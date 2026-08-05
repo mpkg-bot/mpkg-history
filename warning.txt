@@ -12,6 +12,9 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging NoteDeck_winget
-deprecate AccountRight.Server_winget
-deprecate Acrobat.Reader.64-bit_winget
+merging Edge.Dev_winget
+merging PDFelement.12_winget
+merging Duplicati.Canary_winget
+merging crush_winget
+merging EverythingToolbar_winget
+deprecate NoteDeck_winget
