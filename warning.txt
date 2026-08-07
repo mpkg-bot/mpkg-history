@@ -1,4 +1,5 @@
-failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nodejs-lts|iperf3
+failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
+merging nmap
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,9 +13,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Edge.Dev_winget
-merging PDFelement.12_winget
-merging Duplicati.Canary_winget
-merging crush_winget
-merging EverythingToolbar_winget
-deprecate NoteDeck_winget
+merging rave_winget_0
+merging FFmpeg.LGPL_winget
+merging FFmpeg.GPL_winget
+merging rave_winget_1
+deprecate Edge.Dev_winget
+deprecate PDFelement.12_winget
+deprecate Duplicati.Canary_winget
+deprecate crush_winget
+deprecate EverythingToolbar_winget
