@@ -1,8 +1,8 @@
 {
     "id": "nmap",
-    "ver": "7.99",
+    "ver": "7.991",
     "links": [
-        "https://nmap.org/dist/nmap-7.99-setup.exe"
+        "https://nmap.org/dist/nmap-7.991-setup.exe"
     ],
     "changelog": "https://nmap.org/changelog.html",
     "args": "/S"

@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nmap|nodejs-lts|iperf3
-merging nmap
+failed: GeForceGameReadyDriver.dch.notebook|ultradefrag|xpdf-tools|wireshark|curl|mpv.portable|imdisk|boinc|quiterss.portable|sqlitebrowser|qbittorrent|nodejs-lts|iperf3
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -13,10 +12,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging flow_winget
-merging 360AlbumViewer_winget
-merging Installer.LANDrop_winget
-deprecate rave_winget_0
-deprecate FFmpeg.LGPL_winget
-deprecate FFmpeg.GPL_winget
-deprecate rave_winget_1
+merging SyncFramework.CoreComponents_winget
+merging PowerPanelPersonal_winget
+deprecate flow_winget
+deprecate 360AlbumViewer_winget
+deprecate Installer.LANDrop_winget
