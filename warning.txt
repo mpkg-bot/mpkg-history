@@ -12,8 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SyncFramework.CoreComponents_winget
-merging PowerPanelPersonal_winget
-deprecate flow_winget
-deprecate 360AlbumViewer_winget
-deprecate Installer.LANDrop_winget
+deprecate SyncFramework.CoreComponents_winget
+deprecate PowerPanelPersonal_winget
