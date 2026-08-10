@@ -12,5 +12,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate SyncFramework.CoreComponents_winget
-deprecate PowerPanelPersonal_winget
+merging AntCommander.Personal_winget
+merging FastGithub_winget
