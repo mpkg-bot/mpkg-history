@@ -12,6 +12,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Picoscope.T&M.EA_winget
-deprecate Chrome.Canary_winget
-deprecate axiom_winget
+merging PDFelement.CN_winget
