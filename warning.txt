@@ -1,4 +1,5 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|boinc|curl|nmap|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+merging nmap
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,4 +13,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFelement.CN_winget
+merging HalalDL.Lite_winget
+merging AionUi_winget
+merging OfficeCLI_winget
+merging VideOCR.GPU_winget
+merging ElyPrismLauncher.MinGW_winget
+merging Chrome.Dev_winget
+merging Thunderbird.he_winget
+merging Firefox.nb-NO_winget
+deprecate PDFelement.CN_winget
