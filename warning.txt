@@ -12,7 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chrome.Canary_winget
-merging Edge.Beta_winget
-deprecate Pulse_winget
-deprecate mdreader_winget
+deprecate Chrome.Canary_winget
+merging Chrome.Dev_winget
+deprecate Chrome.Canary_winget
+deprecate Edge.Beta_winget
