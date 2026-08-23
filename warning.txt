@@ -1,4 +1,5 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|boinc|curl|iperf3|wireshark|virtualbox|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+merging virtualbox
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
 merging ultradefrag
@@ -12,7 +13,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Chrome.Canary_winget
-merging Chrome.Dev_winget
-deprecate Chrome.Canary_winget
-deprecate Edge.Beta_winget
+deprecate Chrome.Dev_winget
