@@ -12,5 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging MaxTo_winget
-merging Linkly.Lite_winget
+merging Brave.Nightly_winget
+merging Coder_winget
+merging TeamViewer.Host_winget
+merging desktop_winget_6
+merging Mumble.Server_winget
+deprecate MaxTo_winget
+deprecate Linkly.Lite_winget
