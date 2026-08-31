@@ -12,11 +12,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DISMTools.Preview_winget
-merging ai.ggcode-desktop_winget
-deprecate RegistryCleaner_winget
-deprecate Sigma-File-Manager_winget
-deprecate gro_winget
-deprecate EntraChecks_winget
-deprecate sops_winget_0
-deprecate sops_winget_1
+deprecate ai.ggcode-desktop_winget
+merging ai.ggcode-cli_winget
+deprecate DISMTools.Preview_winget
+deprecate ai.ggcode-desktop_winget
