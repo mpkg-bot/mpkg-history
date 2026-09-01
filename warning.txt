@@ -12,5 +12,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Chrome.Dev_winget
-deprecate ai.ggcode-cli_winget
+merging matlab-mcp-core-server_scoop
+merging deepseek-tui_scoop
+merging Vantage_winget
+merging Firefox.he_winget
+deprecate Chrome.Dev_winget
