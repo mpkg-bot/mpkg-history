@@ -12,8 +12,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging matlab-mcp-core-server_scoop
-merging deepseek-tui_scoop
-merging Vantage_winget
-merging Firefox.he_winget
-deprecate Chrome.Dev_winget
+deprecate matlab-mcp-core-server_scoop
+deprecate deepseek-tui_scoop
+merging Picoscope.Automotive.EA_winget
+merging Thunderbird.he_winget
+merging Thunderbird.ESR.he_winget
+deprecate Vantage_winget
+deprecate Firefox.he_winget
