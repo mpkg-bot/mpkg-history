@@ -12,9 +12,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate open-tv_scoop
-deprecate Discord.PTB.x86_winget
-deprecate Duplicati.Beta_winget
-deprecate CodeSucker_winget
-deprecate Maka_winget
-deprecate Firefox.nb-NO_winget
