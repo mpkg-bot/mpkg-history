@@ -13,3 +13,16 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging ffmpeg.gpl_winget_0
+merging ffmpeg.gpl_winget_1
+merging notedeck_winget_0
+merging Electron.43_winget
+merging VoodooShield_winget
+merging Picoscope.T&M.EA_winget
+merging ffmpeg.shared_winget_0
+merging LocalFlow_winget
+merging teshi-engine_winget
+merging usage_winget
+merging notedeck_winget_1
+merging ffmpeg.shared_winget_1
+merging Yumedana_winget
