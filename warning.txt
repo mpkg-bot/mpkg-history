@@ -1,5 +1,4 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|veracrypt|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
-merging veracrypt
+failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -14,3 +13,4 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging Edge.Beta_winget
