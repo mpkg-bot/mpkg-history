@@ -13,4 +13,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging Edge.Beta_winget
+merging Defrag.Server_winget
+merging Chrome.Dev.EXE_winget
+merging Firefox.DeveloperEdition_winget
+deprecate Edge.Beta_winget
