@@ -1,12 +1,12 @@
 {
     "id": "ffmpeg",
-    "ver": "9.0.1",
-    "date": "2026-08-12",
+    "ver": "9.0.2",
+    "date": "2026-09-20",
     "arch": {
-        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build-shared.7z"
+        "64bit": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-full_build-shared.7z"
     },
     "sha256": {
-        "64bit": "cb4d5e8db6a3353bffdb2100d3eb4b76733457fa443215e236f57c99f9ffdca4"
+        "64bit": "4d2060a8b34a940aa47d785142055bb92a63053781e55f2ace4546edd519a8f5"
     },
     "changelog": "https://ffmpeg.org/index.html#news",
     "bin": [
