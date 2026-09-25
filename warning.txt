@@ -1,5 +1,5 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|veracrypt|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
-merging veracrypt
+failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|ffmpeg|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+merging ffmpeg
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -14,13 +14,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging mediadownloader_winget_0
-merging mediadownloader_winget_1
-merging Amethyst_winget
-merging orb_winget_2
-deprecate ndnx_winget
-deprecate myqueue_winget_0
-deprecate teshi_winget
-deprecate DateCalc_winget
-deprecate Nebula_winget
-deprecate myqueue_winget_1
+merging PDFelement.12_winget
+deprecate mediadownloader_winget_0
+deprecate mediadownloader_winget_1
+deprecate Amethyst_winget
+deprecate orb_winget_2
