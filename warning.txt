@@ -1,5 +1,4 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|ffmpeg|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
-merging ffmpeg
+failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -14,8 +13,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging PDFelement.12_winget
-deprecate mediadownloader_winget_0
-deprecate mediadownloader_winget_1
-deprecate Amethyst_winget
-deprecate orb_winget_2
+merging FreeVideoCutter_winget
+merging Trace_winget
+merging pxgo_winget
+merging Copilot_winget
+deprecate PDFelement.12_winget
