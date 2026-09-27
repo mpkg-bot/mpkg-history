@@ -13,8 +13,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging FreeVideoCutter_winget
-merging Trace_winget
-merging pxgo_winget
-merging Copilot_winget
-deprecate PDFelement.12_winget
+merging Tokeny_winget
+deprecate FreeVideoCutter_winget
+deprecate Trace_winget
+deprecate pxgo_winget
+deprecate Copilot_winget
