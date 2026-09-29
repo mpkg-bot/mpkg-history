@@ -13,7 +13,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging emplace_scoop
-merging Hydra_winget
-merging Windows_winget
-deprecate Tokeny_winget
+deprecate emplace_scoop
+merging AudioSwitcher_winget
+deprecate Hydra_winget
+deprecate Windows_winget
