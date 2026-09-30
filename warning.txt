@@ -13,7 +13,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate emplace_scoop
-merging AudioSwitcher_winget
-deprecate Hydra_winget
-deprecate Windows_winget
+merging TeamViewer.Host_winget
+merging ai.ggcode-desktop_winget
+merging VisualStudio.BuildTools_winget
+deprecate AudioSwitcher_winget
