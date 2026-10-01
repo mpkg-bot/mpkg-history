@@ -1,9 +1,9 @@
 {
     "id": "python",
-    "ver": "3.14.7",
+    "ver": "3.14.8",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.14.7/python-3.14.7.exe",
-        "64bit": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.14.8/python-3.14.8.exe",
+        "64bit": "https://www.python.org/ftp/python/3.14.8/python-3.14.8-amd64.exe"
     },
-    "changelog": "https://docs.python.org/release/3.14.7/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.14.8/whatsnew/changelog.html#changelog"
 }
