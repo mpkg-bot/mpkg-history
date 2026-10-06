@@ -13,3 +13,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
+merging jhead_scoop
+merging Acrobat.Reader.32-bit_winget
+merging MunderDifflin_winget
+merging coder-cli_winget
+merging Perplexity_winget
+merging ZUS_winget
+merging actionlint_winget
