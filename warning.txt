@@ -13,10 +13,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging ClaudeUsageTray_winget
-merging Docman.GP_winget
-merging Lumen_winget
-deprecate RAMView_winget
-deprecate LLVM-MinGW.MSVCRT_winget
-deprecate Edge.Beta_winget
-deprecate BingWallpaper_winget
+merging WGTunnel_winget
+merging Launch_winget
+deprecate ClaudeUsageTray_winget
+deprecate Docman.GP_winget
+deprecate Lumen_winget

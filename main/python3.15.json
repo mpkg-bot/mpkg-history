@@ -1,9 +1,14 @@
 {
-    "id": "python",
+    "id": "python3.15",
     "ver": "3.15.0",
+    "date": "2026-10-09",
     "arch": {
         "32bit": "https://www.python.org/ftp/python/3.15.0/python-3.15.0.exe",
         "64bit": "https://www.python.org/ftp/python/3.15.0/python-3.15.0-amd64.exe"
+    },
+    "sha256": {
+        "32bit": "md5:41.6\u00a0MB",
+        "64bit": "md5:43.3\u00a0MB"
     },
     "changelog": "https://docs.python.org/release/3.15.0/whatsnew/changelog.html#changelog"
 }
