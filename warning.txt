@@ -13,5 +13,3 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate WGTunnel_winget
-deprecate Launch_winget
