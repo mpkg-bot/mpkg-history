@@ -1,4 +1,8 @@
-failed: imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+failed: python-stable|imdisk|sqlitebrowser|nodejs-lts|xpdf-tools|sumatrapdf|boinc|curl|iperf3|wireshark|ultradefrag|qbittorrent|quiterss.portable|mpv.portable|GeForceGameReadyDriver.dch.notebook
+merging python3.15
+merging python3.14
+merging python-stable
+ dependency: python3.15|python3.14
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -13,8 +17,7 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging SublimeMerge.Portable_winget
-merging hyperdu_winget
-deprecate Squad_winget
-deprecate LLGo.MSVC_winget
-deprecate AndroidStudio.Beta_winget
+merging JDK.26_winget
+merging ClearVPN_winget
+deprecate SublimeMerge.Portable_winget
+deprecate hyperdu_winget
