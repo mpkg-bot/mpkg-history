@@ -1,14 +1,14 @@
 {
     "id": "python3.15",
-    "ver": "3.15.1",
-    "date": "2026-10-21",
+    "ver": "3.15.2",
+    "date": "2026-10-26",
     "arch": {
-        "32bit": "https://www.python.org/ftp/python/3.15.1/python-3.15.1.exe",
-        "64bit": "https://www.python.org/ftp/python/3.15.1/python-3.15.1-amd64.exe"
+        "32bit": "https://www.python.org/ftp/python/3.15.2/python-3.15.2.exe",
+        "64bit": "https://www.python.org/ftp/python/3.15.2/python-3.15.2-amd64.exe"
     },
     "sha256": {
-        "32bit": "md5:41.8\u00a0MB",
-        "64bit": "md5:43.4\u00a0MB"
+        "32bit": "md5:34.3\u00a0MB",
+        "64bit": "md5:35.9\u00a0MB"
     },
-    "changelog": "https://docs.python.org/release/3.15.1/whatsnew/changelog.html#changelog"
+    "changelog": "https://docs.python.org/release/3.15.2/whatsnew/changelog.html#changelog"
 }
