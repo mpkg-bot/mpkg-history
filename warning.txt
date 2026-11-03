@@ -1,7 +1,4 @@
-failed: 7zip|GeForceGameReadyDriver.dch.notebook|boinc|sumatrapdf|sqlitebrowser|IntelWirelessDriver.admin|xpdf-tools|curl|wireshark|iperf3|nodejs-lts|mpv.portable|quiterss.portable|qbittorrent|veracrypt|imdisk|ultradefrag
-merging 7zip
-merging IntelWirelessDriver.admin
-merging veracrypt
+failed: GeForceGameReadyDriver.dch.notebook|boinc|sumatrapdf|sqlitebrowser|xpdf-tools|curl|wireshark|iperf3|nodejs-lts|mpv.portable|quiterss.portable|qbittorrent|imdisk|ultradefrag
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -16,10 +13,11 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging eventstore_scoop
-merging sqlitestudio_scoop
-merging altsendme_scoop
-merging Picoscope.T&M.EA_winget
-merging Firefox.MSIX_winget
-merging libjpeg-turbo.GCC_winget
-deprecate DISMTools.Preview_winget
+deprecate eventstore_scoop
+deprecate sqlitestudio_scoop
+deprecate altsendme_scoop
+merging Hablara_winget
+merging Chrome_winget
+deprecate Picoscope.T&M.EA_winget
+deprecate Firefox.MSIX_winget
+deprecate libjpeg-turbo.GCC_winget
