@@ -13,11 +13,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate eventstore_scoop
-deprecate sqlitestudio_scoop
-deprecate altsendme_scoop
-merging Hablara_winget
-merging Chrome_winget
-deprecate Picoscope.T&M.EA_winget
-deprecate Firefox.MSIX_winget
-deprecate libjpeg-turbo.GCC_winget
+deprecate Chrome_winget
+merging Temurin.26.JDK_winget
+merging Firefox.son_winget
+deprecate Hablara_winget
+deprecate Chrome_winget
