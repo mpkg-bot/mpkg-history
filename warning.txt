@@ -1,5 +1,4 @@
-failed: GeForceGameReadyDriver.dch.notebook|boinc|sumatrapdf|sqlitebrowser|xpdf-tools|curl|wireshark|iperf3|nodejs-lts|mpv.portable|quiterss.portable|qbittorrent|veracrypt|imdisk|ultradefrag
-merging veracrypt
+failed: GeForceGameReadyDriver.dch.notebook|boinc|sumatrapdf|sqlitebrowser|xpdf-tools|curl|wireshark|iperf3|nodejs-lts|mpv.portable|quiterss.portable|qbittorrent|imdisk|ultradefrag
 merging sumatrapdf
 merging GeForceGameReadyDriver.dch.notebook
 merging xpdf-tools
@@ -14,10 +13,10 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging ninja-kitware_scoop
-merging recaf_scoop
-merging Atlas_winget
-merging WiraDesk_winget
-merging Impactor.GUI_winget
-deprecate Temurin.26.JDK_winget
-deprecate Firefox.son_winget
+deprecate ninja-kitware_scoop
+deprecate recaf_scoop
+merging ffmpeg.lgpl_winget_0
+merging ffmpeg.lgpl_winget_1
+deprecate Atlas_winget
+deprecate WiraDesk_winget
+deprecate Impactor.GUI_winget
