@@ -1,11 +1,12 @@
 {
     "id": "vcredist2010-x86",
     "ver": "10.0.40219.325",
-    "sha256": [
-        "99dce3c841cc6028560830f7866c9ce2928c98cf3256892ef8e6cf755147b0d8"
-    ],
-    "links": [
-        "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe"
-    ],
+    "arch": {
+        "64bit": [
+            "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe",
+            "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe"
+        ],
+        "32bit": "https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe"
+    },
     "args": "/quiet /norestart"
 }
