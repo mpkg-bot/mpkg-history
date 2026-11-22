@@ -1,9 +1,9 @@
 {
     "id": "sandboxie",
-    "ver": "5.73.8",
-    "date": "2026-10-17",
+    "ver": "5.74.1",
+    "date": "2026-11-21",
     "arch": {
-        "64bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.18.8/Sandboxie-Classic-x64-v5.73.8.exe"
+        "64bit": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.19.1/Sandboxie-Classic-x64-v5.74.1.exe"
     },
     "changelog": "https://github.com/sandboxie-plus/Sandboxie/releases/latest"
 }
