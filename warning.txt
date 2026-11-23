@@ -14,11 +14,5 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-merging DNClient.Desktop_winget
-merging WinLibs.POSIX.UCRT_winget
-deprecate FFmpeg.Shared_winget
-deprecate kanban_winget
-deprecate Arma3Sync_winget
-deprecate Garnet.DN9_winget
-deprecate FFmpeg.Essentials_winget
-deprecate PDFelement.CN_winget
+deprecate DNClient.Desktop_winget
+deprecate WinLibs.POSIX.UCRT_winget
