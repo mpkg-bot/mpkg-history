@@ -14,5 +14,12 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate DNClient.Desktop_winget
-deprecate WinLibs.POSIX.UCRT_winget
+merging PyPy.2.7_winget
+merging kanban_winget_0
+merging opentrack_winget
+merging OreNoFusen_winget
+merging Qube.CUDA_winget
+merging Firefox.son_winget
+merging AutoMouseClicker_winget
+merging kanban_winget_1
+merging Kiwi_winget
