@@ -14,8 +14,8 @@ merging iperf3
 merging quiterss.portable
 merging nodejs-lts
 merging wireshark
-deprecate Thunderbird.tr_winget
-merging mtop_winget
-merging Thunderbird.hsb_winget
-deprecate iProjection_winget
-deprecate Thunderbird.tr_winget
+merging DNClient.Server_winget
+merging NetPulse_winget
+merging VisualStudioCode.Insiders_winget
+deprecate mtop_winget
+deprecate Thunderbird.hsb_winget
